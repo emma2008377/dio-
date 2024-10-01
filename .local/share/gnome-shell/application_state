@@ -1,12 +1,12 @@
 <?xml version="1.0"?>
 <application-state>
   <context id="">
-    <application id="org.gnome.Evince.desktop" score="887" last-seen="1727769517"/>
+    <application id="org.gnome.Evince.desktop" score="887" last-seen="1727771042"/>
     <application id="thunderbird_thunderbird.desktop" score="0" last-seen="1727770228"/>
     <application id="org.gnome.Settings.desktop" score="126" last-seen="1727718764"/>
     <application id="gnome-language-selector.desktop" score="0" last-seen="1727710599"/>
-    <application id="firefox_firefox.desktop" score="6798" last-seen="1727770233"/>
-    <application id="org.gnome.Terminal.desktop" score="2262" last-seen="1727770223"/>
+    <application id="firefox_firefox.desktop" score="6900" last-seen="1727771305"/>
+    <application id="org.gnome.Terminal.desktop" score="2296" last-seen="1727771292"/>
     <application id="libreoffice-writer.desktop" score="3" last-seen="1727726144"/>
     <application id="org.gnome.Nautilus.desktop" score="46" last-seen="1727721948"/>
     <application id="yelp.desktop" score="1" last-seen="1727724166"/>

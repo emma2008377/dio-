@@ -1,2 +1,2 @@
-{"timestamp":48512034,"category":"browser.usage","name":"interaction","extra":{"source":"nav-bar","widget_id":"stop-reload-button","flow_id":"{bd039b55-1fb4-4df4-922b-a2a327ab0811}","glean_timestamp":"1727769907384"},"execution_counter":15}
-{"timestamp":48540521,"category":"browser.usage","name":"interaction","extra":{"widget_id":"back-button","source":"nav-bar","glean_timestamp":"1727769935870","flow_id":"{bd039b55-1fb4-4df4-922b-a2a327ab0811}"},"execution_counter":15}
+{"timestamp":49714164,"category":"browser.usage","name":"interaction","extra":{"flow_id":"{e5b1e61d-4623-4eb8-8d6b-2b715f27d0a2}","source":"nav-bar","glean_timestamp":"1727771109513","widget_id":"back-button"},"execution_counter":15}
+{"timestamp":49735892,"category":"browser.usage","name":"interaction","extra":{"widget_id":"back-button","glean_timestamp":"1727771131242","flow_id":"{e5b1e61d-4623-4eb8-8d6b-2b715f27d0a2}","source":"nav-bar"},"execution_counter":15}
