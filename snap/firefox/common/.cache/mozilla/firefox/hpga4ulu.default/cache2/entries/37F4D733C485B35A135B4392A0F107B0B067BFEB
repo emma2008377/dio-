@@ -1,0 +1,363 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="fr" lang="fr" dir="ltr">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<!---->
+<meta name="ROBOTS" content="NOINDEX, FOLLOW" />
+<title>Conditions d'utilisation des forums / S'inscrire / Forum Ubuntu-fr.org</title>
+      
+    <link rel="shortcut icon" href="//www-static.ubuntu-fr.org/theme2010/images/commun/ubuntu/icone.png"/>
+          <link rel="stylesheet" media="screen" type="text/css" title="Design Ubuntu" href="//www-static.ubuntu-fr.org/theme2010/css/forum.css" />
+    <link rel="stylesheet" media="screen" type="text/css" title="Design Ubuntu" href="//www-static.ubuntu-fr.org/theme2010/css/forum-ubuntu.css" />
+
+
+
+
+
+<link rel="stylesheet" type="text/css" href="style/Ubuntu.css" />
+    <script type="text/javascript" src="//www-static.ubuntu-fr.org/theme2010/js/common.js"></script> 
+    <script type="text/javascript">
+    var menu_hidden=0;
+    </script>
+    <script type="text/javascript" src="//www-static.ubuntu-fr.org/theme2010/js/menu.js"></script>
+  
+<!--[if lte IE 6]><script type="text/javascript" src="style/imports/minmax.js"></script><![endif]-->
+</head>
+
+<body>
+  <div id="accessibar">
+    <a href="#main" tabindex="1">Contenu</a> | <a href="#qsearch__in" tabindex="2">Rechercher</a> | <a href="#navigation" tabindex="3">Menus</a>
+  </div>
+  <div id="punregister">
+    <div id="page">
+
+      <div id="header">
+        <div id="logo">
+          <h1>Ubuntu-fr</h1>
+          <a href="http://www.ubuntu-fr.org" title="Accueil">Communauté francophone d'utilisateurs d'Ubuntu</a>
+        </div>
+
+        <form action="search_ubuntufr.php" id="search">
+          <fieldset>
+            <input type="text" value="Recherche rapide...." id="qsearch__in" accesskey="f" name="q" title="[F]" size="34" />
+            <select name="tsearch">
+              <option value="wiki">Documentation</option>
+              <option  value="forum" selected="selected">Forum</option>
+              <option  value="planet" >Planet</option>
+            </select>
+            <input type="submit" value="ok" class="button" title="Chercher" />
+          </fieldset>
+        </form>
+
+        <div id="brdwelcome" class="inbox">
+			<form action="login.php?action=in" accept-charset="utf-8" id="login_top" method="post"><fieldset>
+  <input type="hidden" name="form_sent" value="1" />
+<input type="hidden" name="redirect_url" value="//forum.ubuntu-fr.org/register.php" />
+<input type="text" placeholder="Identifiant" required="required" title="Entrez votre identifiant" name="req_username" size="9" /><input type="password" placeholder="Mot de passe" required="required" title="Entrez votre mot de passe" name="req_password" size="9" /><input type="submit" value="connexion" id="connect" /> / <a href="register.php">inscription</a></fieldset></form>
+			<div class="clearer"></div>
+		</div>
+ 
+        <div class="clearer"></div>
+      </div>
+
+      <div id="navigation">
+        <ul>
+          <li class="menu"><a id="menu-accueil" class="title" href="http://www.ubuntu-fr.org"><span>Accueil</span></a></li>
+          <li class="menu"><a id="menu-doc" class="title" href="http://doc.ubuntu-fr.org" title="Documentation Ubuntu francophone"><span>Documentation</span></a></li>
+          <li class="menu" id="active" >
+            <a id="menu-forum" class="title" href="index.php" title="Index du forum"><span>Forum</span></a>
+            <ul>
+              <li class="cat">
+                <h2>Navigation</h2>
+                <div class="inbox">
+			<ul>
+				<li id="navrules"><a href="misc.php?action=rules" title="Charte du Forum Ubuntu-fr">Règles</a></li>
+				<li id="navregister" class="isactive"><a href="register.php">Inscription</a></li>
+				<li id="navlogin"><a href="login.php">Identification</a></li>
+			</ul>
+		</div>
+              </li>
+              
+		<li class="cat"><h2>Liens de recherche</h2>
+		<div id="brdmenu" class="inbox">
+			<ul>
+				<li><a href="search.php?action=show_24h" title="300 dernières discussions actives">Messages récents</a></li>
+				<li><a href="search.php?action=show_unanswered" title="300 dernières discussions sans réponse">Discussions sans réponse</a></li>
+			</ul>
+		</div></li>
+	
+            </ul>
+          </li>
+          <li class="menu"><a id="menu-planet" class="title" href="http://planet.ubuntu-fr.org"><span>Planet</span></a></li>
+        </ul>
+        <div class="clearer"></div>
+      </div>
+    
+      <div id="wrapper">
+        <div id="announce" class="block">
+	<div class="hd"><h2><span>Annonce</span></h2></div>
+	<div class="box">
+		<div id="announce-block" class="inbox">
+			<div class="usercontent"><p>Si vous avez des soucis pour rester connecté, déconnectez-vous puis reconnectez-vous depuis <a href='https://forum.ubuntu-fr.org/login.php'>ce lien</a> en cochant la case <br/>Me connecter automatiquement lors de mes prochaines visites.</p><p><a href='https://doc.ubuntu-fr.org/groupes/ubuntu-fr-forum'>À propos de l'équipe du forum.</a></p></div>
+		</div>
+	</div>
+</div>
+        <div id="main">
+          <div id="hidemenu" title="Masquer le menu"></div><!--
+	<div id="hidemenu"><a accesskey="z" title="Masquer le menu - AccessKey Z" href="javascript:switchMenuVisible()"><span>&nbsp;</span></a></div>-->
+          <div id="rules" class="blockform">
+	<div class="hd"><h2><span>Conditions d'utilisation des forums</span></h2></div>
+	<div class="box">
+		<form method="get" action="register.php">
+			<div class="inform">
+				<fieldset>
+					<legend>Vous devez accepter les conditions d'utilisation suivantes pour vous inscrire sur ces forums.</legend>
+					<div class="infldset">
+						<div class="usercontent"><style type="text/css">
+#regles h3 {
+  margin: 2em 0 0.8em 0;
+}
+#regles ol {
+  list-style-type: decimal;
+}
+
+#regles ol li {
+  list-style-type: decimal;
+  margin-left: 40px;
+}
+</style>
+
+<div id="regles">
+
+<p>Ce forum est mis &agrave; disposition des utilisateurs et des utilisatrices de la communaut&eacute; francophone d'Ubuntu par l'association Ubuntu-fr. En vous inscrivant, en y participant, vous vous engagez &agrave; respecter la pr&eacute;sente charte.
+<br />
+
+<h3 id="Loi">Loi</h3>
+
+<ol>
+<li>Le forum Ubuntu-fr, comme l'association qui le met &agrave; disposition, est soumis &agrave; la l&eacute;gislation fran&ccedil;aise.</li>
+<li>Des donn&eacute;es de connexion &agrave; caract&egrave;re personnel (adresses IP&hellip;) sont r&eacute;cup&eacute;r&eacute;es de mani&egrave;re automatique et conserv&eacute;e &agrave; des fins de log, conform&eacute;ment &agrave; nos obligations l&eacute;gales. Nous nous engageons &agrave; ne les divulguer qu'aux autorit&eacute;s comp&eacute;tentes, et uniquement sur injonction judiciaire.</li>
+<li>Les messages &agrave; caract&egrave;re illicite (racisme, sexisme, homophobie, discrimination religieuse, contrefa&ccedil;on, acc&egrave;s frauduleux&hellip;) sont bien &eacute;videmment interdits ; il en est de m&ecirc;me pour les messages &agrave; caract&egrave;re pornographique ou incitant &agrave; la violence.</li>
+</ol>
+
+<h3 id="Objet">Objet</h3>
+
+<ol>
+<li>Le forum est compos&eacute; de deux parties : les sections de support, d&eacute;di&eacute;es au support autour d'Ubuntu, et les sections diverses, ayant une vocation plus large. La priorit&eacute; dans la gestion du forum est donn&eacute;e aux sections de support, o&ugrave; la tol&eacute;rance aux d&eacute;bordements est r&eacute;duite.
+<li>Ce forum &eacute;tant d&eacute;di&eacute; au support autour du syst&egrave;me Ubuntu, les demandes d'aide relatives &agrave; d'autres syst&egrave;mes n'ont pas leur place en section support, exception faite des versions d&eacute;riv&eacute;es d'Ubuntu n'ayant pas de forum francophone d&eacute;di&eacute; (pour une liste non-exhaustive des forums disponibles pour d'autres syst&egrave;mes, n'h&eacute;sitez pas &agrave; vous r&eacute;f&eacute;rer &agrave; <a href="https://doc.ubuntu-fr.org/derivees_d_ubuntu">cette page</a>. Des discussions &agrave; ce sujet peuvent cependant &ecirc;tre post&eacute;es dans les sections diverses.</li>
+<li>Le forum s'adressant &agrave; des personnes de tous niveaux, aucune question ne saurait &ecirc;tre consid&eacute;r&eacute;e comme sujette &agrave; moquerie.</li>
+</ol>
+
+
+<h3 id="Respect">Respect</h3>
+
+<ol>
+<li>Les membres du forum Ubuntu-fr doivent se comporter entre eux de mani&egrave;re respectueuse. Les insultes et d&eacute;nigrements, envers les membres comme envers leurs choix d'utilisation sont interdits, de m&ecirc;me qu'en support, les renvois sans m&eacute;nagement &agrave; la lecture de la documentation (&laquo; RTFM &raquo;) ou les tournures visant &agrave; se moquer d'un suppos&eacute; manque d'investissement de la personne demandeuse (ex : liens lmgtfy).</li>
+<li>Pour les demandes techniques, la priorit&eacute; doit &ecirc;tre donn&eacute;e &agrave; une solution tenant compte de l'environnement utilisateur. Les suggestions de migrations (changement d'environnement de bureau, changement de syst&egrave;me) ne doivent &ecirc;tre abord&eacute;es qu'&agrave; titre compl&eacute;mentaire, ou si aucune autre solution n'a pu &ecirc;tre trouv&eacute;e.</li>
+<li>Les contributions au forum sont b&eacute;n&eacute;voles, sans aucune obligation de r&eacute;sultat : l'aide apport&eacute;e sur ce forum n'est pas un d&ucirc; et l'urgence de la situation du point de vue de la personne demandeuse ne lui apporte aucune priorit&eacute;. Les tags tels que &laquo; [Urgent] &raquo; sont interdits, hors cas d'avertissement s&eacute;rieux touchant l'ensemble de la communaut&eacute; (faille de s&eacute;curit&eacute; critique&hellip;)</li>
+</ol>
+
+
+<h3 id="Autonomie">Autonomie</h3>
+
+<ol>
+<li>Il est conseill&eacute;, avant de poser une question, de v&eacute;rifier qu'une r&eacute;ponse ne se trouve pas d&eacute;j&agrave; dans la documentation ou dans un autre sujet du forum. Les doublons volontaires sont interdits. En revanche, les questions diff&eacute;rentes doivent &ecirc;tre trait&eacute;es dans un sujet diff&eacute;rent, afin de gagner en lisibilit&eacute;. Les titres des discussions doivent &ecirc;tre explicites.</li>
+<li>Autant que possible, les sujets d'aide doivent rester auto-suffisants : dans le cas o&ugrave; la citation d'une documentation externe serait requise pour r&eacute;soudre un probl&egrave;me, il est demand&eacute; de mentionner explicitement les passages utiles de cette documentation dans son message, afin que celui-ci reste compr&eacute;hensible m&ecirc;me si la page externe contenant les informations venait &agrave; dispara&icirc;tre ou &agrave; &ecirc;tre modifi&eacute;e. De m&ecirc;me, dans les sections diverses, il est recommand&eacute; de pr&eacute;ciser en quelques courtes phrases l'objet des liens post&eacute;s.</li>
+<li>La possibilit&eacute; de supprimer ses propres messages est laiss&eacute;e aux titulaires du statut de &laquo; membre &raquo;  (hormis le premier message de la discussion, pour des raisons techniques), mais son usage doit &ecirc;tre limit&eacute; aux cas o&ugrave; cela n'impacte pas la suite des discussions.</li>
+<li>Afin de faciliter le suivi des discussions, il est recommand&eacute; de mettre &agrave; jour leurs titres (ce qui se fait en &eacute;ditant le premier message) afin de rajouter des tags tels que &laquo; [R&eacute;solu] &raquo;.</li>
+</ol>
+
+
+<h3 id="Pollution">Pollution</h3>
+
+<ol>
+<li>Le flood (succession de messages d'un m&ecirc;me auteur en un laps de temps court, y compris les &laquo; up &raquo;), le spam (messages ind&eacute;sirables visant par exemple &agrave; amener l'internaute &agrave; cliquer sur un lien), le pros&eacute;lytisme et les hors-sujets intentionnels sont interdits, tant sur le forum que par le biais de la messagerie priv&eacute;e.</li>
+<li>Les URL raccourcies ne permettant pas de savoir vers quel site on est redirig&eacute;, et aucune n&eacute;cessit&eacute; technique propre au forum ne n&eacute;cessitant leur emploi, l'usage des raccourcisseurs d'URL est interdit.</li>
+<li>Les liens commerciaux et petites annonces commerciales sont soumis &agrave; autorisation pr&eacute;alable. La promotion de sites non-commerciaux sans rapport avec Ubuntu, ou le logiciel libre en g&eacute;n&eacute;ral, est &agrave; &eacute;viter ; les signatures des membres pouvant toutefois &ecirc;tres utilis&eacute;es dans ce but.</li>
+<li>Les contraintes de connexion et de taille d'&eacute;cran de certains participants font que les images trop grandes (au del&agrave; de 300&times;300 pixels) ou trop lourdes (plus de 80 Ko) doivent &ecirc;tre &eacute;vit&eacute;es. Utilisez si possible des miniatures, et privil&eacute;giez les h&eacute;bergements respectueux de l'utilisateur. N'h&eacute;sitez pas &agrave; vous r&eacute;f&eacute;rer &agrave; <a href="https://doc.ubuntu-fr.org/capture_d_ecran#heberger_une_capture_d_ecran">cette page</a> de la documentation.</li>
+<li>Ce forum n'a aucune vocation commerciale, aussi tout message proposant des produits, services ou &eacute;changes financiers est interdit, sauf autorisation expresse de l'&eacute;quipe de mod&eacute;ration.</li>
+</ol>
+
+
+<h3 id="Politesse">Politesse</h3>
+<ol>
+
+<li>La langue du forum est le fran&ccedil;ais. Il est recommand&eacute; d'&ecirc;tre attentif &agrave; la lisibilit&eacute; de ses messages, par la relecture et une attention port&eacute;e &agrave; l'orthographe, &agrave; la ponctuation, &agrave; la grammaire et &agrave; l'a&eacute;ration du texte. Les fautes volontaires et l'usage de langages &laquo; SMS &raquo; ou &laquo; l33t &raquo; sont ind&eacute;sirables. En cas d'erreur, la possibilit&eacute; est donn&eacute;e d'&eacute;diter son message.</li>
+<li>Cela ne doit n&eacute;anmoins pas conduire &agrave; des attaques, des moqueries ou des d&eacute;tournements de sujet sur la forme d'un message.</li>
+<li>Le moteur BBCode fourni par le forum permet une mise en forme efficace : n'h&eacute;sitez pas &agrave; vous en servir. En particulier, les citations doivent utiliser des balises &laquo; [quote] &raquo;, avec pr&eacute;cision de l'auteur des propos ; et les retours de commandes doivent &ecirc;tre plac&eacute;es entre balises &laquo; [code] &raquo;. Les abus de formatage (citations plus longues que le message y r&eacute;pondant ; usage important ou syst&eacute;matique des couleurs ou smileys&hellip;) sont cependant &agrave; &eacute;viter. </li>
+<li>Dire bonjour et remercier les contributeurs n'est jamais superflu. D'une mani&egrave;re g&eacute;n&eacute;rale, le respect du <a href="http://wiki.ubuntu-fr.org/codedeconduite">code de conduite</a> et de la <a href="http://www.atoute.org/n/article1.html">netiquette</a> sont pr&eacute;f&eacute;rables.</li>
+</ol>
+
+
+<h3 id="Statuts">Statuts</h3>
+
+Hors cas sp&eacute;cifiques (dus par exemple &agrave; des probl&egrave;mes de comportement), les personnes disposant d'un compte sur le forum sont r&eacute;parties dans les groupes suivants :<br>
+<ul><li><b>Nouveaux</b> : contenant les personnes r&eacute;cemment inscrites sur le forum, ce groupe dispose d'acc&egrave;s limit&eacute;s &agrave; certaines sections ou fonctionnalit&eacute;s potentiellement sensibles ou probl&eacute;matiques ; mais peut participer sans restriction aux sections de support et au caf&eacute;.</li>
+<li><b>Membres</b> : la majorit&eacute; des membres &laquo; ordinaires &raquo; du forum, disposant des droits normaux. Le passage du groupe &laquo; Nouveaux &raquo; au groupe &laquo; Membres &raquo; se fait de mani&egrave;re semi-automatique, selon l'implication, aucune demande pr&eacute;alable n'&eacute;tant requise.</li>
+<li><b>Traders</b> : les membres de ce groupe ont obtenu une autorisation sp&eacute;ciale concernant des activit&eacute;s commerciales (notamment, le droit de poster dans la section &laquo; Revendeurs libres &raquo;). L'acc&egrave;s au statut de Trader se fait sur demande motiv&eacute;e aupr&egrave;s de l'&eacute;quipe de mod&eacute;ration, qui d&eacute;cidera ou non d'y donner suite et motivera sa d&eacute;cision.</li>
+<li><b>Mod&eacute;rateurs/Administrateurs</b> : l'&eacute;quipe technique et de mod&eacute;ration du forum. Les volontaires souhaitant int&eacute;grer l'&eacute;quipe de mod&eacute;ration doivent envoyer une demande motiv&eacute;e &agrave; l'&eacute;quipe de mod&eacute;ration, qui d&eacute;cidera ou non d'y donner suite et motivera sa d&eacute;cision.</li>
+</ul>
+
+
+<h3 id="Moderation">Mod&eacute;ration</h3>
+<ol>
+
+<li>L'&eacute;quipe de mod&eacute;ration en charge du forum a toute l&eacute;gitimit&eacute; &agrave; estimer les manquements aux r&egrave;gles ci-dessus. Elle ne peut cependant pas suivre l'activit&eacute; de l'ensemble du forum : les messages probl&eacute;matiques doivent lui &ecirc;tre signal&eacute;s par le biais de la fonction pr&eacute;vue &agrave; cet effet (laquelle ne doit pas &ecirc;tre utilis&eacute;e pour demander de l'aide technique). Les d&eacute;cisions &eacute;tant coll&eacute;giales et d&eacute;pendant de la pr&eacute;sence d'une &eacute;quipe elle aussi b&eacute;n&eacute;vole, aucun d&eacute;lai de traitement n'est garanti.</li>
+<li>Les actions de mod&eacute;ration peuvent consister en une modification &mdash; manuelle ou automatique &mdash; des parties probl&eacute;matiques d'un message, &agrave; un retrait du message entier, voire de l'avatar ou de la signature d'un membre. Les discussions peuvent &ecirc;tre scind&eacute;es, fusionn&eacute;es, d&eacute;plac&eacute;es ou ferm&eacute;es selon les besoins. Les membres transgressant les r&egrave;gles peuvent &ecirc;tre exclus du forum de fa&ccedil;on temporaire ou d&eacute;finitive (toute r&eacute;inscription visant &agrave; contourner une telle exclusion justifierait une exclusion du nouveau compte).</li>
+<li>Les d&eacute;cisions de mod&eacute;ration sont souveraines et ne doivent pas &ecirc;tre remises en cause sur le forum. Les membres peuvent toutefois faire part de leurs questions ou remarques sur la liste de diffusion pr&eacute;vue &agrave; cet effet (moderateurs [at] ubuntu-fr.org).</li>
+</ol>
+
+</p>
+</div>
+
+<br /><br /><br /></div>
+					</div>
+				</fieldset>
+			</div>
+			<p class="buttons"><input type="submit" name="agree" value="J'accepte" /> <input type="submit" name="cancel" value="Je refuse" /></p>
+		</form>
+	</div>
+</div>
+        </div>
+
+        <div id="footer">
+          <div id="brdfooter" class="block">
+	<h2><span>Pied de page des forums</span></h2>
+	<div class="box">
+		<div id="brdfooternav" class="inbox">
+			<div class="conl">
+				<form id="qjump" method="get" action="viewforum.php">
+					<div><label><span>Atteindre<br /></span>
+					<select name="id" onchange="window.location=('viewforum.php?id='+this.options[this.selectedIndex].value)">
+						<optgroup label="Débuter avec Ubuntu">
+							<option value="9">Questions et informations avant l&#039;installation</option>
+							<option value="10">Installation d&#039;Ubuntu</option>
+						</optgroup>
+						<optgroup label="Configuration matérielle">
+							<option value="27">Affichage et cartes graphiques</option>
+							<option value="16">Accès internet et réseaux</option>
+							<option value="79">Imprimantes et scanners</option>
+							<option value="6">Autres types de matériel</option>
+						</optgroup>
+						<optgroup label="Utilisation générale">
+							<option value="25">Installation de logiciels et changements de version</option>
+							<option value="13">Bureautique et logiciels pour l&#039;internet et le réseau</option>
+							<option value="17">Lecture et configuration multimédia</option>
+							<option value="81">Création graphique, musicale et vidéo</option>
+							<option value="40">Logiciels éducatifs</option>
+							<option value="15">Jeux</option>
+							<option value="78">Terminal, scripts et ligne de commande</option>
+							<option value="65">Accessibilité</option>
+							<option value="18">Autres logiciels et problèmes généraux</option>
+							<option value="5">Archives</option>
+						</optgroup>
+						<optgroup label="Environnements">
+							<option value="121">GNOME</option>
+							<option value="66">KDE/Plasma</option>
+							<option value="38">XFCE</option>
+							<option value="101">LXQt / LXDE</option>
+							<option value="201">Mate</option>
+							<option value="204">Budgie</option>
+							<option value="37">Unity</option>
+							<option value="207">Cinnamon</option>
+							<option value="41">Autres environnements et personnalisations d&#039;Ubuntu</option>
+						</optgroup>
+						<optgroup label="Utilisations avancées">
+							<option value="51">Ubuntu en entreprise</option>
+							<option value="28">Serveurs</option>
+							<option value="63">Virtualisation et émulation</option>
+							<option value="23">Trucs, astuces et scripts utiles</option>
+							<option value="35">Développement et programmation</option>
+							<option value="91">Sécurité</option>
+							<option value="206">WSL - Ubuntu Core</option>
+							<option value="131">Ubuntu Touch (smartphones et tablettes)</option>
+							<option value="53">Version instable : 24.10 Oracular Oriole</option>
+						</optgroup>
+						<optgroup label="Activités autour du libre">
+							<option value="29">Événements</option>
+							<option value="69">Vos développements libres</option>
+							<option value="71">Vos sites sur le libre</option>
+							<option value="73">Revendeurs libres</option>
+						</optgroup>
+						<optgroup label="Divers">
+							<option value="42">Actualités autour du logiciel libre</option>
+							<option value="21">À propos du site - Contribution(s)</option>
+							<option value="171">Café Ubuntu</option>
+						</optgroup>
+						<optgroup label="Sous-forums">
+							<option value="22">LiveCD/LiveUSB</option>
+							<option value="7">Archives</option>
+							<option value="205">NAS</option>
+							<option value="181">Être ou ne pas être…?</option>
+							<option value="111">Gnome2</option>
+							<option value="82">WiFi</option>
+							<option value="61">Wubi : installation dans Windows</option>
+							<option value="4">Archive version instable</option>
+							<option value="20">Autres architectures</option>
+						</optgroup>
+					</select></label>
+					<input type="submit" value="Aller" accesskey="g" />
+					</div>
+				</form>
+			</div>
+			<div class="conr">
+				<p id="poweredby">Propulsé par <a href="http://fluxbb.org/">FluxBB</a></p>
+			</div>
+			<div class="clearer"></div>
+		</div>
+	</div>
+</div>
+          <div class="end-box"><div><!-- Bottom corners --></div></div>
+        </div>
+      </div>
+
+	    <div class="block-inner">
+
+        <div class="content">
+          <ul class="menu"><li class="leaf first contact"><a href="http://www.ubuntu-fr.org/contacts">Contact</a></li>
+          </ul>
+        </div>
+
+        <div class="clearer"></div>
+      </div>
+    </div>
+  </div>
+  <!-- Inclusion du script pour les stats de Sp4rKy -->
+  <!-- Piwik -->
+<script type="text/javascript">
+  var _paq = _paq || [];
+  _paq.push(["setDomains", ["*.forum.ubuntu-fr.org","*.forum.ubuntu-fr.org"]]);
+  _paq.push(['trackPageView']);
+  _paq.push(['enableLinkTracking']);
+  (function() {
+    var u="//piwik.ubuntu-fr.org/";
+    _paq.push(['setTrackerUrl', u+'piwik.php']);
+    _paq.push(['setSiteId', 2]);
+    var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+    g.type='text/javascript'; g.async=true; g.defer=true; g.src=u+'piwik.js'; s.parentNode.insertBefore(g,s);
+  })();
+</script>
+<noscript><p><img src="//piwik.ubuntu-fr.org/piwik.php?idsite=2" style="border:0;" alt="" /></p></noscript>
+<!-- End Piwik Code -->
+
+</body>
+</html>
+��&�9      f��Ef��LGaVCf��E   T    O^partitionKey=%28https%2Cubuntu-fr.org%29,:https://forum.ubuntu-fr.org/register.php necko:classified 1 strongly-framed 1 security-info FnhllAKWRHGAlo+ESXykKAAAAAAAAAAAwAAAAAAAAEaphjojH6pBabDSgSnsfLHeAAAAAgAAAAAAAAAAAAAAAAAAAAEAOQFmCjImkVxP+7sgiYWmMt8FvcOXmlQiTNWFiWlrbpbqgwAAAAAAAAX6MIIF9jCCBN6gAwIBAgISBNacbHgN3o5PSe7Gala/aaZxMA0GCSqGSIb3DQEBCwUAMDMxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQwwCgYDVQQDEwNSMTEwHhcNMjQwODMwMjMxNDQyWhcNMjQxMTI4MjMxNDQxWjAeMRwwGgYDVQQDExNmb3J1bS51YnVudHUtZnIub3JnMIICIjANBgkqhkiG9w0BAQEFAAOCAg8AMIICCgKCAgEA2UaE7E9M9HsqhGWtZPreA27BHGpb2ltjsn1vYIdZozKUNbGO/Y8HzpZk5C1YGvUwxAAxMlBImySENnJWUvO/8m7wdg2QigzqbbwKKhkTOUnmlMKS0cMk/HmiCYrD5EEA3WZE1GThheXsUNUPTRDkeaoFOd/j/2CaOGjX62ukEUHiAuKqFJSeVuW/LlAZC6KxznCf8Us+iedj7ixwQ9KDbZG52G/L9kMvDet+oy3F+sujB574wwF4TxZIigGzwTJ1Oi8p2i6zLcDiTD5T+lrtqiAqhaiXmQG1N2i8hdh7sjXqRcz8O0WVyW1UdaZd50fjL9k9H5/eFH/02K/8zKvZO25kctdgXA0BSiqMNyXtJYO0F97OIMg8udA9fGwQkq50uxQ/i5N1KJI8nNKuZttbtXtFQVhw62ab4R6klV3C4XQHjWZZ4RWANjDbTCKSDF+uoFAQIozr0GVp31XudBjHU5zU2X64QcmLqmXZaBgcKbRkjRAU1dbY2H1KV8t+MmZpuOsvROj93Gn/jYtOm4XSKE9imfc09368R5/ALJ/NoAtlF5gelanuFcthPf7ZLE0l1Z6fxuvuGYqgfoQmNZoBKpVBlJ5rLgo3k4VYBsPoduuJyPMHaEiHXbSEI4t9PU8dO37fT9YDo3X5TKw+FhB7DINKo76+8n10dApa+7GiZ6MCAwEAAaOCAhcwggITMA4GA1UdDwEB/wQEAwIFoDAdBgNVHSUEFjAUBggrBgEFBQcDAQYIKwYBBQUHAwIwDAYDVR0TAQH/BAIwADAdBgNVHQ4EFgQUUOVnf5mGsFcU6cGzFcoUjWL4V54wHwYDVR0jBBgwFoAUxc9GpOr0w8B6bJXELbBeki8m47kwVwYIKwYBBQUHAQEESzBJMCIGCCsGAQUFBzABhhZodHRwOi8vcjExLm8ubGVuY3Iub3JnMCMGCCsGAQUFBzAChhdodHRwOi8vcjExLmkubGVuY3Iub3JnLzAeBgNVHREEFzAVghNmb3J1bS51YnVudHUtZnIub3JnMBMGA1UdIAQMMAowCAYGZ4EMAQIBMIIBBAYKKwYBBAHWeQIEAgSB9QSB8gDwAHYAPxdLT9ciR1iUHWUchL4NEu2QN38fhWrrwb8ohez4ZG4AAAGRpcdhFAAABAMARzBFAiEAy/XTWpUoGeOOo46KTv6iOHkcUunFji3UUEAPlpPAIQsCIH9S0jkXtiXq7ftGwPSLV/yG2tkzu00fg5EtNW9dJwumAHYA7s3QZNXbGs7FXLedtM0TojKHRny87N7DUUhZRnEftZsAAAGRpcdhJAAABAMARzBFAiB5Rjz5rKLjXuSTVpUr+3y+3j1zpICqcXgJFkNwqKDAdwIhAJbZk+BDNXL8BfxTNxqS8ODRUIgcpWcyPlvDIJ8HxEfgMA0GCSqGSIb3DQEBCwUAA4IBAQCGHJtL1ihYV8Dzif4fNEDxbImcz0FCwoW1pwNtWr7TAOMcS40neZVm5p33133KyMo37jRQRLQQ+V0Ta1U0dSlLEwvJC54A/sSUuyEKcPCqk1aNUVXXQDqNqcuGV0m9CeBvDBNhdzzDPhzV2/24gQMSGZG9RtsETTdISMYpOYfXnN50o3PAHQS+IYRuRx6mEmFKdhaXWG+r8HgLwudvgaV0kolow1jFbPVcLOQJtR1yKbXUR7UWkkKZnXxEykN/b+jve7CMI4abX1PJZOBbrlEW2V9JDIhIeY8IYc+rKwLhi9FVRvHYYPfnKcXLHxhw50yPp/k3kuzGx9jMSKQIGWQRzKgAAwAAAAAAAQEAAAAAAAAGeDI1NTE5AAAADlJTQS1QU1MtU0hBMjU2AANmCjImkVxP+7sgiYWmMt8FvcOXmlQiTNWFiWlrbpbqgwAAAAAAAAX6MIIF9jCCBN6gAwIBAgISBNacbHgN3o5PSe7Gala/aaZxMA0GCSqGSIb3DQEBCwUAMDMxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQwwCgYDVQQDEwNSMTEwHhcNMjQwODMwMjMxNDQyWhcNMjQxMTI4MjMxNDQxWjAeMRwwGgYDVQQDExNmb3J1bS51YnVudHUtZnIub3JnMIICIjANBgkqhkiG9w0BAQEFAAOCAg8AMIICCgKCAgEA2UaE7E9M9HsqhGWtZPreA27BHGpb2ltjsn1vYIdZozKUNbGO/Y8HzpZk5C1YGvUwxAAxMlBImySENnJWUvO/8m7wdg2QigzqbbwKKhkTOUnmlMKS0cMk/HmiCYrD5EEA3WZE1GThheXsUNUPTRDkeaoFOd/j/2CaOGjX62ukEUHiAuKqFJSeVuW/LlAZC6KxznCf8Us+iedj7ixwQ9KDbZG52G/L9kMvDet+oy3F+sujB574wwF4TxZIigGzwTJ1Oi8p2i6zLcDiTD5T+lrtqiAqhaiXmQG1N2i8hdh7sjXqRcz8O0WVyW1UdaZd50fjL9k9H5/eFH/02K/8zKvZO25kctdgXA0BSiqMNyXtJYO0F97OIMg8udA9fGwQkq50uxQ/i5N1KJI8nNKuZttbtXtFQVhw62ab4R6klV3C4XQHjWZZ4RWANjDbTCKSDF+uoFAQIozr0GVp31XudBjHU5zU2X64QcmLqmXZaBgcKbRkjRAU1dbY2H1KV8t+MmZpuOsvROj93Gn/jYtOm4XSKE9imfc09368R5/ALJ/NoAtlF5gelanuFcthPf7ZLE0l1Z6fxuvuGYqgfoQmNZoBKpVBlJ5rLgo3k4VYBsPoduuJyPMHaEiHXbSEI4t9PU8dO37fT9YDo3X5TKw+FhB7DINKo76+8n10dApa+7GiZ6MCAwEAAaOCAhcwggITMA4GA1UdDwEB/wQEAwIFoDAdBgNVHSUEFjAUBggrBgEFBQcDAQYIKwYBBQUHAwIwDAYDVR0TAQH/BAIwADAdBgNVHQ4EFgQUUOVnf5mGsFcU6cGzFcoUjWL4V54wHwYDVR0jBBgwFoAUxc9GpOr0w8B6bJXELbBeki8m47kwVwYIKwYBBQUHAQEESzBJMCIGCCsGAQUFBzABhhZodHRwOi8vcjExLm8ubGVuY3Iub3JnMCMGCCsGAQUFBzAChhdodHRwOi8vcjExLmkubGVuY3Iub3JnLzAeBgNVHREEFzAVghNmb3J1bS51YnVudHUtZnIub3JnMBMGA1UdIAQMMAowCAYGZ4EMAQIBMIIBBAYKKwYBBAHWeQIEAgSB9QSB8gDwAHYAPxdLT9ciR1iUHWUchL4NEu2QN38fhWrrwb8ohez4ZG4AAAGRpcdhFAAABAMARzBFAiEAy/XTWpUoGeOOo46KTv6iOHkcUunFji3UUEAPlpPAIQsCIH9S0jkXtiXq7ftGwPSLV/yG2tkzu00fg5EtNW9dJwumAHYA7s3QZNXbGs7FXLedtM0TojKHRny87N7DUUhZRnEftZsAAAGRpcdhJAAABAMARzBFAiB5Rjz5rKLjXuSTVpUr+3y+3j1zpICqcXgJFkNwqKDAdwIhAJbZk+BDNXL8BfxTNxqS8ODRUIgcpWcyPlvDIJ8HxEfgMA0GCSqGSIb3DQEBCwUAA4IBAQCGHJtL1ihYV8Dzif4fNEDxbImcz0FCwoW1pwNtWr7TAOMcS40neZVm5p33133KyMo37jRQRLQQ+V0Ta1U0dSlLEwvJC54A/sSUuyEKcPCqk1aNUVXXQDqNqcuGV0m9CeBvDBNhdzzDPhzV2/24gQMSGZG9RtsETTdISMYpOYfXnN50o3PAHQS+IYRuRx6mEmFKdhaXWG+r8HgLwudvgaV0kolow1jFbPVcLOQJtR1yKbXUR7UWkkKZnXxEykN/b+jve7CMI4abX1PJZOBbrlEW2V9JDIhIeY8IYc+rKwLhi9FVRvHYYPfnKcXLHxhw50yPp/k3kuzGx9jMSKQIGWQRZgoyJpFcT/u7IImFpjLfBb3Dl5pUIkzVhYlpa26W6oMAAAAAAAAFCjCCBQYwggLuoAMCAQICEQCKfT4T1i8w7yOGvSkHazT4MA0GCSqGSIb3DQEBCwUAME8xCzAJBgNVBAYTAlVTMSkwJwYDVQQKEyBJbnRlcm5ldCBTZWN1cml0eSBSZXNlYXJjaCBHcm91cDEVMBMGA1UEAxMMSVNSRyBSb290IFgxMB4XDTI0MDMxMzAwMDAwMFoXDTI3MDMxMjIzNTk1OVowMzELMAkGA1UEBhMCVVMxFjAUBgNVBAoTDUxldCdzIEVuY3J5cHQxDDAKBgNVBAMTA1IxMTCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBALqHvFwbADnLygrN1GcQ+QE8pU6lYcsmylL7FQG3uSj1KB7tJ7MkGDlnCQwI7OA6sDt3Dr3z5TlUQQxOrkHWmXTeUdvve/9Yvai3E/beMdXycslyaguDdJWcRgBkFJnzsdki2c2okqocJno//u9YBXsIlYHbcQ+O++MxCbsJvlBNX4+Rdj1anZ6D8unEZrPhBmZDSBiAZaA3GJqbhDKXsbK9xPgVAJ0niPviYxeWbJsnZ0vE2yheacJ58Elc4CRQ4cS8oQWse0BtALTCQT+nWLgvxVybpbsJnvH+67CFOf2oCu9FxHjrZSrCz1883uNcTRv3CycrqgtCd1NPeWodh9kCAwEAAaOB+DCB9TAOBgNVHQ8BAf8EBAMCAYYwHQYDVR0lBBYwFAYIKwYBBQUHAwIGCCsGAQUFBwMBMBIGA1UdEwEB/wQIMAYBAf8CAQAwHQYDVR0OBBYEFMXPRqTq9MPAemyVxC2wXpIvJuO5MB8GA1UdIwQYMBaAFHm0WeZ7tuXkAXOACIjIGlj26ZtuMDIGCCsGAQUFBwEBBCYwJDAiBggrBgEFBQcwAoYWaHR0cDovL3gxLmkubGVuY3Iub3JnLzATBgNVHSAEDDAKMAgGBmeBDAECATAnBgNVHR8EIDAeMBygGqAYhhZodHRwOi8veDEuYy5sZW5jci5vcmcvMA0GCSqGSIb3DQEBCwUAA4ICAQBO4oldCgMckDjQ9R/5cVz4w4+yN4h6b7AlH+2+t9iGBo7pCYTNcr+B8/zKz1NI7b32aULUpRE+NcgTspIdBV/qLtTY+EnDrfWZlpzvJtjhtCQLSCBN/NNUtKnGIcjhNhv/d2QpF7nwS+9d6s150L+Qv74jspDaSqlIMXSpRAvh4vYtg3GkdXvSlMEFGUYcuY/zxHRIJSoN5fXbQ+Lbk5u5GbQfL99qDo8x02MPuync3WYsP7AbZ1H4QTzkTbmsuKScZmP1q4UjHcxTtqtxrtzFAXHaNu4KGCoy/QkxfI/2c+ecnLVKFWp3glrP2o1F/h8qZAUwPnPCxgy51jtjSqtGA/6ZwEZAJ2Bj31A6B0fYFUqf6kcfmVoIYgy2bDMITdc47UgtLgVoroBd70zc2CBBX2jxu1rN4w6wDDGHm0PeSUPhyAQ/0Twbh0Uwaaipcg55Ehwx2D4jV92nT6DwHIHRdx9v1tK5qLMDFoE5S59VrtJq5LO/6qXVn0ujydY7cvNK9lSrDPw492CA3241ynWhVOQvvG4XyRqlN7Wimrrs9MB1Rk93qOhZVpFmLW7eKYHWppcFXmRFvizO6mRCRLDDT63wtNwDypmbCYKVgg1jimb5GXL41bmJEOKJmAk1+aIcvpJzI3TpnR/XO0qahFgQwvOn4jXsfjtFzjBGUmvAwGYKMiaRXE/7uyCJhaYy3wW9w5eaVCJM1YWJaWtuluqDAAAAAAAABW8wggVrMIIDU6ADAgECAhEAghDPsNJA41lEY+C7Y4KLADANBgkqhkiG9w0BAQsFADBPMQswCQYDVQQGEwJVUzEpMCcGA1UEChMgSW50ZXJuZXQgU2VjdXJpdHkgUmVzZWFyY2ggR3JvdXAxFTATBgNVBAMTDElTUkcgUm9vdCBYMTAeFw0xNTA2MDQxMTA0MzhaFw0zNTA2MDQxMTA0MzhaME8xCzAJBgNVBAYTAlVTMSkwJwYDVQQKEyBJbnRlcm5ldCBTZWN1cml0eSBSZXNlYXJjaCBHcm91cDEVMBMGA1UEAxMMSVNSRyBSb290IFgxMIICIjANBgkqhkiG9w0BAQEFAAOCAg8AMIICCgKCAgEAregkc/QUN/ObnitXKByHvty33ziQjG485legePd1wqL+9Wpu9gBPKNveaIZsRJO2sWP9FBJrvx/S6jGbIX7RMzy6SPXded+zuP8S8SGaS8GKhnFpSmZmbI9+PHC/rSkiBvPkwOaAruJLj7eZfpQDn9NHl3yZSCNT6DiuTwpvgy7RSVeMgHS22i/QOI17A3AhG3XyMDz6j67d2mOr6xZPwo4RS37PC+j/tXcu9LJ7SuBMEiUMcI0DKaDhUyTsE9nuGb8Qs0qMP4mjYVHerIcHlPRjcewu4m9bmIHhiVw0eWx27zuQYnnm26SaLybF0BDhDt7ZEI4W+7f3qPfH5QIHmI82CJXn4jeWDTZ1nvsOcrEdm7wD+UkF2IHdBbQq1kHprAF2lQoP2N/VvRIfNS8oF2zSmMGoCWR3bkc3us6sWV5onX9y1onFBkEpPlk+3Sb1JMkRp1qjTEAfRqGZtac6UW6GO559cqcSBXhZ7T5ReBULA4+N0C8Fsj57ShxLcwUS/Mbq4FATfEOTdLPKdOeOHwEI0DDUW3E2tAe6wTAwXEi3gjuYpn1giqKjKYLMur2DBBuigwNBodYF8RvCtvCofIY7RqhIKojcdpp2vx9qpT0Zj+s482TeyCsNCij/99viFULUItAnXeF5/hjncIitTubZizrG3SdRbv+8ZPUzQ08CAwEAAaNCMEAwDgYDVR0PAQH/BAQDAgEGMA8GA1UdEwEB/wQFMAMBAf8wHQYDVR0OBBYEFHm0WeZ7tuXkAXOACIjIGlj26ZtuMA0GCSqGSIb3DQEBCwUAA4ICAQBVH1ipvLKoUNAMsdgaaSAnKQisYXVcim74guVpL9X2Vku5uHMQWdMhl37nTHH7stJgrTmoC+oXIVaF8VAOWevO4FnpuskV74adj4SA9uTpkZDcF5tiG0XwZpXSfG/C6jvvH8/L1q4n8amwyK79fX6a+iIE6//Zf+qRKyKxFw6P8oo0W1jY/AHJVLm4JsyKiDOJTC2EPILf7pZXBbosu/fEt8dOO4K+Mcgic3OS0cKApDk5EDMjgkw8n4ayVZgdvimGjCKbnuJrO1c6gnBN3AnHicsKB01s6F2Oye/Oq8e7tStORdZK0CbM5XLKCGqlleMVofek7cksX6X7/6woAi6+13u743F7kBbTB15GU3w3B0KM08SWnNWZtSrglRqASK5MOQfOzEekUpUrurj7rdIzU33lHU1t1aGxx0Jv5kAnNVyjKLcHjeeNM5DnI5/7UJx5bEbVtBWzlm5+mwyWOrhSLT/WW+H7CMKE/iSoo4narGrhGCqxqENhW9Mf3DuNdvIt6I113xczbD1T+3vLQV//3KLQYTjhlrisXYs313XVM8CZEa6dQcFydYS+AkFCX2ckSJTRmye+Bz+5uE+BdFHherftnSPivuDVKAQTPDEDnt16bI/GBxjGf95Hjj8ongQGz6VUNHe97Imb6RdD31vbX/6OHleizUCdfmIi2t4YJwAAAAEAAAAIaHR0cC8xLjEAAQAAAABTdGxzZmxhZ3MweDAwMDAwMDAwOmZvcnVtLnVidW50dS1mci5vcmc6NDQzXnBhcnRpdGlvbktleT0lMjhodHRwcyUyQ3VidW50dS1mci5vcmclMjkAAA== request-method GET request-Cookie qcf8OwCzD1BvYugM9n0STA+wAEU= response-head HTTP/1.1 200 OK
+Server: nginx/1.14.2
+Date: Mon, 30 Sep 2024 17:05:09 GMT
+Content-Type: text/html; charset=utf-8
+Cache-Control: public, max-age=0, s-maxage=300
+Vary: Cookie
+X-Frame-Options: deny
+Strict-Transport-Security: max-age=31536000; includeSubdomains
+ original-response-headers Server: nginx/1.14.2
+Date: Mon, 30 Sep 2024 17:05:09 GMT
+Content-Type: text/html; charset=utf-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+Cache-Control: public, max-age=0, s-maxage=300
+Vary: Cookie
+X-Frame-Options: deny
+Strict-Transport-Security: max-age=31536000; includeSubdomains
+ ctid 1 uncompressed-len 0 net-response-time-onstart 280 net-response-time-onstop 304   \'

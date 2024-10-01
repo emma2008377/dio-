@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component type="desktop">
+ <id>algobox.desktop</id>
+ <metadata_license>CC0-1.0</metadata_license>
+ <project_license>GPL-2.0-or-later</project_license>
+ <name>Algobox</name>
+  <summary>Logiciel d'initiation à l'algorithmique</summary>
+ <description>
+    <p>
+    Logiciel d'initiation à l'algorithmique.
+    </p>
+ </description>
+<categories>
+    <category>Education</category>
+    <category>Science</category>
+    <category>Qt</category>
+</categories>
+<screenshots>
+  <screenshot type="default">
+    <image>https://www.xm1math.net/algobox/assets/img/algobox_top_orig.png</image>
+    <caption>Interface</caption>
+  </screenshot>
+</screenshots>
+<url type="homepage">https://www.xm1math.net/algobox/index.html</url>
+<url type="help">https://www.xm1math.net/algobox/doc.html</url>
+<provides>
+  <binary>algobox</binary>
+</provides>
+<launchable type="desktop-id">algobox.desktop</launchable>
+ <project_group>Qt</project_group>
+ <developer_name>Pascal Brachet</developer_name>
+ <releases>
+   <release version="1.1.1" date="2022-10-30">
+     <description>
+       <p>Maintenance release</p>
+     </description>
+   </release>
+   <release version="1.1.0" date="2021-11-07">
+     <description>
+       <p>Maintenance release - Qt6 support</p>
+     </description>
+   </release>
+ </releases>
+ <content_rating type="oars-1.0" />
+</component>

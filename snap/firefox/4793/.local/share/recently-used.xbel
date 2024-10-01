@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xbel version="1.0"
+      xmlns:bookmark="http://www.freedesktop.org/standards/desktop-bookmarks"
+      xmlns:mime="http://www.freedesktop.org/standards/shared-mime-info"
+>
+  <bookmark href="file:///home/emmanuel/T%C3%A9l%C3%A9chargements/manette-xbox-neons-manette-au-centre_439473-377.avif" added="2024-09-27T00:57:26.359976Z" modified="2024-09-27T00:57:26.360018Z" visited="2024-09-27T00:57:26.359980Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/avif"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2024-09-27T00:57:26.359997Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/emmanuel/T%C3%A9l%C3%A9chargements/algobox_1.1.1_ubuntu_24_04_amd64.deb" added="2024-09-30T07:03:38.948250Z" modified="2024-09-30T07:03:38.948268Z" visited="2024-09-30T07:03:38.948252Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.debian.binary-package"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2024-09-30T07:03:38.948257Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/emmanuel/T%C3%A9l%C3%A9chargements/algobox_1.1.1_ubuntu_23_04_amd64.deb" added="2024-09-30T07:03:50.535023Z" modified="2024-09-30T07:03:50.535038Z" visited="2024-09-30T07:03:50.535025Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.debian.binary-package"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2024-09-30T07:03:50.535030Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/emmanuel/Documents/B-CPE-100_Day01.pdf" added="2024-09-30T09:50:57.302974Z" modified="2024-09-30T09:50:57.302980Z" visited="2024-09-30T09:50:57.302975Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2024-09-30T09:50:57.302977Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+</xbel>

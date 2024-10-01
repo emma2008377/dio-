@@ -1,0 +1,2154 @@
+{
+  "mastheadNav": {
+    "links": [
+      {
+        "title": "Produits",
+        "titleEnglish": "Products",
+        "url": "",
+        "submenu": {
+          "sections": [
+            {
+              "heading": {
+                "title": "À la une",
+                "titleEnglish": "Featured",
+                "url": "",
+                "description": ""
+              },
+              "groups": [
+                {
+                  "links": [
+                    {
+                      "title": "API Connect",
+                      "titleEnglish": "API Connect",
+                      "url": "https://www.ibm.com/fr-fr/products/api-connect?lnk=flatitem",
+                      "description": "Logiciel pour créer, protéger, socialiser et gérer les API"
+                    },
+                    {
+                      "title": "Concert",
+                      "titleEnglish": "Concert",
+                      "url": "https://www.ibm.com/fr-fr/products/concert?lnk=flatitem",
+                      "description": "Analyser et gérer l’infrastructure informatique en langage naturel grâce à l'IA"
+                    },
+                    {
+                      "title": "Environmental Intelligence",
+                      "titleEnglish": "Environmental Intelligence",
+                      "url": "https://www.ibm.com/fr-fr/products/environmental-intelligence-suite?lnk=flatitem",
+                      "description": "Logiciel SaaS pour anticiper et répondre aux événements météorologiques et climatiques"
+                    },
+                    {
+                      "title": "Envizi",
+                      "titleEnglish": "Envizi",
+                      "url": "https://www.ibm.com/fr-fr/products/envizi?lnk=flatitem",
+                      "description": "Logiciel SaaS pour analyser les indicateurs environnementaux, sociaux et de gouvernance"
+                    },
+                    {
+                      "title": "FlashSystem",
+                      "titleEnglish": "FlashSystem",
+                      "url": "https://www.ibm.com/fr-fr/flashsystem?lnk=flatitem",
+                      "description": "Réseau tout flash offrant les performances et la capacité nécessaires pour toutes les charges de travail"
+                    },
+                    {
+                      "title": "IBM Cloud",
+                      "titleEnglish": "IBM Cloud",
+                      "url": "https://www.ibm.com/fr-fr/cloud?lnk=flatitem",
+                      "description": "Plateforme informatique et API de cloud à la demande - Plateforme Cloud et API à la demande"
+                    },
+                    {
+                      "title": "IBM Z",
+                      "titleEnglish": "IBM Z",
+                      "url": "https://www.ibm.com/fr-fr/z?lnk=flatitem",
+                      "description": "Mainframe star avec IA intégrée sur puce et technologie quantique"
+                    },
+                    {
+                      "title": "Instana",
+                      "titleEnglish": "Instana",
+                      "url": "https://www.ibm.com/fr-fr/products/instana?lnk=flatitem",
+                      "description": "Logiciel de surveillance et d'automatisation des performances applicatives"
+                    },
+                    {
+                      "title": "MaaS360",
+                      "titleEnglish": "MaaS360",
+                      "url": "https://www.ibm.com/fr-fr/products/maas360?lnk=flatitem",
+                      "description": "Logiciel de gestion de terminaux unifié pour plusieurs types de dispositifs"
+                    },
+                    {
+                      "title": "Maximo",
+                      "titleEnglish": "Maximo",
+                      "url": "https://www.ibm.com/fr-fr/products/maximo?lnk=flatitem",
+                      "description": "Logiciel de gestion des actifs et des workflows liés"
+                    },
+                    {
+                      "title": "Planning Analytics",
+                      "titleEnglish": "Planning Analytics",
+                      "url": "https://www.ibm.com/fr-fr/products/planning-analytics?lnk=flatitem",
+                      "description": "Logiciel pour automatiser la planification financière et opérationnelle"
+                    },
+                    {
+                      "title": "Robotic Process Automation (RPA)",
+                      "titleEnglish": "Robotic Process Automation (RPA)",
+                      "url": "https://www.ibm.com/fr-fr/products/robotic-process-automation?lnk=flatitem",
+                      "description": "Logiciel pour automatiser les flux de travaux et les processus métier"
+                    },
+                    {
+                      "title": "Storage Defender",
+                      "titleEnglish": "Storage Defender",
+                      "url": "https://www.ibm.com/fr-fr/products/storage-defender?lnk=flatitem",
+                      "description": "Logiciel de résilience des données pour la détection des menaces et la récupération des données"
+                    },
+                    {
+                      "title": "Turbonomic",
+                      "titleEnglish": "Turbonomic",
+                      "url": "https://www.ibm.com/fr-fr/products/turbonomic?lnk=flatitem",
+                      "description": "Logiciel de gestion et d'optimisation de l'utilisation des ressources informatiques"
+                    },
+                    {
+                      "title": "watsonx",
+                      "titleEnglish": "watsonx",
+                      "url": "https://www.ibm.com/fr-fr/watsonx?lnk=flatitem",
+                      "description": "IA et plateforme de données"
+                    },
+                    {
+                      "title": "watsonx Assistant",
+                      "titleEnglish": "watsonx Assistant",
+                      "url": "https://www.ibm.com/fr-fr/products/watsonx-assistant?lnk=flatitem",
+                      "description": "Agents virtuels personnalisables pour tout domaine"
+                    },
+                    {
+                      "title": "watsonx Orchestrate",
+                      "titleEnglish": "watsonx Orchestrate",
+                      "url": "https://www.ibm.com/fr-fr/products/watsonx-orchestrate?lnk=flatitem",
+                      "description": "Logiciel d'assistant personnel qui automatise les tâches répétitives"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "heading": {
+                "title": "Analytics",
+                "titleEnglish": "Analytics",
+                "url": "https://www.ibm.com/fr-fr/analytics?lnk=flathl",
+                "description": "Agréger et analyser de vastes ensembles de données"
+              },
+              "groups": [
+                {
+                  "links": [
+                    {
+                      "title": "Business Analytics Enterprise",
+                      "titleEnglish": "Business Analytics Enterprise",
+                      "url": "https://www.ibm.com/fr-fr/products/business-analytics-enterprise?lnk=flatitem",
+                      "description": "Logiciel de planification et d'analyse métier"
+                    },
+                    {
+                      "title": "Cloud Pak for Data",
+                      "titleEnglish": "Cloud Pak for Data",
+                      "url": "https://www.ibm.com/fr-fr/products/cloud-pak-for-data?lnk=flatitem",
+                      "description": "Outils d'analyse, d'organisation et de gestion des données"
+                    },
+                    {
+                      "title": "Cognos Analytics",
+                      "titleEnglish": "Cognos Analytics",
+                      "url": "https://www.ibm.com/fr-fr/products/cognos-analytics?lnk=flatitem",
+                      "description": "Logiciels d'aide à la décision et de gestion des performances"
+                    },
+                    {
+                      "title": "CPLEX",
+                      "titleEnglish": "CPLEX",
+                      "url": "https://www.ibm.com/fr-fr/products/ilog-cplex-optimization-studio?lnk=flatitem",
+                      "description": "Logiciel pour créer et résoudre des modèles d'optimisation complexes"
+                    },
+                    {
+                      "title": "Databand",
+                      "titleEnglish": "Databand",
+                      "url": "https://www.ibm.com/fr-fr/products/databand?lnk=flatitem",
+                      "description": "Logiciel d'observabilité des données pour les ingénieurs de données et les équipes DataOps"
+                    },
+                    {
+                      "title": "InfoSphere Information Server",
+                      "titleEnglish": "InfoSphere Information Server",
+                      "url": "https://www.ibm.com/fr-fr/information-server?lnk=flatitem",
+                      "description": "Suite d’intégration des données pour l’extraction, la transformation et le chargement (ETL), la gouvernance et l’analyse"
+                    },
+                    {
+                      "title": "Netezza",
+                      "titleEnglish": "Netezza",
+                      "url": "https://www.ibm.com/fr-fr/products/netezza?lnk=flatitem",
+                      "description": "Création d'entrepôts de données et de systèmes analytiques sur du matériel personnalisé"
+                    },
+                    {
+                      "title": "Optim",
+                      "titleEnglish": "Optim",
+                      "url": "https://www.ibm.com/fr-fr/infosphere-optim?lnk=flatitem",
+                      "description": "Logiciel pour gérer le test, la production et les données archivées"
+                    },
+                    {
+                      "title": "Planning Analytics",
+                      "titleEnglish": "Planning Analytics",
+                      "url": "https://www.ibm.com/fr-fr/products/planning-analytics?lnk=flatitem",
+                      "description": "Logiciel pour automatiser la planification financière et opérationnelle"
+                    },
+                    {
+                      "title": "Spectrum Computing",
+                      "titleEnglish": "Spectrum Computing",
+                      "url": "https://www.ibm.com/fr-fr/high-performance-computing?lnk=flatitem",
+                      "description": "Logiciel pour optimiser les ressources dans des clusters informatiques complexes"
+                    },
+                    {
+                      "title": "SPSS",
+                      "titleEnglish": "SPSS",
+                      "url": "https://www.ibm.com/fr-fr/spss?lnk=flatitem",
+                      "description": "Logiciel d'analyse statistique et d'aide à la décision"
+                    },
+                    {
+                      "title": "Watson Discovery",
+                      "titleEnglish": "Watson Discovery",
+                      "url": "https://www.ibm.com/fr-fr/products/watson-discovery?lnk=flatitem",
+                      "description": "L'IA pour rechercher et répondre aux questions sur les documents d'entreprise"
+                    },
+                    {
+                      "title": "Watson Studio",
+                      "titleEnglish": "Watson Studio",
+                      "url": "https://www.ibm.com/fr-fr/products/watson-studio?lnk=flatitem",
+                      "description": "Environnement de développement intégré (IDE) pour générer, exécuter et gérer des modèles d'IA"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "heading": {
+                "title": "Automatisation informatique",
+                "titleEnglish": "IT automation",
+                "url": "",
+                "description": "Automatisez la gestion de votre infrastructure informatique"
+              },
+              "groups": [
+                {
+                  "links": [
+                    {
+                      "title": "Apptio",
+                      "titleEnglish": "Apptio",
+                      "url": "https://www.ibm.com/fr-fr/products/apptio?lnk=flatitem",
+                      "description": "Logiciel de planification et de gestion financière dans le cloud hybride"
+                    },
+                    {
+                      "title": "Cloud App Configuration",
+                      "titleEnglish": "Cloud App Configuration",
+                      "url": "https://www.ibm.com/fr-fr/products/app-configuration?lnk=flatitem",
+                      "description": "Service de gestion et de configuration des fonctionnalités pour les applications Web et mobiles"
+                    },
+                    {
+                      "title": "Cloud App ID",
+                      "titleEnglish": "Cloud App ID",
+                      "url": "https://www.ibm.com/fr-fr/products/app-id?lnk=flatitem",
+                      "description": "Service d'authentification et de gestion des utilisateurs pour les applications Web et mobiles"
+                    },
+                    {
+                      "title": "Cloud Monitoring",
+                      "titleEnglish": "Cloud Monitoring",
+                      "url": "https://www.ibm.com/fr-fr/products/cloud-monitoring?lnk=flatitem",
+                      "description": "Outil de surveillance hébergé pour les performances système à l’échelle de l’organisation"
+                    },
+                    {
+                      "title": "Cloud Pak for AIOps",
+                      "titleEnglish": "Cloud Pak for AIOps",
+                      "url": "https://www.ibm.com/fr-fr/products/cloud-pak-for-aiops?lnk=flatitem",
+                      "description": "Outil de gestion DevOps avec analyse et recommandations par l'IA"
+                    },
+                    {
+                      "title": "Cloud Schematics",
+                      "titleEnglish": "Cloud Schematics",
+                      "url": "https://www.ibm.com/fr-fr/products/schematics?lnk=flatitem",
+                      "description": "Gestion et provisionnement de l'infrastructure cloud avec code"
+                    },
+                    {
+                      "title": "Concert",
+                      "titleEnglish": "Concert",
+                      "url": "https://www.ibm.com/fr-fr/products/concert?lnk=flatitem",
+                      "description": "Analyser et gérer l’infrastructure informatique en langage naturel grâce à l'IA"
+                    },
+                    {
+                      "title": "Event Notifications",
+                      "titleEnglish": "Event Notifications",
+                      "url": "https://www.ibm.com/fr-fr/products/event-notifications?lnk=flatitem",
+                      "description": "Service de notification et d'automatisation des workflows pour les événements IBM Cloud"
+                    },
+                    {
+                      "title": "Flexera One",
+                      "titleEnglish": "Flexera One",
+                      "url": "https://www.ibm.com/fr-fr/products/flexera-one?lnk=flatitem",
+                      "description": "Logiciel de gestion des actifs informatiques"
+                    },
+                    {
+                      "title": "IBM Cloud Logs",
+                      "titleEnglish": "IBM Cloud Logs",
+                      "url": "https://www.ibm.com/fr-fr/products/cloud-logs?lnk=flatitem",
+                      "description": "Service de journalisation et d'observabilité pour les applications et l'infrastructure"
+                    },
+                    {
+                      "title": "Instana",
+                      "titleEnglish": "Instana",
+                      "url": "https://www.ibm.com/fr-fr/products/instana?lnk=flatitem",
+                      "description": "Logiciel de surveillance et d'automatisation des performances applicatives"
+                    },
+                    {
+                      "title": "Turbonomic",
+                      "titleEnglish": "Turbonomic",
+                      "url": "https://www.ibm.com/fr-fr/products/turbonomic?lnk=flatitem",
+                      "description": "Logiciel de gestion et d'optimisation de l'utilisation des ressources informatiques"
+                    },
+                    {
+                      "title": "Z Service Management Suite",
+                      "titleEnglish": "Z Service Management Suite",
+                      "url": "https://www.ibm.com/fr-fr/products/z-service-management-suite?lnk=flatitem",
+                      "description": "Suite de surveillance, de contrôle et d’automatisation pour Z"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "heading": {
+                "title": "Automatisation métier",
+                "titleEnglish": "Business automation",
+                "url": "",
+                "description": "Automatisez les flux de travaux et les processus métier"
+              },
+              "groups": [
+                {
+                  "links": [
+                    {
+                      "title": "Blueworks Live",
+                      "titleEnglish": "Blueworks Live",
+                      "url": "https://www.ibm.com/fr-fr/products/blueworkslive?lnk=flatitem",
+                      "description": "Logiciel sous forme de services pour la modélisation d'entreprise collaborative"
+                    },
+                    {
+                      "title": "Business Automation Manager Open Editions",
+                      "titleEnglish": "Business Automation Manager Open Editions",
+                      "url": "https://www.ibm.com/fr-fr/products/business-automation-manager-open-editions?lnk=flatitem",
+                      "description": "Logiciel d’automatisation des flux de travaux et de gestion des décisions"
+                    },
+                    {
+                      "title": "Business Automation Workflow",
+                      "titleEnglish": "Business Automation Workflow",
+                      "url": "https://www.ibm.com/fr-fr/products/business-automation-workflow?lnk=flatitem",
+                      "description": "Produit complémentaire Cloud Pak for Business Automation pour automatiser les flux de travaux"
+                    },
+                    {
+                      "title": "Cloud Pak for Business Automation",
+                      "titleEnglish": "Cloud Pak for Business Automation",
+                      "url": "https://www.ibm.com/fr-fr/products/cloud-pak-for-business-automation?lnk=flatitem",
+                      "description": "Logiciel de gestion des opérations avec des informations sur l'IA"
+                    },
+                    {
+                      "title": "Datacap",
+                      "titleEnglish": "Datacap",
+                      "url": "https://www.ibm.com/fr-fr/products/data-capture-and-imaging?lnk=flatitem",
+                      "description": "Gestion de documents pour IBM Cloud Pak for Business Automation"
+                    },
+                    {
+                      "title": "Event Automation",
+                      "titleEnglish": "Event Automation",
+                      "url": "https://www.ibm.com/fr-fr/products/event-automation?lnk=flatitem",
+                      "description": "Outil sans code pour la création de workflows automatisés axés sur les événements"
+                    },
+                    {
+                      "title": "FileNet Content Manager",
+                      "titleEnglish": "FileNet Content Manager",
+                      "url": "https://www.ibm.com/fr-fr/products/filenet-content-manager?lnk=flatitem",
+                      "description": "Solution de gestion de contenu pour Cloud Pak for Business Automation"
+                    },
+                    {
+                      "title": "Operational Decision Manager",
+                      "titleEnglish": "Operational Decision Manager",
+                      "url": "https://www.ibm.com/fr-fr/products/operational-decision-manager?lnk=flatitem",
+                      "description": "Produit complémentaire pour les décisions basées sur des règles pour Cloud Pak for Business Automation"
+                    },
+                    {
+                      "title": "Process Mining",
+                      "titleEnglish": "Process Mining",
+                      "url": "https://www.ibm.com/fr-fr/products/process-mining?lnk=flatitem",
+                      "description": "Logiciel de processus d'extraction des données des applications métier"
+                    },
+                    {
+                      "title": "Robotic Process Automation (RPA)",
+                      "titleEnglish": "Robotic Process Automation (RPA)",
+                      "url": "https://www.ibm.com/fr-fr/products/robotic-process-automation?lnk=flatitem",
+                      "description": "Logiciel pour automatiser les flux de travaux et les processus métier"
+                    },
+                    {
+                      "title": "watsonx Orchestrate",
+                      "titleEnglish": "watsonx Orchestrate",
+                      "url": "https://www.ibm.com/fr-fr/products/watsonx-orchestrate?lnk=flatitem",
+                      "description": "Logiciel d'assistant personnel qui automatise les tâches répétitives"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "heading": {
+                "title": "Bases de données",
+                "titleEnglish": "Databases",
+                "url": "https://www.ibm.com/fr-fr/database?lnk=flathl",
+                "description": "Stocker, interroger et analyser les données structurées"
+              },
+              "groups": [
+                {
+                  "links": [
+                    {
+                      "title": "Cloudant",
+                      "titleEnglish": "Cloudant",
+                      "url": "https://www.ibm.com/fr-fr/products/cloudant?lnk=flatitem",
+                      "description": "Magasin de documents JSON géré conforme à la norme PCI sur Apache CouchDB"
+                    },
+                    {
+                      "title": "Db2",
+                      "titleEnglish": "Db2",
+                      "url": "https://www.ibm.com/fr-fr/products/db2-database?lnk=flatitem",
+                      "description": "Logiciel de gestion des données incluant la base de données IBM Db2"
+                    },
+                    {
+                      "title": "Db2 for z/OS",
+                      "titleEnglish": "Db2 for z/OS",
+                      "url": "https://www.ibm.com/fr-fr/products/db2-for-zos?lnk=flatitem",
+                      "description": "Base de données IBM Db2 pour mainframes IBM Z"
+                    },
+                    {
+                      "title": "Hyper Protect DBaaS",
+                      "titleEnglish": "Hyper Protect DBaaS",
+                      "url": "https://www.ibm.com/fr-fr/products/hyper-protect-dbaas?lnk=flatitem",
+                      "description": "PostgreSQL et MongoDB gérés pour les données sensibles"
+                    },
+                    {
+                      "title": "IBM Cloud Databases for Elastic Search",
+                      "titleEnglish": "IBM Cloud Databases for Elastic Search",
+                      "url": "https://www.ibm.com/fr-fr/products/databases-for-elasticsearch?lnk=flatitem",
+                      "description": "Magasin de données JSON pour la recherche en texte intégral"
+                    },
+                    {
+                      "title": "IBM Cloud Databases for EnterpriseDB",
+                      "titleEnglish": "IBM Cloud Databases for EnterpriseDB",
+                      "url": "https://www.ibm.com/fr-fr/products/databases-for-enterprisedb?lnk=flatitem",
+                      "description": "PostgreSQL avec des fonctionnalités de performance, de sécurité et de gestion supplémentaires"
+                    },
+                    {
+                      "title": "IBM Cloud Databases for etcd",
+                      "titleEnglish": "IBM Cloud Databases for etcd",
+                      "url": "https://www.ibm.com/fr-fr/products/databases-for-etcd?lnk=flatitem",
+                      "description": "Magasin clé-valeur distribué"
+                    },
+                    {
+                      "title": "IBM Cloud Databases for MongoDB",
+                      "titleEnglish": "IBM Cloud Databases for MongoDB",
+                      "url": "https://www.ibm.com/fr-fr/products/databases-for-mongodb?lnk=flatitem",
+                      "description": "Magasin de documents JSON NoSQL géré"
+                    },
+                    {
+                      "title": "IBM Cloud Databases for MySQL",
+                      "titleEnglish": "IBM Cloud Databases for MySQL",
+                      "url": "https://www.ibm.com/fr-fr/products/databases-for-mysql?lnk=flatitem",
+                      "description": "Base de données SQL gérée"
+                    },
+                    {
+                      "title": "IBM Cloud Databases for PostgreSQL",
+                      "titleEnglish": "IBM Cloud Databases for PostgreSQL",
+                      "url": "https://www.ibm.com/fr-fr/products/databases-for-postgresql?lnk=flatitem",
+                      "description": "Base de données SQL gérée avec fonctionnalités avancées"
+                    },
+                    {
+                      "title": "Information Management System (IMS)",
+                      "titleEnglish": "Information Management System (IMS)",
+                      "url": "https://www.ibm.com/fr-fr/products/ims?lnk=flatitem",
+                      "description": "Base de données et système de gestion pour les transactions à volume élevé"
+                    },
+                    {
+                      "title": "Informix",
+                      "titleEnglish": "Informix",
+                      "url": "https://www.ibm.com/fr-fr/products/informix?lnk=flatitem",
+                      "description": "Base de données intégrable pour les données SQL, NoSQL, de séries chronologiques et spatiales"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "heading": {
+                "title": "Containers",
+                "titleEnglish": "Containers",
+                "url": "",
+                "description": "Allouer une infrastructure de calcul à la demande"
+              },
+              "groups": [
+                {
+                  "links": [
+                    {
+                      "title": "Cloud Satellite",
+                      "titleEnglish": "Cloud Satellite",
+                      "url": "https://www.ibm.com/fr-fr/products/satellite?lnk=flatitem",
+                      "description": "Plateforme pour l’exécution de services cloud gérés sur n’importe quelle infrastructure"
+                    },
+                    {
+                      "title": "Code Engine",
+                      "titleEnglish": "Code Engine",
+                      "url": "https://www.ibm.com/fr-fr/products/code-engine?lnk=flatitem",
+                      "description": "Exécution du code ou des conteneurs sans serveur"
+                    },
+                    {
+                      "title": "Container Registry",
+                      "titleEnglish": "Container Registry",
+                      "url": "https://www.ibm.com/fr-fr/products/container-registry?lnk=flatitem",
+                      "description": "Registre SaaS privé pour le stockage et la gestion des conteneurs"
+                    },
+                    {
+                      "title": "Kubernetes Service",
+                      "titleEnglish": "Kubernetes Service",
+                      "url": "https://www.ibm.com/fr-fr/products/kubernetes-service?lnk=flatitem",
+                      "description": "Gestion Kubernetes pour les déploiements de conteneurs haute disponibilité"
+                    },
+                    {
+                      "title": "Red Hat OpenShift on IBM Cloud",
+                      "titleEnglish": "Red Hat OpenShift on IBM Cloud",
+                      "url": "https://www.ibm.com/fr-fr/products/openshift?lnk=flatitem",
+                      "description": "PaaS avec Kubernetes sur Red Hat Enterprise Linux"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "heading": {
+                "title": "DevOps",
+                "titleEnglish": "DevOps",
+                "url": "https://www.ibm.com/fr-fr/devops?lnk=flathl",
+                "description": "Gérez l'infrastructure, les environnements et les déploiements"
+              },
+              "groups": [
+                {
+                  "links": [
+                    {
+                      "title": "Application Delivery Foundation for z/OS",
+                      "titleEnglish": "Application Delivery Foundation for z/OS",
+                      "url": "https://www.ibm.com/fr-fr/products/app-delivery-foundation-for-zos?lnk=flatitem",
+                      "description": "Développement d'applications et outils DevOps pour z/OS"
+                    },
+                    {
+                      "title": "Application Discovery and Delivery Intelligence",
+                      "titleEnglish": "Application Discovery and Delivery Intelligence",
+                      "url": "https://www.ibm.com/fr-fr/products/app-discovery-and-delivery-intelligence?lnk=flatitem",
+                      "description": "Outil d’analyse pour visualiser les applications, les données et les travaux sur z/OS"
+                    },
+                    {
+                      "title": "Cloud Continuous Delivery",
+                      "titleEnglish": "Cloud Continuous Delivery",
+                      "url": "https://www.ibm.com/fr-fr/products/continuous-delivery?lnk=flatitem",
+                      "description": "Workflows DevOps basés sur UI et CLI sur des Pipelines Tekton"
+                    },
+                    {
+                      "title": "Cloud Pak for AIOps",
+                      "titleEnglish": "Cloud Pak for AIOps",
+                      "url": "https://www.ibm.com/fr-fr/products/cloud-pak-for-aiops?lnk=flatitem",
+                      "description": "Outil de gestion DevOps avec analyse et recommandations par l'IA"
+                    },
+                    {
+                      "title": "DevOps Test",
+                      "titleEnglish": "DevOps Test",
+                      "url": "https://www.ibm.com/fr-fr/products/devops-test?lnk=flatitem",
+                      "description": "Plateforme de test continu et de virtualisation"
+                    },
+                    {
+                      "title": "Engineering Lifecycle Management",
+                      "titleEnglish": "Engineering Lifecycle Management",
+                      "url": "https://www.ibm.com/fr-fr/products/engineering-lifecycle-management?lnk=flatitem",
+                      "description": "Logiciel pour la gestion du cycle de vie d'un produit ou d'une application"
+                    },
+                    {
+                      "title": "IBM i Modernization Engine",
+                      "titleEnglish": "IBM i Modernization Engine",
+                      "url": "https://www.ibm.com/fr-fr/products/ibm-i-merlin?lnk=flatitem",
+                      "description": "Outils de développement et de modernisation pour les applications IBM i"
+                    },
+                    {
+                      "title": "Rational ClearQuest",
+                      "titleEnglish": "Rational ClearQuest",
+                      "url": "https://www.ibm.com/fr-fr/products/rational-clearquest?lnk=flatitem",
+                      "description": "Logiciel de gestion des changements"
+                    },
+                    {
+                      "title": "Rational Software Architect Designer",
+                      "titleEnglish": "Rational Software Architect Designer",
+                      "url": "https://www.ibm.com/fr-fr/products/rational-software-architect-designer?lnk=flatitem",
+                      "description": "Outils de création, d'évaluation et de communication de l'architecture logicielle"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "heading": {
+                "title": "Gestion des équipements",
+                "titleEnglish": "Asset lifecycle management",
+                "url": "",
+                "description": "Gérer et entretenir vos actifs matériels"
+              },
+              "groups": [
+                {
+                  "links": [
+                    {
+                      "title": "Environmental Intelligence",
+                      "titleEnglish": "Environmental Intelligence",
+                      "url": "https://www.ibm.com/fr-fr/products/environmental-intelligence-suite?lnk=flatitem",
+                      "description": "Logiciel SaaS pour anticiper et répondre aux événements météorologiques et climatiques"
+                    },
+                    {
+                      "title": "Envizi",
+                      "titleEnglish": "Envizi",
+                      "url": "https://www.ibm.com/fr-fr/products/envizi?lnk=flatitem",
+                      "description": "Logiciel SaaS pour analyser les indicateurs environnementaux, sociaux et de gouvernance"
+                    },
+                    {
+                      "title": "Maximo",
+                      "titleEnglish": "Maximo",
+                      "url": "https://www.ibm.com/fr-fr/products/maximo?lnk=flatitem",
+                      "description": "Logiciel de gestion des actifs et des workflows liés"
+                    },
+                    {
+                      "title": "TRIRIGA",
+                      "titleEnglish": "TRIRIGA",
+                      "url": "https://www.ibm.com/fr-fr/products/tririga?lnk=flatitem",
+                      "description": "Logiciels de gestion immobilière et de l'espace de travail"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "heading": {
+                "title": "IA et machine learning",
+                "titleEnglish": "AI & machine learning",
+                "url": "https://www.ibm.com/fr-fr/artificial-intelligence?lnk=flathl",
+                "description": "Utilisez l'intelligence artificielle de Watson ou créez vos propres modèles d'apprentissage automatique"
+              },
+              "groups": [
+                {
+                  "links": [
+                    {
+                      "title": "Cloud Pak for AIOps",
+                      "titleEnglish": "Cloud Pak for AIOps",
+                      "url": "https://www.ibm.com/fr-fr/products/cloud-pak-for-aiops?lnk=flatitem",
+                      "description": "Outil de gestion DevOps avec analyse et recommandations par l'IA"
+                    },
+                    {
+                      "title": "Cloud Pak for Data",
+                      "titleEnglish": "Cloud Pak for Data",
+                      "url": "https://www.ibm.com/fr-fr/products/cloud-pak-for-data?lnk=flatitem",
+                      "description": "Outils d'analyse, d'organisation et de gestion des données"
+                    },
+                    {
+                      "title": "Knowledge Catalog",
+                      "titleEnglish": "Knowledge Catalog",
+                      "url": "https://www.ibm.com/fr-fr/products/knowledge-catalog?lnk=flatitem",
+                      "description": "SaaS pour cataloguer des données, des modèles IA, des métadonnées, des règles et bien plus encore"
+                    },
+                    {
+                      "title": "Watson Discovery",
+                      "titleEnglish": "Watson Discovery",
+                      "url": "https://www.ibm.com/fr-fr/products/watson-discovery?lnk=flatitem",
+                      "description": "L'IA pour rechercher et répondre aux questions sur les documents d'entreprise"
+                    },
+                    {
+                      "title": "Watson Natural Language Understanding",
+                      "titleEnglish": "Watson Natural Language Understanding",
+                      "url": "https://www.ibm.com/fr-fr/products/natural-language-understanding?lnk=flatitem",
+                      "description": "API pour l'analyse de texte et l'extraction de métadonnées"
+                    },
+                    {
+                      "title": "Watson Speech to Text",
+                      "titleEnglish": "Watson Speech to Text",
+                      "url": "https://www.ibm.com/fr-fr/products/speech-to-text?lnk=flatitem",
+                      "description": "API pour la reconnaissance et la transcription de la parole en temps réel"
+                    },
+                    {
+                      "title": "Watson Studio",
+                      "titleEnglish": "Watson Studio",
+                      "url": "https://www.ibm.com/fr-fr/products/watson-studio?lnk=flatitem",
+                      "description": "Environnement de développement intégré (IDE) pour générer, exécuter et gérer des modèles d'IA"
+                    },
+                    {
+                      "title": "Watson Text to Speech",
+                      "titleEnglish": "Watson Text to Speech",
+                      "url": "https://www.ibm.com/fr-fr/products/text-to-speech?lnk=flatitem",
+                      "description": "API pour la conversion texte-parole en temps réel"
+                    },
+                    {
+                      "title": "watsonx",
+                      "titleEnglish": "watsonx",
+                      "url": "https://www.ibm.com/fr-fr/watsonx?lnk=flatitem",
+                      "description": "IA et plateforme de données"
+                    },
+                    {
+                      "title": "watsonx Assistant",
+                      "titleEnglish": "watsonx Assistant",
+                      "url": "https://www.ibm.com/fr-fr/products/watsonx-assistant?lnk=flatitem",
+                      "description": "Agents virtuels personnalisables pour tout domaine"
+                    },
+                    {
+                      "title": "watsonx Code Assistant",
+                      "titleEnglish": "watsonx Code Assistant",
+                      "url": "https://www.ibm.com/fr-fr/products/watsonx-code-assistant?lnk=flatitem",
+                      "description": "Outil d’IA permettant de générer du code"
+                    },
+                    {
+                      "title": "Z Anomaly Analytics",
+                      "titleEnglish": "Z Anomaly Analytics",
+                      "url": "https://www.ibm.com/fr-fr/products/z-anomaly-analytics?lnk=flatitem",
+                      "description": "Logiciels de détection d'anomalies opérationnelles pour les mainframes"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "heading": {
+                "title": "Middleware",
+                "titleEnglish": "Middleware",
+                "url": "",
+                "description": "Connectez vos applications, données et événements"
+              },
+              "groups": [
+                {
+                  "links": [
+                    {
+                      "title": "API Connect",
+                      "titleEnglish": "API Connect",
+                      "url": "https://www.ibm.com/fr-fr/products/api-connect?lnk=flatitem",
+                      "description": "Logiciel pour créer, protéger, socialiser et gérer les API"
+                    },
+                    {
+                      "title": "App Connect",
+                      "titleEnglish": "App Connect",
+                      "url": "https://www.ibm.com/fr-fr/products/app-connect?lnk=flatitem",
+                      "description": "Connecteurs sans code pour vos données, vos applications et vos API"
+                    },
+                    {
+                      "title": "Aspera",
+                      "titleEnglish": "Aspera",
+                      "url": "https://www.ibm.com/fr-fr/products/aspera?lnk=flatitem",
+                      "description": "Système de transfert, de synchronisation ou de diffusion en continu d'énormes quantités de données à l'échelle mondiale"
+                    },
+                    {
+                      "title": "CICS Transaction Server for z/OS",
+                      "titleEnglish": "CICS Transaction Server for z/OS",
+                      "url": "https://www.ibm.com/fr-fr/products/cics-transaction-server?lnk=flatitem",
+                      "description": "Serveur d'applications pour le traitement des transactions en ligne"
+                    },
+                    {
+                      "title": "Cloud Pak for Applications",
+                      "titleEnglish": "Cloud Pak for Applications",
+                      "url": "https://www.ibm.com/fr-fr/products/cloud-pak-for-applications?lnk=flatitem",
+                      "description": "Plateforme basée sur Kubernetes pour les applications cloud hybrides"
+                    },
+                    {
+                      "title": "Cloud Pak for Integration",
+                      "titleEnglish": "Cloud Pak for Integration",
+                      "url": "https://www.ibm.com/fr-fr/products/cloud-pak-for-integration?lnk=flatitem",
+                      "description": "Outils pour connecter tous vos événements, données et applications"
+                    },
+                    {
+                      "title": "DataPower",
+                      "titleEnglish": "DataPower",
+                      "url": "https://www.ibm.com/fr-fr/products/datapower-gateway?lnk=flatitem",
+                      "description": "Passerelle réseau multi-protocole physique ou virtuelle"
+                    },
+                    {
+                      "title": "Event Streams",
+                      "titleEnglish": "Event Streams",
+                      "url": "https://www.ibm.com/fr-fr/products/event-streams?lnk=flatitem",
+                      "description": "Traitement des flux PaaS basé sur Apache Kafka"
+                    },
+                    {
+                      "title": "IBM Cloud Messages for RabbitMQ",
+                      "titleEnglish": "IBM Cloud Messages for RabbitMQ",
+                      "url": "https://www.ibm.com/fr-fr/products/messages-for-rabbitmq?lnk=flatitem",
+                      "description": "Courtier de messages distribué open source"
+                    },
+                    {
+                      "title": "Information Management System",
+                      "titleEnglish": "Information Management System",
+                      "url": "https://www.ibm.com/fr-fr/products/ims?lnk=flatitem",
+                      "description": "Base de données hiérarchique et processeur de transactions pour Z"
+                    },
+                    {
+                      "title": "MQ",
+                      "titleEnglish": "MQ",
+                      "url": "https://www.ibm.com/fr-fr/products/mq?lnk=flatitem",
+                      "description": "Logiciel et matériel de messagerie entre systèmes distribués"
+                    },
+                    {
+                      "title": "z/OS Connect",
+                      "titleEnglish": "z/OS Connect",
+                      "url": "https://www.ibm.com/fr-fr/products/zos-connect?lnk=flatitem",
+                      "description": "Logiciel pour créer et fournir des API RESTful aux applications z/OS"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "heading": {
+                "title": "Réseau",
+                "titleEnglish": "Network",
+                "url": "https://www.ibm.com/fr-fr/networking?lnk=flathl",
+                "description": "Exécuter et gérer des réseaux publics, privés et virtuels"
+              },
+              "groups": [
+                {
+                  "links": [
+                    {
+                      "title": "Cloud Pak for Network Automation",
+                      "titleEnglish": "Cloud Pak for Network Automation",
+                      "url": "https://www.ibm.com/fr-fr/products/cloud-pak-for-network-automation?lnk=flatitem",
+                      "description": "Logiciel de gestion pour les opérations des réseaux de télécommunication"
+                    },
+                    {
+                      "title": "Edge Application Manager",
+                      "titleEnglish": "Edge Application Manager",
+                      "url": "https://www.ibm.com/fr-fr/products/edge-application-manager?lnk=flatitem",
+                      "description": "Plateforme de gestion pour l'edge computing"
+                    },
+                    {
+                      "title": "Hybrid Cloud Mesh",
+                      "titleEnglish": "Hybrid Cloud Mesh",
+                      "url": "https://www.ibm.com/fr-fr/products/hybrid-cloud-mesh?lnk=flatitem",
+                      "description": "SaaS pour le déploiement et la gestion des réseaux hybrides et multicloud"
+                    },
+                    {
+                      "title": "NS1 Connect",
+                      "titleEnglish": "NS1 Connect",
+                      "url": "https://www.ibm.com/fr-fr/products/ns1-connect?lnk=flatitem",
+                      "description": "DNS faisant autorité et pilotage du trafic en tant que service"
+                    },
+                    {
+                      "title": "SevOne Network Performance Management",
+                      "titleEnglish": "SevOne Network Performance Management",
+                      "url": "https://www.ibm.com/fr-fr/products/sevone-network-performance-management?lnk=flatitem",
+                      "description": "Logiciel pour collecter et analyser les données de performance réseau"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "heading": {
+                "title": "Sécurité et identité",
+                "titleEnglish": "Security & identity",
+                "url": "https://www.ibm.com/fr-fr/security?lnk=flathl",
+                "description": "Sécurisez vos ressources et simplifiez votre conformité réglementaire"
+              },
+              "groups": [
+                {
+                  "links": [
+                    {
+                      "title": "Cloud AppID",
+                      "titleEnglish": "Cloud AppID",
+                      "url": "https://www.ibm.com/fr-fr/products/app-id?lnk=flatitem",
+                      "description": "Authentification et profils d’utilisateurs en tant que service pour les applications mobiles et web"
+                    },
+                    {
+                      "title": "Cloud Security and Compliance Center",
+                      "titleEnglish": "Cloud Security and Compliance Center",
+                      "url": "https://www.ibm.com/fr-fr/products/security-and-compliance-center?lnk=flatitem",
+                      "description": "SaaS pour définir et auditer la stratégie de conformité de votre cloud"
+                    },
+                    {
+                      "title": "Data Security Broker",
+                      "titleEnglish": "Data Security Broker",
+                      "url": "https://www.ibm.com/fr-fr/products/data-security-broker?lnk=flatitem",
+                      "description": "Console d’administration pour activer le chiffrement des données dans le cloud"
+                    },
+                    {
+                      "title": "Guardium",
+                      "titleEnglish": "Guardium",
+                      "url": "https://www.ibm.com/fr-fr/guardium?lnk=flatitem",
+                      "description": "Appliances logicielles et matérielles pour la sécurité des bases de données"
+                    },
+                    {
+                      "title": "Key Protect for IBM Cloud",
+                      "titleEnglish": "Key Protect for IBM Cloud",
+                      "url": "https://www.ibm.com/fr-fr/products/key-protect?lnk=flatitem",
+                      "description": "Outil de provisionnement et de stockage des clés pour les applications dans les services IBM Cloud"
+                    },
+                    {
+                      "title": "MaaS360",
+                      "titleEnglish": "MaaS360",
+                      "url": "https://www.ibm.com/fr-fr/products/maas360?lnk=flatitem",
+                      "description": "Logiciel de gestion de terminaux unifié pour plusieurs types de dispositifs"
+                    },
+                    {
+                      "title": "QRadar EDR",
+                      "titleEnglish": "QRadar EDR",
+                      "url": "https://www.ibm.com/fr-fr/products/qradar-edr?lnk=flatitem",
+                      "description": "Logiciel d'automatisation de la sécurité des terminaux basé sur un hyperviseur"
+                    },
+                    {
+                      "title": "QRadar SIEM",
+                      "titleEnglish": "QRadar SIEM",
+                      "url": "https://www.ibm.com/fr-fr/products/qradar-siem?lnk=flatitem",
+                      "description": "Détection et hiérarchisation des menaces pour une visibilité en temps réel"
+                    },
+                    {
+                      "title": "QRadar SOAR",
+                      "titleEnglish": "QRadar SOAR",
+                      "url": "https://www.ibm.com/fr-fr/products/qradar-soar?lnk=flatitem",
+                      "description": "Logiciel d'automatisation du flux de travail d'intervention en cas d'événement de sécurité"
+                    },
+                    {
+                      "title": "Trusteer",
+                      "titleEnglish": "Trusteer",
+                      "url": "https://www.ibm.com/fr-fr/trusteer?lnk=flatitem",
+                      "description": "Logiciel pour authentifier les clients, détecter les fraudes et évaluer les risques"
+                    },
+                    {
+                      "title": "Verify",
+                      "titleEnglish": "Verify",
+                      "url": "https://www.ibm.com/fr-fr/verify?lnk=flatitem",
+                      "description": "Logiciel IAM disponible sur site ou en tant que logiciel sous forme de services"
+                    },
+                    {
+                      "title": "zSecure",
+                      "titleEnglish": "zSecure",
+                      "url": "https://www.ibm.com/fr-fr/zsecure?lnk=flatitem",
+                      "description": "Outils de sécurité, de gestion des risques et de conformité pour les matériels IBM Z"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "heading": {
+                "title": "Serveurs",
+                "titleEnglish": "Servers",
+                "url": "https://www.ibm.com/fr-fr/servers?lnk=flathl",
+                "description": "Exécuter des charges de travail sur une infrastructure de cloud hybride"
+              },
+              "groups": [
+                {
+                  "links": [
+                    {
+                      "title": "IBM Cloud Bare Metal Servers",
+                      "titleEnglish": "IBM Cloud Bare Metal Servers",
+                      "url": "https://www.ibm.com/fr-fr/products/bare-metal-servers?lnk=flatitem",
+                      "description": "Matériel dédié pour des performances maximales"
+                    },
+                    {
+                      "title": "IBM Cloud Virtual Servers for VPC",
+                      "titleEnglish": "IBM Cloud Virtual Servers for VPC",
+                      "url": "https://www.ibm.com/fr-fr/products/virtual-servers?lnk=flatitem",
+                      "description": "Serveurs virtuels avec processeurs Intel Xeon ou CPUs IBM zSystems"
+                    },
+                    {
+                      "title": "LinuxONE 4",
+                      "titleEnglish": "LinuxONE 4",
+                      "url": "https://www.ibm.com/fr-fr/products/linuxone-4?lnk=flatitem",
+                      "description": "Serveurs physiques et virtuels pour exécuter Linux"
+                    },
+                    {
+                      "title": "Power",
+                      "titleEnglish": "Power",
+                      "url": "https://www.ibm.com/fr-fr/power?lnk=flatitem",
+                      "description": "Serveurs physiques et virtuels avec processeurs IBM Power"
+                    },
+                    {
+                      "title": "z16",
+                      "titleEnglish": "z16",
+                      "url": "https://www.ibm.com/fr-fr/products/z16?lnk=flatitem",
+                      "description": "Mainframe star avec IA intégrée sur puce et technologie quantique"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "heading": {
+                "title": "Stockage",
+                "titleEnglish": "Storage",
+                "url": "https://www.ibm.com/fr-fr/storage?lnk=flathl",
+                "description": "Logiciels, matériels et services pour les charges de travail et les données critiques et opérationnelles"
+              },
+              "groups": [
+                {
+                  "links": [
+                    {
+                      "title": "Ceph",
+                      "titleEnglish": "Ceph",
+                      "url": "https://www.ibm.com/fr-fr/products/ceph?lnk=flatitem",
+                      "description": "Plateforme de stockage définie par logiciel distribuée open source"
+                    },
+                    {
+                      "title": "Cloud Block Storage",
+                      "titleEnglish": "Cloud Block Storage",
+                      "url": "https://www.ibm.com/fr-fr/products/block-storage?lnk=flatitem",
+                      "description": "Service géré optimisé pour une faible latence et des taux de transfert élevés"
+                    },
+                    {
+                      "title": "Cloud File Storage",
+                      "titleEnglish": "Cloud File Storage",
+                      "url": "https://www.ibm.com/fr-fr/products/file-storage?lnk=flatitem",
+                      "description": "Service géré pour le stockage de fichiers NFS durable sur mémoire flash"
+                    },
+                    {
+                      "title": "Cloud Object Storage",
+                      "titleEnglish": "Cloud Object Storage",
+                      "url": "https://www.ibm.com/fr-fr/products/cloud-object-storage?lnk=flatitem",
+                      "description": "Stockage des données non structurées, accessible via des API cloud"
+                    },
+                    {
+                      "title": "Defender",
+                      "titleEnglish": "Defender",
+                      "url": "https://www.ibm.com/fr-fr/products/storage-defender?lnk=flatitem",
+                      "description": "Logiciel de résilience des données pour la détection des menaces et la récupération des données"
+                    },
+                    {
+                      "title": "DS8900F",
+                      "titleEnglish": "DS8900F",
+                      "url": "https://www.ibm.com/fr-fr/products/ds8000f?lnk=flatitem",
+                      "description": "Stockage 100 % flash, à faible latence et hautement disponible pour les mainframes"
+                    },
+                    {
+                      "title": "FlashSystem",
+                      "titleEnglish": "FlashSystem",
+                      "url": "https://www.ibm.com/fr-fr/flashsystem?lnk=flatitem",
+                      "description": "Réseau tout flash offrant les performances et la capacité nécessaires pour toutes les charges de travail"
+                    },
+                    {
+                      "title": "Fusion",
+                      "titleEnglish": "Fusion",
+                      "url": "https://www.ibm.com/fr-fr/products/storage-fusion?lnk=flatitem",
+                      "description": "Stockage en conteneur natif et orchestration de données pour OpenShift"
+                    },
+                    {
+                      "title": "Insights",
+                      "titleEnglish": "Insights",
+                      "url": "https://www.ibm.com/fr-fr/products/storage-insights?lnk=flatitem",
+                      "description": "AIOps de stockage pour des analyses et des décisions fondées sur des mesures"
+                    },
+                    {
+                      "title": "Protect",
+                      "titleEnglish": "Protect",
+                      "url": "https://www.ibm.com/fr-fr/products/storage-protect?lnk=flatitem",
+                      "description": "Résilience, sauvegarde et récupération des données via SaaS"
+                    },
+                    {
+                      "title": "Protect for Cloud",
+                      "titleEnglish": "Protect for Cloud",
+                      "url": "https://www.ibm.com/fr-fr/products/storage-protect-for-cloud?lnk=flatitem",
+                      "description": "SaaS de sauvegarde et de récupération des données dans les services de cloud public"
+                    },
+                    {
+                      "title": "SAN Switches",
+                      "titleEnglish": "SAN Switches",
+                      "url": "https://www.ibm.com/fr-fr/storage-area-network?lnk=flatitem",
+                      "description": "Solutions SAN (Storage Area Network) évolutives et hautement disponibles"
+                    },
+                    {
+                      "title": "Scale",
+                      "titleEnglish": "Scale",
+                      "url": "https://www.ibm.com/fr-fr/products/storage-scale?lnk=flatitem",
+                      "description": "Stockage défini par logiciel pour l'IA et les charges de travail hautes performances"
+                    },
+                    {
+                      "title": "Scale System",
+                      "titleEnglish": "Scale System",
+                      "url": "https://www.ibm.com/fr-fr/products/storage-scale-system?lnk=flatitem",
+                      "description": "Stockage performant 100 % flash ou hybride pour les cas d'utilisation à l'échelle du cloud"
+                    },
+                    {
+                      "title": "Tape Systems",
+                      "titleEnglish": "Tape Systems",
+                      "url": "https://www.ibm.com/fr-fr/tape-storage?lnk=flatitem",
+                      "description": "Logiciels et matériels pour les archives chiffrées et isolées"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "heading": {
+                "title": "Supply chain",
+                "titleEnglish": "Supply chain",
+                "url": "https://www.ibm.com/fr-fr/supply-chain?lnk=flathl",
+                "description": "Gérez les flux de biens et de services"
+              },
+              "groups": [
+                {
+                  "links": [
+                    {
+                      "title": "Sterling Order and Fulfillment Suite",
+                      "titleEnglish": "Sterling Order and Fulfillment Suite",
+                      "url": "https://www.ibm.com/fr-fr/products/order-fulfillment-suite?lnk=flatitem",
+                      "description": "Système d'order management complet avec IA et machine learning"
+                    },
+                    {
+                      "title": "Sterling Supply Chain Intelligence Suite",
+                      "titleEnglish": "Sterling Supply Chain Intelligence Suite",
+                      "url": "https://www.ibm.com/fr-fr/products/supply-chain-intelligence-suite?lnk=flatitem",
+                      "description": "Logiciel d'optimisation et d'automatisation de la chaîne d'approvisionnement"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "heading": {
+                "title": "Systèmes d'exploitation",
+                "titleEnglish": "Operating systems",
+                "url": "",
+                "description": "Exécuter les charges de travail critiques sur des systèmes d'exploitation spécialisés"
+              },
+              "groups": [
+                {
+                  "links": [
+                    {
+                      "title": "AIX",
+                      "titleEnglish": "AIX",
+                      "url": "https://www.ibm.com/fr-fr/products/aix?lnk=flatitem",
+                      "description": "Système d'exploitation UNIX pour les serveurs Power"
+                    },
+                    {
+                      "title": "IBM i",
+                      "titleEnglish": "IBM i",
+                      "url": "https://www.ibm.com/fr-fr/products/ibm-i?lnk=flatitem",
+                      "description": "Système d'exploitation intégré pour les serveurs Power"
+                    },
+                    {
+                      "title": "Linux",
+                      "titleEnglish": "Linux",
+                      "url": "https://www.ibm.com/fr-fr/linux?lnk=flatitem",
+                      "description": "Exécutez des charges de travail Linux sur des serveurs IBM"
+                    },
+                    {
+                      "title": "z/OS",
+                      "titleEnglish": "z/OS",
+                      "url": "https://www.ibm.com/fr-fr/products/zos?lnk=flatitem",
+                      "description": "Système d'exploitation phare pour les opérations de Mainframe continues de grands volumes"
+                    },
+                    {
+                      "title": "z/TPF",
+                      "titleEnglish": "z/TPF",
+                      "url": "https://www.ibm.com/fr-fr/products/z-transaction-processing-facility?lnk=flatitem",
+                      "description": "Système d'exploitation en temps réel pour les Mainframes"
+                    },
+                    {
+                      "title": "z/VM",
+                      "titleEnglish": "z/VM",
+                      "url": "https://www.ibm.com/fr-fr/products/zvm?lnk=flatitem",
+                      "description": "Hyperviseur et logiciel de virtualisation pour IBM zSystems et LinuxONE"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "viewAll": {
+            "title": "Voir tous les produits",
+            "titleEnglish": "View all products",
+            "url": "https://www.ibm.com/fr-fr/products"
+          }
+        }
+      },
+      {
+        "title": "Solutions",
+        "titleEnglish": "Solutions",
+        "url": "",
+        "submenu": {
+          "sections": [
+            {
+              "heading": {
+                "title": "Automatisation",
+                "titleEnglish": "Automation",
+                "url": "https://www.ibm.com/fr-fr/automation?lnk=flathl",
+                "description": "Automatisation intelligente des opérations métiers et informatiques"
+              },
+              "groups": [
+                {
+                  "links": [
+                    {
+                      "title": "AIOps",
+                      "titleEnglish": "AIOps",
+                      "url": "https://www.ibm.com/fr-fr/aiops?lnk=flatitem",
+                      "description": "Bénéficiez d'une gestion proactive et continue de la gestion des performances applicatives"
+                    },
+                    {
+                      "title": "Application Performance Management",
+                      "titleEnglish": "Application performance management",
+                      "url": "https://www.ibm.com/fr-fr/application-performance-management?lnk=flatitem",
+                      "description": "Associer observabilité et gestion automatisée des ressources"
+                    },
+                    {
+                      "title": "Automatisation DevOps",
+                      "titleEnglish": "DevOps automation",
+                      "url": "https://www.ibm.com/fr-fr/devops-automation?lnk=flatitem",
+                      "description": "Automatisez votre processus de livraison de logiciels"
+                    },
+                    {
+                      "title": "Automatisation métier",
+                      "titleEnglish": "Business automation",
+                      "url": "https://www.ibm.com/fr-fr/business-automation?lnk=flatitem",
+                      "description": "Fournir rapidement des solutions d'automatisation intelligentes et low code "
+                    },
+                    {
+                      "title": "Decision Management",
+                      "titleEnglish": "Decision management",
+                      "url": "https://www.ibm.com/fr-fr/decision-management?lnk=flatitem",
+                      "description": "Modélisez, gérez et automatisez des processus métier reproductibles"
+                    },
+                    {
+                      "title": "Enterprise Content Management",
+                      "titleEnglish": "Enterprise content management",
+                      "url": "https://www.ibm.com/fr-fr/enterprise-content-management?lnk=flatitem",
+                      "description": "Accélérez les processus de gestion de l'information et de la gouvernance"
+                    },
+                    {
+                      "title": "FinOps",
+                      "titleEnglish": "FinOps",
+                      "url": "https://www.ibm.com/fr-fr/finops?lnk=flatitem",
+                      "description": "Gérer les variables économiques de l’infrastructure cloud"
+                    },
+                    {
+                      "title": "Intégration",
+                      "titleEnglish": "Integration",
+                      "url": "https://www.ibm.com/fr-fr/integration?lnk=flatitem",
+                      "description": "Connecter les applications et les systèmes pour débloquer les données critiques"
+                    },
+                    {
+                      "title": "iPaaS",
+                      "titleEnglish": "iPaaS",
+                      "url": "https://www.ibm.com/fr-fr/ipaas?lnk=flatitem",
+                      "description": "Assurez la connectivité de toutes vos applications et données"
+                    },
+                    {
+                      "title": "Livraison d’applications",
+                      "titleEnglish": "Application delivery",
+                      "url": "https://www.ibm.com/fr-fr/application-delivery?lnk=flatitem",
+                      "description": "Modernisez les applications et proposez de nouvelles applications cloud natives"
+                    },
+                    {
+                      "title": "Processus de travail",
+                      "titleEnglish": "Workflow",
+                      "url": "https://www.ibm.com/fr-fr/workflow?lnk=flatitem",
+                      "description": "Augmentez la productivité en rationalisant les processus et les tâches"
+                    },
+                    {
+                      "title": "Réseau",
+                      "titleEnglish": "Networking",
+                      "url": "https://www.ibm.com/fr-fr/networking?lnk=flatitem",
+                      "description": "Automatisez la configuration, le provisionnement et le dépannage du réseau"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "heading": {
+                "title": "Développement durable",
+                "titleEnglish": "Sustainability",
+                "url": "https://www.ibm.com/fr-fr/sustainability?lnk=flathl",
+                "description": "Intégrez le développement durable dans votre transformation métier"
+              },
+              "groups": [
+                {
+                  "links": [
+                    {
+                      "title": "Durabilité informatique",
+                      "titleEnglish": "IT sustainability",
+                      "url": "https://www.ibm.com/fr-fr/products/turbonomic/sustainability?lnk=flatitem",
+                      "description": "Logiciel pour estimer la consommation de ressources des infrastructures"
+                    },
+                    {
+                      "title": "Gestion des actifs",
+                      "titleEnglish": "Asset lifecycle management",
+                      "url": "https://www.ibm.com/fr-fr/products/maximo/sustainability?lnk=flatitem",
+                      "description": "Optimisez les performances, prolongez les cycles de vie des actifs et réduisez vos périodes d'indisponibilité"
+                    },
+                    {
+                      "title": "Gestion des installations",
+                      "titleEnglish": "Facilities management",
+                      "url": "https://www.ibm.com/fr-fr/products/tririga/sustainability?lnk=flatitem",
+                      "description": "Une source unique de données de référence pour gérer votre immobilier d'entreprise"
+                    },
+                    {
+                      "title": "Gestion des risques météorologiques",
+                      "titleEnglish": "Weather Risk Management",
+                      "url": "https://www.ibm.com/fr-fr/products/environmental-intelligence-suite/sustainability?lnk=flatitem",
+                      "description": "Gérez l'impact économique de la météo et du climat sur votre entreprise"
+                    },
+                    {
+                      "title": "Production de rapports ESG",
+                      "titleEnglish": "ESG reporting",
+                      "url": "https://www.ibm.com/fr-fr/products/envizi?lnk=flatitem",
+                      "description": "Une base de données pour rationaliser le respect des exigences de production de rapports ESG"
+                    },
+                    {
+                      "title": "Supply chain",
+                      "titleEnglish": "Supply chain",
+                      "url": "https://www.ibm.com/fr-fr/supply-chain?lnk=flatitem",
+                      "description": "Renforcez la résilience de votre chaîne d'approvisionnement avec l'automatisation intelligente"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "heading": {
+                "title": "Données & IA",
+                "titleEnglish": "Data & AI",
+                "url": "",
+                "description": "Optimisez votre stratégie de données pour prendre en charge les décisions basées sur les données"
+              },
+              "groups": [
+                {
+                  "links": [
+                    {
+                      "title": "Analyse prescriptive",
+                      "titleEnglish": "Prescriptive analytics",
+                      "url": "https://www.ibm.com/fr-fr/prescriptive-analytics?lnk=flatitem",
+                      "description": "Utilisez les technologies d'optimisation pour résoudre des décisions complexes"
+                    },
+                    {
+                      "title": "DataOps",
+                      "titleEnglish": "DataOps",
+                      "url": "https://www.ibm.com/fr-fr/dataops?lnk=flatitem",
+                      "description": "Développez un aperçu coordonné de votre parcours d'acquisition de données"
+                    },
+                    {
+                      "title": "Entrepôt de données",
+                      "titleEnglish": "Data warehouse",
+                      "url": "https://www.ibm.com/fr-fr/data-warehouse?lnk=flatitem",
+                      "description": "Une base flexible optimisée pour les données provenant de sources disparates"
+                    },
+                    {
+                      "title": "Éthique de l'IA",
+                      "titleEnglish": "AI ethics",
+                      "url": "https://www.ibm.com/impact/ai-ethics?lnk=flatitem",
+                      "description": "Une IA de confiance et transparente avec une approche multidimensionnelle"
+                    },
+                    {
+                      "title": "Expérience client",
+                      "titleEnglish": "Customer experience",
+                      "url": "https://www.ibm.com/fr-fr/ai-customer-service?lnk=flatitem",
+                      "description": "Construisez un agent conversationnel d'IA à service complet qui s'intègre à votre gestion de la relation client"
+                    },
+                    {
+                      "title": "Gestion des données",
+                      "titleEnglish": "Data management",
+                      "url": "https://www.ibm.com/fr-fr/data-management?lnk=flatitem",
+                      "description": "Un accès aux données et une livraison constante, à travers les applications et les domaines"
+                    },
+                    {
+                      "title": "Gestion des données de référence",
+                      "titleEnglish": "Master data management",
+                      "url": "https://www.ibm.com/fr-fr/master-data-management?lnk=flatitem",
+                      "description": "Un affichage sécurisé à 360° des données de référence dans toute l'entreprise"
+                    },
+                    {
+                      "title": "IA",
+                      "titleEnglish": "AI",
+                      "url": "https://www.ibm.com/fr-fr/artificial-intelligence?lnk=flatitem",
+                      "description": "Des solutions d'intelligence artificielle construites avec toute l'expertise du secteur"
+                    },
+                    {
+                      "title": "Lac de données",
+                      "titleEnglish": "Data lake",
+                      "url": "https://www.ibm.com/fr-fr/data-lake?lnk=flatitem",
+                      "description": "Analyser les données structurées, semi-structurées et non structurées"
+                    },
+                    {
+                      "title": "Matrice de données",
+                      "titleEnglish": "Data fabric",
+                      "url": "https://www.ibm.com/fr-fr/data-fabric?lnk=flatitem",
+                      "description": "Automatisez la reconnaissance, la gouvernance et la consommation des données"
+                    },
+                    {
+                      "title": "Qualité des données",
+                      "titleEnglish": "Data quality",
+                      "url": "https://www.ibm.com/fr-fr/data-quality?lnk=flatitem",
+                      "description": "Des outils robustes pour contribuer à identifier, comprendre et corriger les failles de données"
+                    },
+                    {
+                      "title": "Science des données",
+                      "titleEnglish": "Data science",
+                      "url": "https://www.ibm.com/fr-fr/data-science?lnk=flatitem",
+                      "description": "Opérationnalisez les modèles de science des données sur n'importe quel cloud"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "heading": {
+                "title": "Infrastructure",
+                "titleEnglish": "Infrastructure",
+                "url": "https://www.ibm.com/fr-fr/it-infrastructure?lnk=flathl",
+                "description": ""
+              },
+              "groups": [
+                {
+                  "links": [
+                    {
+                      "title": "Cloud hybride",
+                      "titleEnglish": "Hybrid cloud",
+                      "url": "https://www.ibm.com/fr-fr/hybrid-cloud?lnk=flatitem",
+                      "description": "Utiliser une plateforme commune dans des environnements de cloud, sur site et en périphérie"
+                    },
+                    {
+                      "title": "Edge computing",
+                      "titleEnglish": "Edge computing",
+                      "url": "https://www.ibm.com/fr-fr/edge-computing?lnk=flatitem",
+                      "description": "Gérez les charges de travail à tous les niveaux sur n'importe quel multicloud hybride"
+                    },
+                    {
+                      "title": "High performance computing (HPC)",
+                      "titleEnglish": "High performance computing (HPC)",
+                      "url": "https://www.ibm.com/fr-fr/high-performance-computing?lnk=flatitem",
+                      "description": "Infrastructure HPC pour les charges de travail avancées et gourmandes en données"
+                    },
+                    {
+                      "title": "Modernisation des applications du mainframe",
+                      "titleEnglish": "Mainframe application modernization",
+                      "url": "https://www.ibm.com/fr-fr/mainframe-application-modernization?lnk=flatitem",
+                      "description": "Appliquer des outils de développement et DevOps modernes aux applications mainframe"
+                    },
+                    {
+                      "title": "Modernisation IT",
+                      "titleEnglish": "IT modernization",
+                      "url": "https://www.ibm.com/fr-fr/infrastructure-modernization?lnk=flatitem",
+                      "description": "Modernisez les technologies informatiques existantes avec des microservices conteneurisés"
+                    },
+                    {
+                      "title": "Sauvegarde & récupération",
+                      "titleEnglish": "Backup & recovery",
+                      "url": "https://www.ibm.com/fr-fr/backup-recovery?lnk=flatitem",
+                      "description": "Une résilience complète des données pour les serveurs physiques et virtuels"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "heading": {
+                "title": "Secteurs d'activité",
+                "titleEnglish": "Industry",
+                "url": "https://www.ibm.com/fr-fr/industries?lnk=flathl",
+                "description": "Bénéficiez de solutions pour votre secteur d'activité"
+              },
+              "groups": [
+                {
+                  "links": [
+                    {
+                      "title": "Assurance",
+                      "titleEnglish": "Insurance",
+                      "url": "https://www.ibm.com/fr-fr/industries/insurance?lnk=flatitem",
+                      "description": "Améliorer les opérations et les expériences des clients très rapidement et à grande échelle"
+                    },
+                    {
+                      "title": "Automobile",
+                      "titleEnglish": "Automotive",
+                      "url": "https://www.ibm.com/fr-fr/industries/automotive?lnk=flatitem",
+                      "description": "Transférez votre priorité vers les véhicules connectés et les services numériques"
+                    },
+                    {
+                      "title": "Banque",
+                      "titleEnglish": "Banking",
+                      "url": "https://www.ibm.com/fr-fr/industries/banking-financial-markets?lnk=flatitem",
+                      "description": "Créer des expériences bancaires conformes et centrées sur les clients"
+                    },
+                    {
+                      "title": "Biens de grande consommation",
+                      "titleEnglish": "Consumer goods",
+                      "url": "https://www.ibm.com/fr-fr/industries/consumer-goods?lnk=flatitem",
+                      "description": "Introduisez plus d'agilité et d'automatisation dans vos opérations et votre supply chain"
+                    },
+                    {
+                      "title": "Distribution",
+                      "titleEnglish": "Retail",
+                      "url": "https://www.ibm.com/fr-fr/industries/retail?lnk=flatitem",
+                      "description": "Répondez aux besoins changeants des consommateurs"
+                    },
+                    {
+                      "title": "Énergie & services publics",
+                      "titleEnglish": "Energy & utilities",
+                      "url": "https://www.ibm.com/fr-fr/industries/energy?lnk=flatitem",
+                      "description": "Préparez vous pour le nouvel écosystème d'énergie durable"
+                    },
+                    {
+                      "title": "Gouvernement",
+                      "titleEnglish": "Government",
+                      "url": "https://www.ibm.com/fr-fr/industries/government?lnk=flatitem",
+                      "description": "Accompagnez les citoyens rapidement et en toute confiance"
+                    },
+                    {
+                      "title": "Industrie",
+                      "titleEnglish": "Manufacturing",
+                      "url": "https://www.ibm.com/fr-fr/industries/manufacturing?lnk=flatitem",
+                      "description": "Transformation digitale des processus de fabrication traditionnels"
+                    },
+                    {
+                      "title": "Santé",
+                      "titleEnglish": "Healthcare",
+                      "url": "https://www.ibm.com/fr-fr/industries/healthcare?lnk=flatitem",
+                      "description": "Naviguer dans un écosystème de soins de santé plus interconnecté et riche en données"
+                    },
+                    {
+                      "title": "Sciences de la vie",
+                      "titleEnglish": "Life Sciences",
+                      "url": "https://www.ibm.com/fr-fr/industries/life-sciences?lnk=flatitem",
+                      "description": "Accélérez l'innovation produit et favorisez l'approche centrée sur les patients"
+                    },
+                    {
+                      "title": "Télécommunications",
+                      "titleEnglish": "Telecommunications",
+                      "url": "https://www.ibm.com/fr-fr/industries/telecommunications?lnk=flatitem",
+                      "description": "Implémentez une architecture de réseau plus flexible et transparente"
+                    },
+                    {
+                      "title": "Voyages et transports",
+                      "titleEnglish": "Travel",
+                      "url": "https://www.ibm.com/fr-fr/industries/travel-transportation?lnk=flatitem",
+                      "description": "Restaurez la confiance des voyageurs et augmentez votre efficacité opérationnelle"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "heading": {
+                "title": "Sécurité",
+                "titleEnglish": "Security",
+                "url": "https://www.ibm.com/fr-fr/security?lnk=flathl",
+                "description": "Une cybersécurité d'entreprise pour les environnements de cloud hybride d'aujourd'hui"
+              },
+              "groups": [
+                {
+                  "links": [
+                    {
+                      "title": "Délit d'initié",
+                      "titleEnglish": "Insider threat",
+                      "url": "https://www.ibm.com/fr-fr/insider-threat?lnk=flatitem",
+                      "description": "Protection contre les menaces malveillantes ou involontaires de la part d'initiés"
+                    },
+                    {
+                      "title": "Ransomware",
+                      "titleEnglish": "Ransomware",
+                      "url": "https://www.ibm.com/fr-fr/ransomware?lnk=flatitem",
+                      "description": "Gérez proactivement les cyber-risques pour réduire l'impact des attaques"
+                    },
+                    {
+                      "title": "Sécurité des données",
+                      "titleEnglish": "Data security",
+                      "url": "https://www.ibm.com/fr-fr/data-security?lnk=flatitem",
+                      "description": "Respectez les règles de confidentialité des données et simplifiez votre complexité opérationnelle"
+                    },
+                    {
+                      "title": "Sécurité du cloud",
+                      "titleEnglish": "Cloud security",
+                      "url": "https://www.ibm.com/fr-fr/cloud-security?lnk=flatitem",
+                      "description": "Faites confiance à la sécurité IBM Cloud pour la protection de vos données et la conformité"
+                    },
+                    {
+                      "title": "Threat detection and response",
+                      "titleEnglish": "Threat detection and response",
+                      "url": "https://www.ibm.com/fr-fr/threat-detection-response?lnk=flatitem",
+                      "description": "Accelerate and streamline responses across the attack lifecycle"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "title": "Consulting",
+        "titleEnglish": "Consulting",
+        "url": "https://www.ibm.com/fr-fr/consulting?lnk=L0G"
+      },
+      {
+        "title": "Support",
+        "titleEnglish": "Support",
+        "url": "",
+        "submenu": {
+          "sections": [
+            {
+              "groups": [
+                {
+                  "heading": {
+                    "title": "Communauté",
+                    "titleEnglish": "Community",
+                    "url": "https://community.ibm.com/community/user/home?lnk=flathl",
+                    "description": ""
+                  },
+                  "links": []
+                },
+                {
+                  "heading": {
+                    "title": "Développeurs",
+                    "titleEnglish": "Developer",
+                    "url": "https://developer.ibm.com/?lnk=flathl",
+                    "description": ""
+                  },
+                  "links": [
+                    {
+                      "title": "Appel au code",
+                      "titleEnglish": "Call for Code",
+                      "url": "https://developer.ibm.com/callforcode/?lnk=flatitem",
+                      "description": ""
+                    },
+                    {
+                      "title": "IA générative",
+                      "titleEnglish": "Generative AI",
+                      "url": "https://developer.ibm.com/generative-ai-for-developers/?lnk=flatitem",
+                      "description": ""
+                    },
+                    {
+                      "title": "Produits",
+                      "titleEnglish": "Products",
+                      "url": "https://developer.ibm.com/components/?lnk=flatitem",
+                      "description": ""
+                    },
+                    {
+                      "title": "Technologies",
+                      "titleEnglish": "Technologies",
+                      "url": "https://developer.ibm.com/technologies/?lnk=flatitem",
+                      "description": ""
+                    }
+                  ]
+                },
+                {
+                  "heading": {
+                    "title": "Documentation",
+                    "titleEnglish": "Documentation",
+                    "url": "https://www.ibm.com/docs/fr?lnk=flathl",
+                    "description": ""
+                  },
+                  "links": [
+                    {
+                      "title": "Documentation IBM Cloud",
+                      "titleEnglish": "IBM Cloud documentation",
+                      "url": "https://cloud.ibm.com/docs?locale=fr&lnk=flatitem",
+                      "description": ""
+                    },
+                    {
+                      "title": "Redbooks IBM",
+                      "titleEnglish": "IBM Redbooks",
+                      "url": "https://www.redbooks.ibm.com/?lnk=flatitem",
+                      "description": ""
+                    },
+                    {
+                      "title": "Toutes les documentations de produit",
+                      "titleEnglish": "All product documentation",
+                      "url": "https://www.ibm.com/docs/fr?lnk=flatitem",
+                      "description": ""
+                    }
+                  ]
+                },
+                {
+                  "heading": {
+                    "title": "Mise en œuvre",
+                    "titleEnglish": "Implementation",
+                    "url": "",
+                    "description": ""
+                  },
+                  "links": [
+                    {
+                      "title": "Expert Labs",
+                      "titleEnglish": "Expert Labs",
+                      "url": "https://www.ibm.com/fr-fr/products/expertlabs?lnk=flatitem",
+                      "description": ""
+                    }
+                  ]
+                },
+                {
+                  "heading": {
+                    "title": "Support",
+                    "titleEnglish": "Support",
+                    "url": "https://www.ibm.com/mysupport/s?language=fr&lnk=flathl",
+                    "description": ""
+                  },
+                  "links": [
+                    {
+                      "title": "Consultez vos tickets",
+                      "titleEnglish": "View your cases",
+                      "url": "https://www.ibm.com/mysupport/s/my-cases?language=fr&lnk=flatitem",
+                      "description": ""
+                    },
+                    {
+                      "title": "Ouvrez un ticket",
+                      "titleEnglish": "Open a case",
+                      "url": "https://www.ibm.com/mysupport/s/redirecttoopencasepage?language=fr&lnk=flatitem",
+                      "description": ""
+                    },
+                    {
+                      "title": "Voir plus",
+                      "titleEnglish": "View more",
+                      "url": "https://www.ibm.com/mysupport/s?language=fr&lnk=flatitem",
+                      "description": ""
+                    }
+                  ]
+                },
+                {
+                  "heading": {
+                    "title": "Support de la plateforme IBM Cloud",
+                    "titleEnglish": "IBM Cloud platform support",
+                    "url": "https://www.ibm.com/fr-fr/cloud/support?lnk=flathl",
+                    "description": ""
+                  },
+                  "links": []
+                },
+                {
+                  "heading": {
+                    "title": "Technology Lifecycle Services",
+                    "titleEnglish": "Technology Lifecycle Services",
+                    "url": "https://www.ibm.com/fr-fr/services/technology-lifecycle-services?lnk=flathl",
+                    "description": ""
+                  },
+                  "links": [
+                    {
+                      "title": "Logiciel",
+                      "titleEnglish": "Software",
+                      "url": "https://www.ibm.com/fr-fr/services/software-support?lnk=flatitem",
+                      "description": ""
+                    },
+                    {
+                      "title": "Réseau et sécurité d’entreprise",
+                      "titleEnglish": "Enterprise networking and security",
+                      "url": "https://www.ibm.com/fr-fr/services/networking-support?lnk=flatitem",
+                      "description": ""
+                    },
+                    {
+                      "title": "Serveurs et stockage",
+                      "titleEnglish": "Servers and storage",
+                      "url": "https://www.ibm.com/fr-fr/services/systems-support?lnk=flatitem",
+                      "description": ""
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "title": "En savoir plus",
+        "titleEnglish": "More",
+        "url": "",
+        "submenu": {
+          "sections": [
+            {
+              "groups": [
+                {
+                  "heading": {
+                    "title": "A propos d'IBM",
+                    "titleEnglish": "About IBM",
+                    "url": "https://www.ibm.com/fr-fr/about?lnk=flathl",
+                    "description": ""
+                  },
+                  "links": [
+                    {
+                      "title": "Actualités et annonces",
+                      "titleEnglish": "News & announcements",
+                      "url": "https://fr.newsroom.ibm.com/?lnk=flatitem",
+                      "description": ""
+                    },
+                    {
+                      "title": "Diversité et inclusion",
+                      "titleEnglish": "Diversity & inclusion",
+                      "url": "https://www.ibm.com/impact/be-equal?lnk=flatitem",
+                      "description": ""
+                    },
+                    {
+                      "title": "Financement",
+                      "titleEnglish": "Financing",
+                      "url": "https://www.ibm.com/fr-fr/financing?lnk=flatitem",
+                      "description": ""
+                    },
+                    {
+                      "title": "Responsabilité sociale des entreprises",
+                      "titleEnglish": "Corporate social responsibility",
+                      "url": "https://www.ibm.com/impact?lnk=flatitem",
+                      "description": ""
+                    }
+                  ]
+                },
+                {
+                  "heading": {
+                    "title": "Abonnement à la newsletter",
+                    "titleEnglish": "Newsletter subscriptions",
+                    "url": "https://www.ibm.com/fr-fr/subscribe?lnk=flathl",
+                    "description": ""
+                  },
+                  "links": []
+                },
+                {
+                  "heading": {
+                    "title": "Partenaires",
+                    "titleEnglish": "Partners",
+                    "url": "https://www.ibm.com/fr-fr/partnerplus?lnk=flathl",
+                    "description": ""
+                  },
+                  "links": [
+                    {
+                      "title": "Partenaires stratégiques",
+                      "titleEnglish": "Strategic partners",
+                      "url": "https://www.ibm.com/fr-fr/strategic-partnerships?lnk=flatitem",
+                      "description": ""
+                    },
+                    {
+                      "title": "Partner Plus",
+                      "titleEnglish": "Partner Plus",
+                      "url": "https://www.ibm.com/fr-fr/partnerplus?lnk=flatitem",
+                      "description": ""
+                    }
+                  ]
+                },
+                {
+                  "heading": {
+                    "title": "Recherche",
+                    "titleEnglish": "Research",
+                    "url": "https://research.ibm.com/?lnk=flathl",
+                    "description": ""
+                  },
+                  "links": [
+                    {
+                      "title": "Blog",
+                      "titleEnglish": "Blog",
+                      "url": "https://research.ibm.com/blog?lnk=flatitem",
+                      "description": ""
+                    },
+                    {
+                      "title": "Collaborez avec nous",
+                      "titleEnglish": "Collaborate with us",
+                      "url": "https://research.ibm.com/collaborate?lnk=flatitem",
+                      "description": ""
+                    },
+                    {
+                      "title": "Publications",
+                      "titleEnglish": "Publications",
+                      "url": "https://research.ibm.com/publications?lnk=flatitem",
+                      "description": ""
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "masthead": {
+    "search": {
+      "btnSearchClosed": "Open IBM search field",
+      "btnSearchOpen": "Search all of IBM",
+      "btnClose": "Close IBM search field",
+      "placeHolderText": "Search all of IBM"
+    },
+    "profileMenu": {
+      "signedout": {
+        "iconLabel": "User Profile",
+        "links": [
+          {
+            "title": "My IBM",
+            "url": "https://myibm.ibm.com/?lnk=mmi"
+          },
+          {
+            "title": "Log in",
+            "url": "https://login.ibm.com/oidc/endpoint/default/authorize?redirect_uri=https%3A%2F%2Fmyibm.ibm.com%2FOIDCHandler.html&response_type=token&client_id=v18LoginProdCI&scope=openid&state=https%3A%2F%2Fwww.ibm.com&nonce=8675309"
+          }
+        ]
+      },
+      "signedin": {
+        "iconLabel": "User Profile: Logged in",
+        "links": [
+          {
+            "title": "My IBM",
+            "url": "https://myibm.ibm.com/?lnk=mmi"
+          },
+          {
+            "title": "Profile",
+            "url": "https://myibm.ibm.com/profile/?lnk=mmi"
+          },
+          {
+            "title": "Billing",
+            "url": "https://myibm.ibm.com/billing/?lnk=mmi"
+          },
+          {
+            "title": "Log out",
+            "url": "https://myibm.ibm.com/pkmslogout?filename=accountRedir.html"
+          }
+        ]
+      }
+    },
+    "logo": {
+      "href": "https://www.ibm.com/fr-fr"
+    }
+  },
+  "profileMenu": {
+    "signedout": [
+      {
+        "title": "Mon compte IBM",
+        "url": "https://myibm.ibm.com/dashboard/?lnk=mmi_frfr"
+      },
+      {
+        "title": "Se connecter",
+        "url": "https://login.ibm.com/oidc/endpoint/default/authorize?redirect_uri=https%3A%2F%2Fmyibm.ibm.com%2FOIDCHandler.html&response_type=token&client_id=v18LoginProdCI&scope=openid&state=https%3A%2F%2Fwww.ibm.com&nonce=8675309"
+      }
+    ],
+    "signedin": [
+      {
+        "title": "Mon site IBM : My IBM",
+        "url": "https://myibm.ibm.com/"
+      },
+      {
+        "title": "Profil",
+        "url": "https://myibm.ibm.com/profile/"
+      },
+      {
+        "title": "Facturation",
+        "url": "https://myibm.ibm.com/billing/"
+      },
+      {
+        "id": "signout",
+        "title": "Se déconnecter",
+        "url": "https://myibm.ibm.com/pkmslogout?filename=accountRedir.html"
+      }
+    ]
+  },
+  "marketplace": {
+    "title": "Produits",
+    "url": ""
+  },
+  "footerMenu": [
+    {
+      "title": "Découvrir",
+      "links": [
+        {
+          "title": "Produits",
+          "url": "https://www.ibm.com/fr-fr/products?lnk=hmpr_frfr"
+        },
+        {
+          "title": "Services",
+          "url": "https://www.ibm.com/fr-fr/services?lnk=STW_FR_HPF_FT_TL&lnk2=goto_Services&psrc=none&pexp=def"
+        },
+        {
+          "title": "Secteurs d'activité",
+          "url": "https://www.ibm.com/fr-fr/industries"
+        },
+        {
+          "title": "Études de cas (US)",
+          "url": "https://www.ibm.com/case-studies"
+        },
+        {
+          "title": "Essais gratuits des logiciels IBM",
+          "url": "https://www.ibm.com/fr-fr/products/trials?lnk=STW_FR_HPF_THP_FT_TL&&lnk2=goto_THP"
+        },
+        {
+          "title": "Financement",
+          "url": "https://www.ibm.com/fr-fr/financing"
+        }
+      ]
+    },
+    {
+      "title": "Informations pour...",
+      "links": [
+        {
+          "title": "Développeurs",
+          "url": "https://www.ibm.com/developerworks"
+        },
+        {
+          "title": "Partenaires commerciaux",
+          "url": "https://www.ibm.com/fr-fr/partnerplus?lnk=fpo"
+        }
+      ]
+    },
+    {
+      "title": "Connectez-vous",
+      "links": [
+        {
+          "title": "IBM Consulting",
+          "url": "https://www.ibm.com/fr-fr/consulting?lnk=fco"
+        },
+        {
+          "title": "Support",
+          "url": "https://www.ibm.com/support/fr/fr/index.html?lnk=fcw-frfr"
+        },
+        {
+          "title": "Rechercher un partenaire commercial (US)",
+          "url": "https://www.ibm.com/partnerworld/wps/bplocator/search.jsp?lnk=fcw-frfr"
+        }
+      ]
+    },
+    {
+      "title": "A propos d'IBM",
+      "links": [
+        {
+          "title": "Contactez IBM",
+          "url": "https://www.ibm.com/contact/fr/fr/"
+        },
+        {
+          "title": "Carrières",
+          "url": "https://www.ibm.com/careers/?lnk=fab"
+        },
+        {
+          "title": "Evénements IBM dans le monde",
+          "url": "https://www.ibm.com/events"
+        },
+        {
+          "title": "Newsroom",
+          "url": "https://fr.newsroom.ibm.com/?lnk=fab-frfr"
+        },
+        {
+          "title": "Participer à la recherche sur l'expérience utilisateur",
+          "url": "https://www.ibm.com/fr-fr/products/feedback/user-experience-program/?lnk=fab"
+        },
+        {
+          "title": "Relations avec les investisseurs (US)",
+          "url": "https://www.ibm.com/investor/?lnk=fab-frfr"
+        },
+        {
+          "title": "A propos d'IBM",
+          "url": "https://www.ibm.com/fr-fr/about"
+        },
+        {
+          "title": "IBM Innovation Studio",
+          "url": "https://www.ibm.com/about/innovation-studio"
+        }
+      ]
+    }
+  ],
+  "footerThin": [
+    {
+      "title": "Contact",
+      "url": "https://www.ibm.com/fr-fr/contact?lnk=flg-cont-frfr"
+    },
+    {
+      "title": "Données personnelles",
+      "url": "https://www.ibm.com/fr-fr/privacy"
+    },
+    {
+      "title": "Conditions d'utilisation",
+      "url": "https://www.ibm.com/fr-fr/legal?lnk=flg-tous-frfr"
+    },
+    {
+      "title": "Accessibilité",
+      "url": "https://www.ibm.com/able?lnk=flg-able-frfr"
+    }
+  ],
+  "localeSelector": {
+    "localVersions": "Versions traduites de cette page",
+    "homepages": "Pages d'accueil ibm.com Monde"
+  },
+  "socialFollow": {
+    "title": "Suivre IBM",
+    "links": [
+      {
+        "linkClass": "ibm-twitter-encircled-link",
+        "title": "X",
+        "url": "https://twitter.com/ibm_france?lang=fr"
+      },
+      {
+        "linkClass": "ibm-linkedin-encircled-link",
+        "title": "LinkedIn",
+        "url": "https://www.linkedin.com/company/ibm"
+      }
+    ]
+  },
+  "socialSharing": [
+    {
+      "id": "digg",
+      "title": "Digg",
+      "url": "https://digg.com/submit?phase=2&url=%{URL}&title=%{TITLE}"
+    },
+    {
+      "id": "facebook",
+      "title": "Facebook",
+      "url": "https://www.facebook.com/sharer.php?u=%{URL}&t=%{TITLE}"
+    },
+    {
+      "id": "twitter",
+      "title": "X",
+      "url": "https://twitter.com/home?status=%{URL}%20-%20%{TITLE}"
+    },
+    {
+      "id": "delicious",
+      "title": "Delicious",
+      "url": "https://delicious.com/post?url=%{URL}&title=%{TITLE}"
+    },
+    {
+      "id": "linkedin",
+      "title": "Linked In",
+      "url": "https://www.linkedin.com/shareArticle?mini=true&url=%{URL}&title=%{TITLE}"
+    }
+  ],
+  "leaving": {
+    "LEAVING001": "Quitter le portail IBM",
+    "LEAVING002": "Vous allez quitter le portail IBM et vous entrerez sur le site web d'une partie tierce. Sauf indication contraire, les Conditions générales et la Politique de confidentialité du site tiers s’appliquent et peuvent différer de celles d’IBM.",
+    "LEAVING003": "Vous serez dirigé vers",
+    "LEAVING004": "Remarque"
+  },
+  "misc": {
+    "backtotop": "Début",
+    "cancelText": "Annuler",
+    "close": "Fermez",
+    "cookiePrefs": "Préférences liées aux cookies",
+    "continueText": "Continuer",
+    "editProfile": "Editer mon profil",
+    "emailThisPage": "Envoyer cette page par e-mail",
+    "feedback": "Feedback",
+    "mpScopedSearh": "Produits",
+    "withinMp": "Produits",
+    "next": "Futur nom",
+    "noresults": "Aucun résultat trouvé",
+    "prev": "Précédent",
+    "resultsNav": "Use down and up arrow keys to navigate through the results.",
+    "search": "Search",
+    "selectCountry": "Choisissez un pays/une région",
+    "sharePage": "Partager cette page",
+    "signin": "Connexion",
+    "signout": "Se déconnecter",
+    "sitenav": "Navigation dans le site",
+    "welcomeback": "Bienvenue"
+  }
+}
+h_�H�=      f���f���Ga-�f��x   �    O^partitionKey=%28https%2Cibm.com%29,a,~FETCH,:https://1.www.s81c.com/common/carbon-for-ibm-dotcom/translations/masthead-footer/v2.1/frfr.json necko:classified 1 strongly-framed 1 security-info FnhllAKWRHGAlo+ESXykKAAAAAAAAAAAwAAAAAAAAEaphjojH6pBabDSgSnsfLHeAAAAAgAAAAAAAAAAAAAAAAAAAAEAOQFmCjImkVxP+7sgiYWmMt8FvcOXmlQiTNWFiWlrbpbqgwAAAAAAAAm1MIIJsTCCCJmgAwIBAgIQAVmNLt+Sas14pE/PJ/e/pjANBgkqhkiG9w0BAQsFADBeMQswCQYDVQQGEwJVUzEVMBMGA1UEChMMRGlnaUNlcnQgSW5jMRkwFwYDVQQLExB3d3cuZGlnaWNlcnQuY29tMR0wGwYDVQQDExRHZW9UcnVzdCBSU0EgQ0EgMjAxODAeFw0yNDA3MTIwMDAwMDBaFw0yNTA3MTEyMzU5NTlaMH0xCzAJBgNVBAYTAlVTMREwDwYDVQQIEwhOZXcgWW9yazEPMA0GA1UEBxMGQXJtb25rMTQwMgYDVQQKEytJbnRlcm5hdGlvbmFsIEJ1c2luZXNzIE1hY2hpbmVzIENvcnBvcmF0aW9uMRQwEgYDVQQDEwt3d3cuaWJtLmNvbTCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBAK1dhQVl5Xh4vPlG4mapUZmHK6BPAVuVl2gV4szoQVisBZkoeYlNiYIXXlnQZ/5tTzNVSGIq9jUSQ4p9XDvV3sP5pGT5s92nCmgAlr8mQu72fWHdOuCUrfaxPuKzhVCmG0RjR60c7IYAAvkZriDWqc/TOkALFdHqsgEuv62lQeekW6xlG4AMIC/dvajVOH1f4rf+uBjdXbOzsIpdrSaG/656FftvnJZtwjJLb6O3mMDtSPSvFxJZk+aN2NMOrTlYz9raPLZlcmlaNBGDWKYs0s64sZDOTgnLzg+FEh/VD2j0H0/pwyEUf8qV7TbZpzIyV0UxPqYW72EvQILfQgjnbuECAwEAAaOCBkowggZGMB8GA1UdIwQYMBaAFJBY/7CcdahRVHex7fKjQxY4nmzFMB0GA1UdDgQWBBRMJWMuqoHyCY+44TxRUaHCRZSKmjCCA00GA1UdEQSCA0QwggNAggt3d3cuaWJtLmNvbYIOMS5jbXMuczgxYy5jb22CETEuY21zbmV3LnM4MWMuY29tghExLmNtc3BvYy5zODFjLmNvbYITMS5jbXNzdGFnZS5zODFjLmNvbYIPd3d3dGVzdC5pYm0uY29tghN3d3d0ZXN0LTExMi5pYm0uY29tghB3d3dzdGFnZS5pYm0uY29tgg53d3dwb2MuaWJtLmNvbYISd3d3cG9jLTExMi5pYm0uY29tggt3d3cubmljLmlibYIVd3d3LmRldmVsb3Blci5pYm0uY29tgh13d3cuYXRzczAwMXVhdC5hdC5zbWkuaWJtLmNvbYIPd3d3LWFwaS5pYm0uY29tghR3d3ctOTY5c3RhZ2UuaWJtLmNvbYIPd3d3LTk2OS5pYm0uY29tgg93d3ctOTQ2LmlibS5jb22CD3d3dy05MzUuaWJtLmNvbYIOd3d3LTUwLmlibS5jb22CDnd3dy00MC5pYm0uY29tgg93d3ctMzU2LmlibS5jb22CEHd3dy0yMDAwLmlibS5jb22CD3d3dy0xMTIuaWJtLmNvbYIOd3d3LTA3LmlibS5jb22CDnd3dy0wNi5pYm0uY29tgg53d3ctMDUuaWJtLmNvbYIOd3d3LTAzLmlibS5jb22CDnd3dy0wMS5pYm0uY29tghF1c21yLmNtcy5zODFjLmNvbYIPdXMuY21zLnM4MWMuY29tgg1teWlibS5pYm0uY29tggttcC5zODFjLmNvbYIHaWJtLmNvbYIPZXUuY21zLnM4MWMuY29tghFkZXZlbG9wZXIuaWJtLmNvbYIZY2RuLXByb2QtZWRpdC5jbXMuaWJtLm5ldIIQYXBpLnd3dy5zODFjLmNvbYIPYXAuY21zLnM4MWMuY29tghMxLnd3d3N0YWdlLnM4MWMuY29tgg4xLnd3dy5zODFjLmNvbYITMS5kYW1zdGFnZS5zODFjLmNvbYIVMS5kYW1wcmVwcm9kLnM4MWMuY29tghExLmRhbWRldi5zODFjLmNvbYIOMS5kYW0uczgxYy5jb22CEjEuY21zdGVzdC5zODFjLmNvbYIWMS5jbXNzdGFnZW5ldy5zODFjLmNvbTA+BgNVHSAENzA1MDMGBmeBDAECAjApMCcGCCsGAQUFBwIBFhtodHRwOi8vd3d3LmRpZ2ljZXJ0LmNvbS9DUFMwDgYDVR0PAQH/BAQDAgWgMB0GA1UdJQQWMBQGCCsGAQUFBwMBBggrBgEFBQcDAjA+BgNVHR8ENzA1MDOgMaAvhi1odHRwOi8vY2RwLmdlb3RydXN0LmNvbS9HZW9UcnVzdFJTQUNBMjAxOC5j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c21pLmlibS5jb22CD3d3dy1hcGkuaWJtLmNvbYIUd3d3LTk2OXN0YWdlLmlibS5jb22CD3d3dy05NjkuaWJtLmNvbYIPd3d3LTk0Ni5pYm0uY29tgg93d3ctOTM1LmlibS5jb22CDnd3dy01MC5pYm0uY29tgg53d3ctNDAuaWJtLmNvbYIPd3d3LTM1Ni5pYm0uY29tghB3d3ctMjAwMC5pYm0uY29tgg93d3ctMTEyLmlibS5jb22CDnd3dy0wNy5pYm0uY29tgg53d3ctMDYuaWJtLmNvbYIOd3d3LTA1LmlibS5jb22CDnd3dy0wMy5pYm0uY29tgg53d3ctMDEuaWJtLmNvbYIRdXNtci5jbXMuczgxYy5jb22CD3VzLmNtcy5zODFjLmNvbYINbXlpYm0uaWJtLmNvbYILbXAuczgxYy5jb22CB2libS5jb22CD2V1LmNtcy5zODFjLmNvbYIRZGV2ZWxvcGVyLmlibS5jb22CGWNkbi1wcm9kLWVkaXQuY21zLmlibS5uZXSCEGFwaS53d3cuczgxYy5jb22CD2FwLmNtcy5zODFjLmNvbYITMS53d3dzdGFnZS5zODFjLmNvbYIOMS53d3cuczgxYy5jb22CEzEuZGFtc3RhZ2UuczgxYy5jb22CFTEuZGFtcHJlcHJvZC5zODFjLmNvbYIRMS5kYW1kZXYuczgxYy5jb22CDjEuZGFtLnM4MWMuY29tghIxLmNtc3Rlc3QuczgxYy5jb22CFjEuY21zc3RhZ2VuZXcuczgxYy5jb20wPgYDVR0gBDcwNTAzBgZngQwBAgIwKTAnBggrBgEFBQcCARYbaHR0cDovL3d3dy5kaWdpY2VydC5jb20vQ1BTMA4GA1UdDwEB/wQEAwIFoDAdBgNVHSUEFjAUBggrBgEFBQcDAQYIKwYBBQUHAwIwPgYDVR0fBDcwNTAzoDGgL4YtaHR0cDovL2NkcC5nZW90cnVzdC5jb20vR2VvVHJ1c3RSU0FDQTIwMTguY3JsMHUGCCsGAQUFBwEBBGkwZzAmBggrBgEFBQcwAYYaaHR0cDovL3N0YXR1cy5nZW90cnVzdC5jb20wPQYIKwYBBQUHMAKGMWh0dHA6Ly9jYWNlcnRzLmdlb3RydXN0LmNvbS9HZW9UcnVzdFJTQUNBMjAxOC5jcnQwDAYDVR0TAQH/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 request-method GET response-head HTTP/2 200 
+x-clv-request-id: 950a526e-33f6-4923-8170-e5caf3d34d43
+server: Cleversafe
+x-clv-s3-version: 2.5
+accept-ranges: bytes
+x-amz-request-id: 950a526e-33f6-4923-8170-e5caf3d34d43
+etag: "ea5a7a389a503118761e7553ac0f2de5"
+content-type: application/json
+last-modified: Fri, 27 Sep 2024 17:15:57 GMT
+content-length: 104364
+cache-control: max-age=900
+expires: Mon, 30 Sep 2024 13:11:21 GMT
+date: Mon, 30 Sep 2024 12:56:21 GMT
+strict-transport-security: max-age=2592000
+access-control-allow-origin: *
+X-Firefox-Spdy: h2
+ original-response-headers x-clv-request-id: 950a526e-33f6-4923-8170-e5caf3d34d43
+server: Cleversafe
+x-clv-s3-version: 2.5
+accept-ranges: bytes
+x-amz-request-id: 950a526e-33f6-4923-8170-e5caf3d34d43
+etag: "ea5a7a389a503118761e7553ac0f2de5"
+content-type: application/json
+last-modified: Fri, 27 Sep 2024 17:15:57 GMT
+content-length: 104364
+cache-control: max-age=900
+expires: Mon, 30 Sep 2024 13:11:21 GMT
+date: Mon, 30 Sep 2024 12:56:21 GMT
+strict-transport-security: max-age=2592000
+access-control-allow-origin: *
+X-Firefox-Spdy: h2
+ ctid 1 net-response-time-onstart 160 net-response-time-onstop 162  ��

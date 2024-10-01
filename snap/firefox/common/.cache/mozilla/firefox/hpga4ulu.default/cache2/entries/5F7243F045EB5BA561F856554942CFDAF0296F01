@@ -1,0 +1,554 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="fr" lang="fr" dir="ltr">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<!---->
+<title>[résolu] question sur la commande cd / Terminal, scripts et ligne de commande / Forum Ubuntu-fr.org</title>
+      
+    <link rel="shortcut icon" href="//www-static.ubuntu-fr.org/theme2010/images/commun/ubuntu/icone.png"/>
+          <link rel="stylesheet" media="screen" type="text/css" title="Design Ubuntu" href="//www-static.ubuntu-fr.org/theme2010/css/forum.css" />
+    <link rel="stylesheet" media="screen" type="text/css" title="Design Ubuntu" href="//www-static.ubuntu-fr.org/theme2010/css/forum-ubuntu.css" />
+
+
+
+
+
+<link rel="stylesheet" type="text/css" href="style/Ubuntu.css" />
+    <script type="text/javascript" src="//www-static.ubuntu-fr.org/theme2010/js/common.js"></script> 
+    <script type="text/javascript">
+    var menu_hidden=0;
+    </script>
+    <script type="text/javascript" src="//www-static.ubuntu-fr.org/theme2010/js/menu.js"></script>
+  
+<!--[if lte IE 6]><script type="text/javascript" src="style/imports/minmax.js"></script><![endif]-->
+<link rel="canonical" href="viewtopic.php?id=1427741" title="Page 1" />
+</head>
+
+<body>
+  <div id="accessibar">
+    <a href="#main" tabindex="1">Contenu</a> | <a href="#qsearch__in" tabindex="2">Rechercher</a> | <a href="#navigation" tabindex="3">Menus</a>
+  </div>
+  <div id="punviewtopic">
+    <div id="page">
+
+      <div id="header">
+        <div id="logo">
+          <h1>Ubuntu-fr</h1>
+          <a href="http://www.ubuntu-fr.org" title="Accueil">Communauté francophone d'utilisateurs d'Ubuntu</a>
+        </div>
+
+        <form action="search_ubuntufr.php" id="search">
+          <fieldset>
+            <input type="text" value="Recherche rapide...." id="qsearch__in" accesskey="f" name="q" title="[F]" size="34" />
+            <select name="tsearch">
+              <option value="wiki">Documentation</option>
+              <option  value="forum" selected="selected">Forum</option>
+              <option  value="planet" >Planet</option>
+            </select>
+            <input type="submit" value="ok" class="button" title="Chercher" />
+          </fieldset>
+        </form>
+
+        <div id="brdwelcome" class="inbox">
+			<form action="login.php?action=in" accept-charset="utf-8" id="login_top" method="post"><fieldset>
+  <input type="hidden" name="form_sent" value="1" />
+<input type="hidden" name="redirect_url" value="//forum.ubuntu-fr.org/viewtopic.php?id=1427741" />
+<input type="text" placeholder="Identifiant" required="required" title="Entrez votre identifiant" name="req_username" size="9" /><input type="password" placeholder="Mot de passe" required="required" title="Entrez votre mot de passe" name="req_password" size="9" /><input type="submit" value="connexion" id="connect" /> / <a href="register.php">inscription</a></fieldset></form>
+			<div class="clearer"></div>
+		</div>
+ 
+        <div class="clearer"></div>
+      </div>
+
+      <div id="navigation">
+        <ul>
+          <li class="menu"><a id="menu-accueil" class="title" href="http://www.ubuntu-fr.org"><span>Accueil</span></a></li>
+          <li class="menu"><a id="menu-doc" class="title" href="http://doc.ubuntu-fr.org" title="Documentation Ubuntu francophone"><span>Documentation</span></a></li>
+          <li class="menu" id="active" >
+            <a id="menu-forum" class="title" href="index.php" title="Index du forum"><span>Forum</span></a>
+            <ul>
+              <li class="cat">
+                <h2>Navigation</h2>
+                <div class="inbox">
+			<ul>
+				<li id="navrules"><a href="misc.php?action=rules" title="Charte du Forum Ubuntu-fr">Règles</a></li>
+				<li id="navregister"><a href="register.php">Inscription</a></li>
+				<li id="navlogin"><a href="login.php">Identification</a></li>
+			</ul>
+		</div>
+              </li>
+              
+		<li class="cat"><h2>Liens de recherche</h2>
+		<div id="brdmenu" class="inbox">
+			<ul>
+				<li><a href="search.php?action=show_24h" title="300 dernières discussions actives">Messages récents</a></li>
+				<li><a href="search.php?action=show_unanswered" title="300 dernières discussions sans réponse">Discussions sans réponse</a></li>
+			</ul>
+		</div></li>
+	
+            </ul>
+          </li>
+          <li class="menu"><a id="menu-planet" class="title" href="http://planet.ubuntu-fr.org"><span>Planet</span></a></li>
+        </ul>
+        <div class="clearer"></div>
+      </div>
+    
+      <div id="wrapper">
+        <div id="announce" class="block">
+	<div class="hd"><h2><span>Annonce</span></h2></div>
+	<div class="box">
+		<div id="announce-block" class="inbox">
+			<div class="usercontent"><p>Si vous avez des soucis pour rester connecté, déconnectez-vous puis reconnectez-vous depuis <a href='https://forum.ubuntu-fr.org/login.php'>ce lien</a> en cochant la case <br/>Me connecter automatiquement lors de mes prochaines visites.</p><p><a href='https://doc.ubuntu-fr.org/groupes/ubuntu-fr-forum'>À propos de l'équipe du forum.</a></p></div>
+		</div>
+	</div>
+</div>
+        <div id="main">
+          <div id="hidemenu" title="Masquer le menu"></div><!--
+	<div id="hidemenu"><a accesskey="z" title="Masquer le menu - AccessKey Z" href="javascript:switchMenuVisible()"><span>&nbsp;</span></a></div>-->
+          <div class="linkst">
+	<div class="inbox crumbsplus">
+		<ul class="crumbs">
+				<li><a href="http://www.ubuntu-fr.org" name="Accueil">Accueil</a></li>
+				<li><span>»&#160;</span><a href="index.php">Forum</a></li>
+				<li><span>»&#160;</span><a href="viewforum.php?id=78">Terminal, scripts et ligne de commande</a></li>
+				<li><span>»&#160;</span><strong><a href="viewtopic.php?id=1427741">[résolu] question sur la commande cd</a></strong></li>
+		</ul>
+		<div class="pagepost">
+			<p class="pagelink conl"><span class="pages-label">Pages&#160;: </span><strong class="item1">1</strong></p>
+		</div>
+		<div class="clearer"></div>
+	</div>
+</div>
+
+<div id="p15240471" class="blockpost rowodd firstpost blockpost1">
+	<h2><span><span class="conr">#1</span> <a href="viewtopic.php?pid=15240471#p15240471">Le 18/11/2013, à 17:59</a></span></h2>
+	<div class="box">
+		<div class="inbox">
+			<div class="postbody">
+				<div class="postleft">
+					<dl>
+						<dt><strong>compte supprimé</strong></dt>
+											</dl>
+				</div>
+				<div class="postright">
+					<h3>[résolu] question sur la commande cd</h3>
+					<div class="postmsg">
+						<p>Bonjour à tous, je suis complètement débutante,<br />quelqu&#039;un pourrait-il m&#039;expliquer ceci:<br />Selon la documentation du site, si j&#039;ai bien compris (il y a des doutes), dans le terminal, on devrait pourvoir taper cd et le nom d&#039;un répertoire ou le nom d&#039;un répertoire.<br />Or quand je saisis cela le prompt répond:<br />bash: (reprise de ma commande): Aucun fichier ou dossier de ce type <br />Il s&#039;agit pourtant d&#039;un dossier que j&#039;ai créé avec libre office. <br />Il donne la même réponse pour la commande cd Desktop<br />Pourtant j&#039;ai bien un Bureau!<br />Quelle différence y a-t-il d&#039;ailleurs entre une répertoire; un dossier; et un document?<br />Merci beaucoup</p>
+						<p class="postedit"><em>Dernière modification par Nathalie D&#039;urso (Le 20/11/2013, à 22:01)</em></p>
+					</div>
+				</div>
+			</div>
+		</div>
+		<div class="inbox">
+			<div class="postfoot clearb">
+				<div class="postfootleft"></div>
+			</div>
+		</div>
+	</div>
+</div>
+
+<div id="p15240641" class="blockpost roweven">
+	<h2><span><span class="conr">#2</span> <a href="viewtopic.php?pid=15240641#p15240641">Le 18/11/2013, à 18:22</a></span></h2>
+	<div class="box">
+		<div class="inbox">
+			<div class="postbody">
+				<div class="postleft">
+					<dl>
+						<dt><strong>Nasman</strong></dt>
+												<dd class="postavatar"><img src="http://forum.ubuntu-fr.org/img/avatars/58702.gif?m=1310129730" width="60" height="60" alt="" /></dd>
+					</dl>
+				</div>
+				<div class="postright">
+					<h3>Re&#160;: [résolu] question sur la commande cd</h3>
+					<div class="postmsg">
+						<p>Selon les versions plus ou moins francisées tu peux avoir un Desktop ou un Bureau</p><p>Si tu débutes, il te faux savoir que la commande cd recherche dans le répertoire courant. Au début c&#039;est dans ton répertoire personnel qui a pour arborescence /home/ton_login<br />Ce répertoire personnel peut apparaitre sous la forme de ~ (tilde) et correspond donc à /home/ton_login<br />Ainsi si tu fais</p><div class="codebox"><pre><code>cd Bureau</code></pre></div><p>Tu va retrouver un prompt de la forme :<br />ton-login@ta_machine:~/Bureau<br />ce qui équivaut à :<br />ton-login@ta_machine:/home/ton-login/Bureau</p><p>Pour revenir en arrière dans l&#039;arborescence tu fais un cd .. (avec un espace entre cd et ..)<br />Pout aller dans l&#039;arborescence tu peux <br />soit utiliser un chemin relatif (par rapport au répertoire actuel) par exemple avec la commande </p><div class="codebox"><pre><code>cd Bureau</code></pre></div><p>soit utiliser un chemin absolu (à partir de la racine) comme</p><div class="codebox"><pre><code>cd /home/ton-login/Bureau</code></pre></div><p>Sous les dérivés d&#039;unix, tout est fichier, même le matériel. Ainsi /dev/sda1 correspond à la première partition de ton disque dur mais tu devra accéder aux fichiers qu&#039;elle contient en créant un point de montage comme /media/mes_belles_données<br />Le point de montage fait la liaison entre le matériel (par /dev/sda1) et l&#039;arborescence logique (/media/mes_belles_données) en précisant au passage le système de fichier de la partition (ext4, fat32, ntfs...)</p>
+					</div>
+					<div class="postsignature postmsg"><hr /><p>PC fixe sous Bionic 64 bits et portable avec Focal 64 bits</p></div>
+				</div>
+			</div>
+		</div>
+		<div class="inbox">
+			<div class="postfoot clearb">
+				<div class="postfootleft"><p><span>Hors ligne</span></p></div>
+			</div>
+		</div>
+	</div>
+</div>
+
+<div id="p15240871" class="blockpost rowodd">
+	<h2><span><span class="conr">#3</span> <a href="viewtopic.php?pid=15240871#p15240871">Le 18/11/2013, à 18:56</a></span></h2>
+	<div class="box">
+		<div class="inbox">
+			<div class="postbody">
+				<div class="postleft">
+					<dl>
+						<dt><strong>pingouinux</strong></dt>
+												<dd class="postavatar"><img src="http://forum.ubuntu-fr.org/img/avatars/337601.gif?m=1423657160" width="60" height="59" alt="" /></dd>
+					</dl>
+				</div>
+				<div class="postright">
+					<h3>Re&#160;: [résolu] question sur la commande cd</h3>
+					<div class="postmsg">
+						<p>Bonjour,</p><div class="quotebox"><cite>Nathalie D&#039;urso a écrit&#160;:</cite><blockquote><div><p>Quelle différence y a-t-il d&#039;ailleurs entre une répertoire; un dossier; et un document?</p></div></blockquote></div><p>Un répertoire et un dossier sont la même chose. Un document est généralement un fichier (document Libre Office, par exemple), mais on peut aussi avoir un répertoire qui s&#039;appelle &quot;Documents&quot; (un nom comme un autre).</p>
+					</div>
+				</div>
+			</div>
+		</div>
+		<div class="inbox">
+			<div class="postfoot clearb">
+				<div class="postfootleft"><p><span>Hors ligne</span></p></div>
+			</div>
+		</div>
+	</div>
+</div>
+
+<div id="p15241071" class="blockpost roweven">
+	<h2><span><span class="conr">#4</span> <a href="viewtopic.php?pid=15241071#p15241071">Le 18/11/2013, à 19:13</a></span></h2>
+	<div class="box">
+		<div class="inbox">
+			<div class="postbody">
+				<div class="postleft">
+					<dl>
+						<dt><strong>gigiair</strong></dt>
+												<dd class="postavatar"><img src="http://forum.ubuntu-fr.org/img/avatars/6378.png?m=1594232926" width="50" height="60" alt="" /></dd>
+					</dl>
+				</div>
+				<div class="postright">
+					<h3>Re&#160;: [résolu] question sur la commande cd</h3>
+					<div class="postmsg">
+						<div class="quotebox"><cite>Nathalie D&#039;urso a écrit&#160;:</cite><blockquote><div><p>Bonjour à tous, je suis complètement débutante,<br />quelqu&#039;un pourrait-il m&#039;expliquer ceci:<br />Selon la documentation du site, si j&#039;ai bien compris (il y a des doutes), dans le terminal, on devrait pourvoir taper cd et le nom d&#039;un répertoire ou le nom d&#039;un répertoire.<br />Or quand je saisis cela le prompt répond:<br />bash: (reprise de ma commande): Aucun fichier ou dossier de ce type <br />Il s&#039;agit pourtant d&#039;un dossier que j&#039;ai créé avec libre office. <br />Il donne la même réponse pour la commande cd Desktop<br />Pourtant j&#039;ai bien un Bureau!<br />Quelle différence y a-t-il d&#039;ailleurs entre une répertoire; un dossier; et un document?<br />Merci beaucoup</p></div></blockquote></div><p>Ce qui est très pratique quand on veut taper une commande, c&#039;est l&#039;auto-complétion.<br />C&#039;est commandé par la touche de tabulation (touche marquée Tab avec deux flèches horizontales en sens inverse appuyées sur une barre verticale)<br />Le moyen de s&#039;en servir :<br />On commence à taper une entrée et on appuie sur la touche de tabulation ( j&#039;indique ici par [TAB] car ce caractère ne s&#039;affiche pas)<br />Par exemple </p><div class="codebox"><pre><code>cd D[TAB] </code></pre></div><p>et le système complète par les entrées commençant par <em>D</em></p><div class="codebox"><pre><code>ubntjjr@lise:~$ cd D
+Desktop/         Documents/       Documents-jsphn/ Dropbox/</code></pre></div><p>Je vois que chez moi, il y a quatre entrées possibles, je complète par <em>e</em>, puis [TAB] et <em>cd Desktop</em> s&#039;affiche.<br />Il faut le faire systématiquement, même si l&#039;on connaît (ou on pense connaître) l&#039;orthographe parfaitement. De cette façon on évite les fautes d&#039;orthographe (ou de casse).<br />Bonus, si on commence la commande par </p><div class="codebox"><pre><code>cd [TAB][TAB]</code></pre></div><p> toutes les entrées possibles s&#039;affichent. Pratique quand on n&#039;a pas d&#039;idée, mais parfois la liste est longue...</p><p>Un répertoire ou un dossier, c&#039;est pareil, c&#039;est une entrée dans une table qui conduit à d&#039;autres entrées. Pour savoir qu&#039;une entrée est un répertoire, il suffit de demander sa description par la commande<em> ls -l </em></p><div class="codebox"><pre><code>ls  -l | grep Desktop
+drwxr-xr-x  2 ubntjjr ubntjjr       4096 juil. 19 12:45 Desktop</code></pre></div><p>la commande grep Desktop précédée du caractère <em>pipe</em> | agit comme un filtre qui ne laisse passer que les lignes qui contiennent Desktop. Bien pratique pour sélectionner les lignes que l&#039;on veut examiner.<br />dans une entrée «ordinaire» le <em>d</em> est remplacé par un tiret -</p>
+					</div>
+					<div class="postsignature postmsg"><hr /><p>-- <br />JJR.</p></div>
+				</div>
+			</div>
+		</div>
+		<div class="inbox">
+			<div class="postfoot clearb">
+				<div class="postfootleft"><p><span>Hors ligne</span></p></div>
+			</div>
+		</div>
+	</div>
+</div>
+
+<div id="p15245751" class="blockpost rowodd">
+	<h2><span><span class="conr">#5</span> <a href="viewtopic.php?pid=15245751#p15245751">Le 19/11/2013, à 09:23</a></span></h2>
+	<div class="box">
+		<div class="inbox">
+			<div class="postbody">
+				<div class="postleft">
+					<dl>
+						<dt><strong>compte supprimé</strong></dt>
+											</dl>
+				</div>
+				<div class="postright">
+					<h3>Re&#160;: [résolu] question sur la commande cd</h3>
+					<div class="postmsg">
+						<p>Bonjour, et merci Nasman, Nasman, et GiGiair,<br />Je reprends vos réponses, donc d&#039;abord celles de Nasman. <br />Après : cd Bureau<br />J&#039;ai bien : mon-login@ma_machine:~/Bureau<br />De même pour revenir en arrière avec cd ..</p><p>Mais je ne comprends bien (je veux dire je ne comprends pas en comparaison à la représentation graphique) ce qu&#039;est le &quot;répertoire courant&quot;, dans l&#039;arborescence par rapport /dev/sda1 (???). Je vais sûrement vous faire rire par cette question, à quelle &quot;fenêtre&quot; (pour se représenter les choses) correspond le répertoire courant? <br />Je ne sais pas faire ce que tu appelles &quot;un point de montage&quot;. Ou puis-je apprendre? Et je n&#039;ai pas compris si on peut indiquer un fichier créé par ses soins et rangé sur le bureau, ou/et une image téléchargée et rangés dans Images. En fait, je suivais le tutoriel de Madrzejewski, et dans la première vidéo sur les lignes de commandes on peut voir qu&#039;il peut référer, avec cd, un des documents qu&#039;il a créé: il fait [...@... : $ cd Tuto-console] et il a en retour le prompt suivant : [...@... : ~/Tuto-console$. <br />Mais chez moi cela donne si je tape le nom d&#039;un document que j&#039;ai créé, par exemple [...@... : cd cours-vidéo-html];<br />la réponse : bash: cd: cours-video-html: Aucun fichier ou dossier de ce type. <br />Est-ce parce que je n&#039;ai pas créé de point de montage ? Est-ce en rapport à ce que tu expliques, Nasman, parce qu&#039;il faut préciser &quot;le système de fichier&quot;? Merci, mais où apprendre ce qu&#039;il faut pour comprendre tous les termes techniques que tu emploies dans le dernier paragraphe de ta réponse très intéressante?</p><p>En tout cas j&#039;ai essayé de faire comme Gigiair :cd D [tab]<br />J&#039;ai eu : Documents/&#160; Dropbox/<br />J&#039;ai complété par r [tab]<br />J&#039;ai eu : ...@... : ~$ cd Dropbox/<br />puis ls -l<br />Et il m&#039;a sorti 216 fichiers et à la suite de sa réponse un prompt qui se termine par : Dropbox$<br />Et là je n&#039;ose pas taper quoi que ce soit de peur de faire n&#039;importe quoi. Pour revenir en arrière et essayer avec Documents. J&#039;ai cliquer sur la croix pour fermer!</p><p>Bref, où peut-on apprendre quand on est vraiment nul(le)? J&#039;ai bien essayer de trouver un tuteur, comme indiqué sur l&#039;une des pages du site, il y a quelques semaines, mais personne n&#039;a encore répondu? <br />Merci encore à vous, je me sens un peu moins perdue!!</p>
+					</div>
+				</div>
+			</div>
+		</div>
+		<div class="inbox">
+			<div class="postfoot clearb">
+				<div class="postfootleft"></div>
+			</div>
+		</div>
+	</div>
+</div>
+
+<div id="p15245961" class="blockpost roweven">
+	<h2><span><span class="conr">#6</span> <a href="viewtopic.php?pid=15245961#p15245961">Le 19/11/2013, à 09:48</a></span></h2>
+	<div class="box">
+		<div class="inbox">
+			<div class="postbody">
+				<div class="postleft">
+					<dl>
+						<dt><strong>pingouinux</strong></dt>
+												<dd class="postavatar"><img src="http://forum.ubuntu-fr.org/img/avatars/337601.gif?m=1423657160" width="60" height="59" alt="" /></dd>
+					</dl>
+				</div>
+				<div class="postright">
+					<h3>Re&#160;: [résolu] question sur la commande cd</h3>
+					<div class="postmsg">
+						<p>Le répertoire courant est celui dans lequel tu te trouves, et que te montre ton invite de commande. Tu peux aussi le visualiser avec cette commande</p><div class="codebox"><pre><code>pwd</code></pre></div><p>Après la commande</p><div class="codebox"><pre><code>cd</code></pre></div><p>ton répertoire courant est ton home (<strong>/home/ton_nom</strong>). Si ensuite tu fais</p><div class="codebox"><pre><code>cd Documents</code></pre></div><p>ton répertoire courant devient <strong>/home/ton_nom/Documents</strong><br />Après</p><div class="codebox"><pre><code>cd Dropbox</code></pre></div><p>il devient <strong>/home/ton_nom/Documents/Dropbox</strong>, et il te suffit de faire</p><div class="codebox"><pre><code>cd ..</code></pre></div><p>pour remonter d&#039;un cran.</p>
+					</div>
+				</div>
+			</div>
+		</div>
+		<div class="inbox">
+			<div class="postfoot clearb">
+				<div class="postfootleft"><p><span>Hors ligne</span></p></div>
+			</div>
+		</div>
+	</div>
+</div>
+
+<div id="p15246061" class="blockpost rowodd">
+	<h2><span><span class="conr">#7</span> <a href="viewtopic.php?pid=15246061#p15246061">Le 19/11/2013, à 10:00</a></span></h2>
+	<div class="box">
+		<div class="inbox">
+			<div class="postbody">
+				<div class="postleft">
+					<dl>
+						<dt><strong>Nasman</strong></dt>
+												<dd class="postavatar"><img src="http://forum.ubuntu-fr.org/img/avatars/58702.gif?m=1310129730" width="60" height="60" alt="" /></dd>
+					</dl>
+				</div>
+				<div class="postright">
+					<h3>Re&#160;: [résolu] question sur la commande cd</h3>
+					<div class="postmsg">
+						<p>Le prompt <br />Dropbox$ <br />signifie que le répertoire courant est Dropbox (et donc que ta commande cd a bien fonctionné) et le $ signifie que tu as les privilèges d&#039;un utilisateur courant (un # au cas ou tu aurais été connecté en mode administrateur, le compte &quot;root&quot;)</p><p>Si tu veux accéder à un fichier &quot;truc.txt&quot; stocké sur ton bureau (donc dans /home/ton_login/Bureau/truc.txt - ou dans ~/Bureau/truc.txt) il faudra indiquer ce chemin. Tu peux y arriver de plusieurs façons :<br />- de façon directe en passant la commande (donc en restant dans le répertoire d&#039;origine)</p><div class="codebox"><pre><code>gedit /home/ton_login/Bureau/truc.txt</code></pre></div><p>(ou gedit ~/Bureau/truc.txt)</p><p>ou en te plaçant dans le répertoire dans lequel se trouve ton fichier</p><div class="codebox"><pre><code>cd Bureau</code></pre></div><p>le prompt devient&#160; mon_login@ma_machine:~/Bureau$<br />puis en passant la commande concernant ton fichier</p><div class="codebox"><pre><code>gedit truc.txt</code></pre></div><p>La différence sera que lorsque tu auras fermé ton fichier (gedit est un éditeur de texte), dans le premier cas ton répertoire courant sera ~ et dans le deuxième cas ce sera ~/Bureau<br />Tu verras la différence avec la commande </p><div class="codebox"><pre><code>ls</code></pre></div><p>qui affiche le contenu du répertoire.</p><p>Dans le deuxième cas tu peux revenir en arrière (retourner dans le dossier parent en faisant un</p><div class="codebox"><pre><code>cd ..</code></pre></div><p>(le prompt sera ton_login@ta_machine:~</p><p>de nouveau un</p><div class="codebox"><pre><code>cd ..</code></pre></div><p>renverra <br />ton_login@ta_machine:/home<br />(puisque ~ équivaut à /home/ton_login et que /home est le dossier parent de /home/ton_login)</p><p>un nouveau </p><div class="codebox"><pre><code>cd ..</code></pre></div><p> donnera ton_login@ta_machine:/<br />qui est la racine de ta machine (&quot;dossier&quot; qui contient tout, même ce qui est dans d&#039;autres partitions)</p><br /><p>Nota : lors de l&#039;installation on recommande souvent de créer une partition dédiée à /home, ceci veux dire que bien que /home apparaisse comme un sous répertoire de la racine (le /), les données physiques ne sont pas dans la même partition que le système (qui contient d&#039;autres sous répertoires comme /etc ou /lib). L&#039;interrêt est que l&#039;on peut facilement réinstaller tout le système (par exemple si on a &quot;tout cassé&quot;) sans toucher à ses précieuses données (qui sont dans /home mais dans une partition ou un disque différent).<br />Tu auras par exemple la première partition /dev/sda1 qui contiendra le système &quot;monté&quot; dans / et la deuxième partition /dev/sda2 contenant tes données montée dans /home</p><p>Plus d&#039;infos ici<br /><a href="http://doc.ubuntu-fr.org/tutoriel/console_commandes_de_base" rel="nofollow">ici</a></p>
+					</div>
+					<div class="postsignature postmsg"><hr /><p>PC fixe sous Bionic 64 bits et portable avec Focal 64 bits</p></div>
+				</div>
+			</div>
+		</div>
+		<div class="inbox">
+			<div class="postfoot clearb">
+				<div class="postfootleft"><p><span>Hors ligne</span></p></div>
+			</div>
+		</div>
+	</div>
+</div>
+
+<div id="p15246121" class="blockpost roweven">
+	<h2><span><span class="conr">#8</span> <a href="viewtopic.php?pid=15246121#p15246121">Le 19/11/2013, à 10:06</a></span></h2>
+	<div class="box">
+		<div class="inbox">
+			<div class="postbody">
+				<div class="postleft">
+					<dl>
+						<dt><strong>serged</strong></dt>
+												<dd class="postavatar"><img src="http://forum.ubuntu-fr.org/img/avatars/66574.png?m=1310129731" width="60" height="60" alt="" /></dd>
+					</dl>
+				</div>
+				<div class="postright">
+					<h3>Re&#160;: [résolu] question sur la commande cd</h3>
+					<div class="postmsg">
+						<div class="quotebox"><cite>Nathalie D&#039;urso a écrit&#160;:</cite><blockquote><div><p>Bonjour, et merci Nasman, Nasman, et GiGiair,<br />Je reprends vos réponses, donc d&#039;abord celles de Nasman. <br />Après : cd Bureau<br />J&#039;ai bien : mon-login@ma_machine:~/Bureau<br />De même pour revenir en arrière avec cd ..</p><p>Mais je ne comprends bien (je veux dire je ne comprends pas en comparaison à la représentation graphique) ce qu&#039;est le &quot;répertoire courant&quot;, dans l&#039;arborescence par rapport /dev/sda1 (???). Je vais sûrement vous faire rire par cette question, à quelle &quot;fenêtre&quot; (pour se représenter les choses) correspond le répertoire courant?</p></div></blockquote></div><p>/dev/sda1 est la partition physique de ton disque, cad ton disque vu comme un périphérique. Notons que /dev est bien un répertoire (spécial), et sda1 un fichier (spécial également).</p><div class="quotebox"><cite>Nathalie D&#039;urso a écrit&#160;:</cite><blockquote><div><p>Je ne sais pas faire ce que tu appelles &quot;un point de montage&quot;.</p></div></blockquote></div><p>Un &quot;point de montage&quot; est, dans l&#039;arborescence des répertoires, là où est situé un disque (en fait une partition) particulier. Contrairement à Windows qui nomme les disques par des lettres (A:, C:, D:...). Voir sur Wikipédia <a href="https://fr.wikipedia.org/wiki/Point_de_montage" rel="nofollow">Point de montage</a>. (Note: Windows peut aussi utiliser le montage dans des répertoires, mais c&#039;est marginal).</p><div class="quotebox"><cite>Nathalie D&#039;urso a écrit&#160;:</cite><blockquote><div><p>[...]<br />En tout cas j&#039;ai essayé de faire comme Gigiair :cd D [tab]<br />J&#039;ai eu : Documents/&#160; Dropbox/<br />J&#039;ai complété par r [tab]<br />J&#039;ai eu : ...@... : ~$ cd Dropbox/<br />puis ls -l<br />Et il m&#039;a sorti 216 fichiers et à la suite de sa réponse un prompt qui se termine par : Dropbox$</p></div></blockquote></div><p>Il a suggéré le répertoire commençant par &quot;Dr&quot;, soit &quot;Dropbox&quot;. Tu as confirmé et il a bêtement listé le contenu du répertoire Dropbox. (je supose que tu as installé Dropbox et que tu as &quot;rempli&quot; ta Dropbox avec des fichiers....)</p><div class="quotebox"><cite>Nathalie D&#039;urso a écrit&#160;:</cite><blockquote><div><p>Et là je n&#039;ose pas taper quoi que ce soit de peur de faire n&#039;importe quoi. Pour revenir en arrière et essayer avec Documents. J&#039;ai cliquer sur la croix pour fermer!</p></div></blockquote></div><p>Faillait faire :</p><div class="codebox"><pre><code>cd ..
+cd Documents</code></pre></div><p>Ou en une seule ligne :</p><div class="codebox"><pre><code>cd ../Documents</code></pre></div><p>(en utilisant ou non les tabulations...)</p><div class="quotebox"><cite>Nathalie D&#039;urso a écrit&#160;:</cite><blockquote><div><p>Bref, où peut-on apprendre quand on est vraiment nul(le)? J&#039;ai bien essayer de trouver un tuteur, comme indiqué sur l&#039;une des pages du site, il y a quelques semaines, mais personne n&#039;a encore répondu? <br />Merci encore à vous, je me sens un peu moins perdue!!</p></div></blockquote></div><p>Tu peux consulter le fil épinglé en début de ce forum <a href="http://forum.ubuntu-fr.org/viewtopic.php?id=337260" rel="nofollow">Documentations à consulter avant toute question</a>, qui donne des liens vers des tutoriels.</p>
+					</div>
+					<div class="postsignature postmsg"><hr /><p>LinuxMint Vera Cinnamon et d&#039;autres machines en MATE, XFCE... 20.x , 21.x ou 19.x<br />Tour : Asus F2A55 / AMD A8-5600K APU 3,6GHz / RAM 16Go / Nvidia GeForce GT610 / LM21.1 Cinnamon<br />Portable : LDLC Mercure MH : Celeron N3450 /RAM 4Go / Intel HD graphics 500 i915 / biboot Win 10 (sur SSD) - LM21.1 MATE (sur HDD)</p></div>
+				</div>
+			</div>
+		</div>
+		<div class="inbox">
+			<div class="postfoot clearb">
+				<div class="postfootleft"><p><span>Hors ligne</span></p></div>
+			</div>
+		</div>
+	</div>
+</div>
+
+<div id="p15257871" class="blockpost rowodd">
+	<h2><span><span class="conr">#9</span> <a href="viewtopic.php?pid=15257871#p15257871">Le 20/11/2013, à 12:30</a></span></h2>
+	<div class="box">
+		<div class="inbox">
+			<div class="postbody">
+				<div class="postleft">
+					<dl>
+						<dt><strong>jplemoine</strong></dt>
+											</dl>
+				</div>
+				<div class="postright">
+					<h3>Re&#160;: [résolu] question sur la commande cd</h3>
+					<div class="postmsg">
+						<div class="quotebox"><cite>Nathalie D&#039;urso a écrit&#160;:</cite><blockquote><div><p>Bref, où peut-on apprendre quand on est vraiment nul(le)? J&#039;ai bien essayer de trouver un tuteur, comme indiqué sur l&#039;une des pages du site, il y a quelques semaines, mais personne n&#039;a encore répondu? <br />Merci encore à vous, je me sens un peu moins perdue!!</p></div></blockquote></div><p>Bonjour, peut-être y a-t-il un GUL(L) près de chez toi ? (Groupement d&#039;Utilisateurs de Linux / Groupement d&#039;Utilisateurs de Logiciels Libres).<br />Là, tu pourras sûrement y trouver de l&#039;aide.</p>
+						<p class="postedit"><em>Dernière modification par jplemoine (Le 20/11/2013, à 12:30)</em></p>
+					</div>
+					<div class="postsignature postmsg"><hr /><p><span class="bbs"><em>Membre de l&#039;<a href="http://aldil.org/" rel="nofollow">ALDIL</a> (Association Lyonnaise pour le Développement de l&#039;Informatique Libre)<br />- En pro, après 20 ans de développement, administrateur Linux / Unix depuis Avril 2019.<br />- En privé, sous Ubuntu-Xubuntu depuis 2009.</em></span><br />Déconnecté jusqu’à nouvel ordre</p></div>
+				</div>
+			</div>
+		</div>
+		<div class="inbox">
+			<div class="postfoot clearb">
+				<div class="postfootleft"><p><span>Hors ligne</span></p></div>
+			</div>
+		</div>
+	</div>
+</div>
+
+<div id="p15258251" class="blockpost roweven">
+	<h2><span><span class="conr">#10</span> <a href="viewtopic.php?pid=15258251#p15258251">Le 20/11/2013, à 13:06</a></span></h2>
+	<div class="box">
+		<div class="inbox">
+			<div class="postbody">
+				<div class="postleft">
+					<dl>
+						<dt><strong>compte supprimé</strong></dt>
+											</dl>
+				</div>
+				<div class="postright">
+					<h3>Re&#160;: [résolu] question sur la commande cd</h3>
+					<div class="postmsg">
+						<p>Merci, je vais me renseigner sur les GUL.<br />Oui j&#039;ai trouver des tutoriels sur /dev/sda1 dont parlait Nasman, sur les Partitions, sur MBR et sur EBR.<br />Du coup cela va beaucoup mieux, grand merci à vous tous!!</p>
+					</div>
+				</div>
+			</div>
+		</div>
+		<div class="inbox">
+			<div class="postfoot clearb">
+				<div class="postfootleft"></div>
+			</div>
+		</div>
+	</div>
+</div>
+
+<div class="postlinksb">
+	<div class="inbox crumbsplus">
+		<div class="pagepost">
+			<p class="pagelink conl"><span class="pages-label">Pages&#160;: </span><strong class="item1">1</strong></p>
+		</div>
+		<ul class="crumbs">
+			<li><a href="index.php">Forum</a></li>
+			<li><span>»&#160;</span><a href="viewforum.php?id=78">Terminal, scripts et ligne de commande</a></li>
+			<li><span>»&#160;</span><strong><a href="viewtopic.php?id=1427741">[résolu] question sur la commande cd</a></strong></li>
+		</ul>
+		<div class="clearer"></div>
+	</div>
+</div>
+        </div>
+
+        <div id="footer">
+          <div id="brdfooter" class="block">
+	<h2><span>Pied de page des forums</span></h2>
+	<div class="box">
+		<div id="brdfooternav" class="inbox">
+			<div class="conl">
+				<form id="qjump" method="get" action="viewforum.php">
+					<div><label><span>Atteindre<br /></span>
+					<select name="id" onchange="window.location=('viewforum.php?id='+this.options[this.selectedIndex].value)">
+						<optgroup label="Débuter avec Ubuntu">
+							<option value="9">Questions et informations avant l&#039;installation</option>
+							<option value="10">Installation d&#039;Ubuntu</option>
+						</optgroup>
+						<optgroup label="Configuration matérielle">
+							<option value="27">Affichage et cartes graphiques</option>
+							<option value="16">Accès internet et réseaux</option>
+							<option value="79">Imprimantes et scanners</option>
+							<option value="6">Autres types de matériel</option>
+						</optgroup>
+						<optgroup label="Utilisation générale">
+							<option value="25">Installation de logiciels et changements de version</option>
+							<option value="13">Bureautique et logiciels pour l&#039;internet et le réseau</option>
+							<option value="17">Lecture et configuration multimédia</option>
+							<option value="81">Création graphique, musicale et vidéo</option>
+							<option value="40">Logiciels éducatifs</option>
+							<option value="15">Jeux</option>
+							<option value="78" selected="selected">Terminal, scripts et ligne de commande</option>
+							<option value="65">Accessibilité</option>
+							<option value="18">Autres logiciels et problèmes généraux</option>
+							<option value="5">Archives</option>
+						</optgroup>
+						<optgroup label="Environnements">
+							<option value="121">GNOME</option>
+							<option value="66">KDE/Plasma</option>
+							<option value="38">XFCE</option>
+							<option value="101">LXQt / LXDE</option>
+							<option value="201">Mate</option>
+							<option value="204">Budgie</option>
+							<option value="37">Unity</option>
+							<option value="207">Cinnamon</option>
+							<option value="41">Autres environnements et personnalisations d&#039;Ubuntu</option>
+						</optgroup>
+						<optgroup label="Utilisations avancées">
+							<option value="51">Ubuntu en entreprise</option>
+							<option value="28">Serveurs</option>
+							<option value="63">Virtualisation et émulation</option>
+							<option value="23">Trucs, astuces et scripts utiles</option>
+							<option value="35">Développement et programmation</option>
+							<option value="91">Sécurité</option>
+							<option value="206">WSL - Ubuntu Core</option>
+							<option value="131">Ubuntu Touch (smartphones et tablettes)</option>
+							<option value="53">Version instable : 24.10 Oracular Oriole</option>
+						</optgroup>
+						<optgroup label="Activités autour du libre">
+							<option value="29">Événements</option>
+							<option value="69">Vos développements libres</option>
+							<option value="71">Vos sites sur le libre</option>
+							<option value="73">Revendeurs libres</option>
+						</optgroup>
+						<optgroup label="Divers">
+							<option value="42">Actualités autour du logiciel libre</option>
+							<option value="21">À propos du site - Contribution(s)</option>
+							<option value="171">Café Ubuntu</option>
+						</optgroup>
+						<optgroup label="Sous-forums">
+							<option value="22">LiveCD/LiveUSB</option>
+							<option value="7">Archives</option>
+							<option value="205">NAS</option>
+							<option value="181">Être ou ne pas être…?</option>
+							<option value="111">Gnome2</option>
+							<option value="82">WiFi</option>
+							<option value="61">Wubi : installation dans Windows</option>
+							<option value="4">Archive version instable</option>
+							<option value="20">Autres architectures</option>
+						</optgroup>
+					</select></label>
+					<input type="submit" value="Aller" accesskey="g" />
+					</div>
+				</form>
+			</div>
+			<div class="conr">
+				<p id="poweredby">Propulsé par <a href="http://fluxbb.org/">FluxBB</a></p>
+			</div>
+			<div class="clearer"></div>
+		</div>
+	</div>
+</div>
+          <div class="end-box"><div><!-- Bottom corners --></div></div>
+        </div>
+      </div>
+
+	    <div class="block-inner">
+
+        <div class="content">
+          <ul class="menu"><li class="leaf first contact"><a href="http://www.ubuntu-fr.org/contacts">Contact</a></li>
+          </ul>
+        </div>
+
+        <div class="clearer"></div>
+      </div>
+    </div>
+  </div>
+  <!-- Inclusion du script pour les stats de Sp4rKy -->
+  <!-- Piwik -->
+<script type="text/javascript">
+  var _paq = _paq || [];
+  _paq.push(["setDomains", ["*.forum.ubuntu-fr.org","*.forum.ubuntu-fr.org"]]);
+  _paq.push(['trackPageView']);
+  _paq.push(['enableLinkTracking']);
+  (function() {
+    var u="//piwik.ubuntu-fr.org/";
+    _paq.push(['setTrackerUrl', u+'piwik.php']);
+    _paq.push(['setSiteId', 2]);
+    var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+    g.type='text/javascript'; g.async=true; g.defer=true; g.src=u+'piwik.js'; s.parentNode.insertBefore(g,s);
+  })();
+</script>
+<noscript><p><img src="//piwik.ubuntu-fr.org/piwik.php?idsite=2" style="border:0;" alt="" /></p></noscript>
+<!-- End Piwik Code -->
+
+</body>
+</html>
+���%�           f��EGaV/f��(   `    O^partitionKey=%28https%2Cubuntu-fr.org%29,:https://forum.ubuntu-fr.org/viewtopic.php?id=1427741 strongly-framed 1 security-info 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 request-method GET request-Cookie Hnv14cNh4vKylWtzlptrGqk+1Mc= response-head HTTP/1.1 200 OK
+Server: nginx/1.14.2
+Date: Mon, 30 Sep 2024 17:04:40 GMT
+Content-Type: text/html; charset=utf-8
+Cache-Control: public, max-age=0, s-maxage=300
+Vary: Cookie
+X-Frame-Options: deny
+Strict-Transport-Security: max-age=31536000; includeSubdomains
+ original-response-headers Server: nginx/1.14.2
+Date: Mon, 30 Sep 2024 17:04:40 GMT
+Content-Type: text/html; charset=utf-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+Cache-Control: public, max-age=0, s-maxage=300
+Vary: Cookie
+X-Frame-Options: deny
+Strict-Transport-Security: max-age=31536000; includeSubdomains
+ ctid 1 uncompressed-len 0   ��

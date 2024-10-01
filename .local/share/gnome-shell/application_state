@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<application-state>
+  <context id="">
+    <application id="org.gnome.Evince.desktop" score="887" last-seen="1727769517"/>
+    <application id="org.gnome.Settings.desktop" score="126" last-seen="1727718764"/>
+    <application id="gnome-language-selector.desktop" score="0" last-seen="1727710599"/>
+    <application id="firefox_firefox.desktop" score="6768" last-seen="1727769578"/>
+    <application id="org.gnome.Terminal.desktop" score="2214" last-seen="1727769566"/>
+    <application id="libreoffice-writer.desktop" score="3" last-seen="1727726144"/>
+    <application id="org.gnome.Nautilus.desktop" score="46" last-seen="1727721948"/>
+    <application id="yelp.desktop" score="1" last-seen="1727724166"/>
+    <application id="gnome-initial-setup.desktop" score="5" last-seen="1727378791"/>
+    <application id="org.wireshark.Wireshark.desktop" score="0" last-seen="1727681010"/>
+    <application id="update-manager.desktop" score="1" last-seen="1727393570"/>
+    <application id="apport-gtk.desktop" score="1" last-seen="1727378768"/>
+  </context>
+</application-state>

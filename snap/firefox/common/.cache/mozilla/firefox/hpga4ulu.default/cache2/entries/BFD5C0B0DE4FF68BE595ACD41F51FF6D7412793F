@@ -1,0 +1,260 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="fr" lang="fr" dir="ltr">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<!---->
+<meta name="ROBOTS" content="NOINDEX, FOLLOW" />
+<title>Info / Forum Ubuntu-fr.org</title>
+      
+    <link rel="shortcut icon" href="//www-static.ubuntu-fr.org/theme2010/images/commun/ubuntu/icone.png"/>
+          <link rel="stylesheet" media="screen" type="text/css" title="Design Ubuntu" href="//www-static.ubuntu-fr.org/theme2010/css/forum.css" />
+    <link rel="stylesheet" media="screen" type="text/css" title="Design Ubuntu" href="//www-static.ubuntu-fr.org/theme2010/css/forum-ubuntu.css" />
+
+
+
+
+
+<link rel="stylesheet" type="text/css" href="style/Ubuntu.css" />
+    <script type="text/javascript" src="//www-static.ubuntu-fr.org/theme2010/js/common.js"></script> 
+    <script type="text/javascript">
+    var menu_hidden=0;
+    </script>
+    <script type="text/javascript" src="//www-static.ubuntu-fr.org/theme2010/js/menu.js"></script>
+  
+<!--[if lte IE 6]><script type="text/javascript" src="style/imports/minmax.js"></script><![endif]-->
+</head>
+
+<body>
+  <div id="accessibar">
+    <a href="#main" tabindex="1">Contenu</a> | <a href="#qsearch__in" tabindex="2">Rechercher</a> | <a href="#navigation" tabindex="3">Menus</a>
+  </div>
+  <div id="punregister">
+    <div id="page">
+
+      <div id="header">
+        <div id="logo">
+          <h1>Ubuntu-fr</h1>
+          <a href="http://www.ubuntu-fr.org" title="Accueil">Communauté francophone d'utilisateurs d'Ubuntu</a>
+        </div>
+
+        <form action="search_ubuntufr.php" id="search">
+          <fieldset>
+            <input type="text" value="Recherche rapide...." id="qsearch__in" accesskey="f" name="q" title="[F]" size="34" />
+            <select name="tsearch">
+              <option value="wiki">Documentation</option>
+              <option  value="forum" selected="selected">Forum</option>
+              <option  value="planet" >Planet</option>
+            </select>
+            <input type="submit" value="ok" class="button" title="Chercher" />
+          </fieldset>
+        </form>
+
+        <div id="brdwelcome" class="inbox">
+			<form action="login.php?action=in" accept-charset="utf-8" id="login_top" method="post"><fieldset>
+  <input type="hidden" name="form_sent" value="1" />
+<input type="hidden" name="redirect_url" value="//forum.ubuntu-fr.org/register.php?action=register" />
+<input type="text" placeholder="Identifiant" required="required" title="Entrez votre identifiant" name="req_username" size="9" /><input type="password" placeholder="Mot de passe" required="required" title="Entrez votre mot de passe" name="req_password" size="9" /><input type="submit" value="connexion" id="connect" /> / <a href="register.php">inscription</a></fieldset></form>
+			<div class="clearer"></div>
+		</div>
+ 
+        <div class="clearer"></div>
+      </div>
+
+      <div id="navigation">
+        <ul>
+          <li class="menu"><a id="menu-accueil" class="title" href="http://www.ubuntu-fr.org"><span>Accueil</span></a></li>
+          <li class="menu"><a id="menu-doc" class="title" href="http://doc.ubuntu-fr.org" title="Documentation Ubuntu francophone"><span>Documentation</span></a></li>
+          <li class="menu" id="active" >
+            <a id="menu-forum" class="title" href="index.php" title="Index du forum"><span>Forum</span></a>
+            <ul>
+              <li class="cat">
+                <h2>Navigation</h2>
+                <div class="inbox">
+			<ul>
+				<li id="navrules"><a href="misc.php?action=rules" title="Charte du Forum Ubuntu-fr">Règles</a></li>
+				<li id="navregister"><a href="register.php">Inscription</a></li>
+				<li id="navlogin"><a href="login.php">Identification</a></li>
+			</ul>
+		</div>
+              </li>
+              
+		<li class="cat"><h2>Liens de recherche</h2>
+		<div id="brdmenu" class="inbox">
+			<ul>
+				<li><a href="search.php?action=show_24h" title="300 dernières discussions actives">Messages récents</a></li>
+				<li><a href="search.php?action=show_unanswered" title="300 dernières discussions sans réponse">Discussions sans réponse</a></li>
+			</ul>
+		</div></li>
+	
+            </ul>
+          </li>
+          <li class="menu"><a id="menu-planet" class="title" href="http://planet.ubuntu-fr.org"><span>Planet</span></a></li>
+        </ul>
+        <div class="clearer"></div>
+      </div>
+    
+      <div id="wrapper">
+        <div id="announce" class="block">
+	<div class="hd"><h2><span>Annonce</span></h2></div>
+	<div class="box">
+		<div id="announce-block" class="inbox">
+			<div class="usercontent"><p>Si vous avez des soucis pour rester connecté, déconnectez-vous puis reconnectez-vous depuis <a href='https://forum.ubuntu-fr.org/login.php'>ce lien</a> en cochant la case <br/>Me connecter automatiquement lors de mes prochaines visites.</p><p><a href='https://doc.ubuntu-fr.org/groupes/ubuntu-fr-forum'>À propos de l'équipe du forum.</a></p></div>
+		</div>
+	</div>
+</div>
+        <div id="main">
+          <div id="hidemenu" title="Masquer le menu"></div><!--
+	<div id="hidemenu"><a accesskey="z" title="Masquer le menu - AccessKey Z" href="javascript:switchMenuVisible()"><span>&nbsp;</span></a></div>-->
+          <div id="navbar">
+</div>
+<div id="msg" class="block">
+	<h2><span>Info</span></h2>
+	<div class="box">
+		<div class="inbox">
+			<p>Merci de vous être inscrit(e). Votre mot de passe a été envoyé à l'adresse indiquée. Si vous ne l'obtenez pas, merci de contacter l'administrateur&#160;: <a href="mailto:forum_admin-fr@listes.ubuntu-fr.org">forum_admin-fr@listes.ubuntu-fr.org</a>.</p>
+		</div>
+	</div>
+</div>
+        </div>
+
+        <div id="footer">
+          <div id="brdfooter" class="block">
+	<h2><span>Pied de page des forums</span></h2>
+	<div class="box">
+		<div id="brdfooternav" class="inbox">
+			<div class="conl">
+				<form id="qjump" method="get" action="viewforum.php">
+					<div><label><span>Atteindre<br /></span>
+					<select name="id" onchange="window.location=('viewforum.php?id='+this.options[this.selectedIndex].value)">
+						<optgroup label="Débuter avec Ubuntu">
+							<option value="9">Questions et informations avant l&#039;installation</option>
+							<option value="10">Installation d&#039;Ubuntu</option>
+						</optgroup>
+						<optgroup label="Configuration matérielle">
+							<option value="27">Affichage et cartes graphiques</option>
+							<option value="16">Accès internet et réseaux</option>
+							<option value="79">Imprimantes et scanners</option>
+							<option value="6">Autres types de matériel</option>
+						</optgroup>
+						<optgroup label="Utilisation générale">
+							<option value="25">Installation de logiciels et changements de version</option>
+							<option value="13">Bureautique et logiciels pour l&#039;internet et le réseau</option>
+							<option value="17">Lecture et configuration multimédia</option>
+							<option value="81">Création graphique, musicale et vidéo</option>
+							<option value="40">Logiciels éducatifs</option>
+							<option value="15">Jeux</option>
+							<option value="78">Terminal, scripts et ligne de commande</option>
+							<option value="65">Accessibilité</option>
+							<option value="18">Autres logiciels et problèmes généraux</option>
+							<option value="5">Archives</option>
+						</optgroup>
+						<optgroup label="Environnements">
+							<option value="121">GNOME</option>
+							<option value="66">KDE/Plasma</option>
+							<option value="38">XFCE</option>
+							<option value="101">LXQt / LXDE</option>
+							<option value="201">Mate</option>
+							<option value="204">Budgie</option>
+							<option value="37">Unity</option>
+							<option value="207">Cinnamon</option>
+							<option value="41">Autres environnements et personnalisations d&#039;Ubuntu</option>
+						</optgroup>
+						<optgroup label="Utilisations avancées">
+							<option value="51">Ubuntu en entreprise</option>
+							<option value="28">Serveurs</option>
+							<option value="63">Virtualisation et émulation</option>
+							<option value="23">Trucs, astuces et scripts utiles</option>
+							<option value="35">Développement et programmation</option>
+							<option value="91">Sécurité</option>
+							<option value="206">WSL - Ubuntu Core</option>
+							<option value="131">Ubuntu Touch (smartphones et tablettes)</option>
+							<option value="53">Version instable : 24.10 Oracular Oriole</option>
+						</optgroup>
+						<optgroup label="Activités autour du libre">
+							<option value="29">Événements</option>
+							<option value="69">Vos développements libres</option>
+							<option value="71">Vos sites sur le libre</option>
+							<option value="73">Revendeurs libres</option>
+						</optgroup>
+						<optgroup label="Divers">
+							<option value="42">Actualités autour du logiciel libre</option>
+							<option value="21">À propos du site - Contribution(s)</option>
+							<option value="171">Café Ubuntu</option>
+						</optgroup>
+						<optgroup label="Sous-forums">
+							<option value="22">LiveCD/LiveUSB</option>
+							<option value="7">Archives</option>
+							<option value="205">NAS</option>
+							<option value="181">Être ou ne pas être…?</option>
+							<option value="111">Gnome2</option>
+							<option value="82">WiFi</option>
+							<option value="61">Wubi : installation dans Windows</option>
+							<option value="4">Archive version instable</option>
+							<option value="20">Autres architectures</option>
+						</optgroup>
+					</select></label>
+					<input type="submit" value="Aller" accesskey="g" />
+					</div>
+				</form>
+			</div>
+			<div class="conr">
+				<p id="poweredby">Propulsé par <a href="http://fluxbb.org/">FluxBB</a></p>
+			</div>
+			<div class="clearer"></div>
+		</div>
+	</div>
+</div>
+          <div class="end-box"><div><!-- Bottom corners --></div></div>
+        </div>
+      </div>
+
+	    <div class="block-inner">
+
+        <div class="content">
+          <ul class="menu"><li class="leaf first contact"><a href="http://www.ubuntu-fr.org/contacts">Contact</a></li>
+          </ul>
+        </div>
+
+        <div class="clearer"></div>
+      </div>
+    </div>
+  </div>
+  <!-- Inclusion du script pour les stats de Sp4rKy -->
+  <!-- Piwik -->
+<script type="text/javascript">
+  var _paq = _paq || [];
+  _paq.push(["setDomains", ["*.forum.ubuntu-fr.org","*.forum.ubuntu-fr.org"]]);
+  _paq.push(['trackPageView']);
+  _paq.push(['enableLinkTracking']);
+  (function() {
+    var u="//piwik.ubuntu-fr.org/";
+    _paq.push(['setTrackerUrl', u+'piwik.php']);
+    _paq.push(['setSiteId', 2]);
+    var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+    g.type='text/javascript'; g.async=true; g.defer=true; g.src=u+'piwik.js'; s.parentNode.insertBefore(g,s);
+  })();
+</script>
+<noscript><p><img src="//piwik.ubuntu-fr.org/piwik.php?idsite=2" style="border:0;" alt="" /></p></noscript>
+<!-- End Piwik Code -->
+
+</body>
+</html>
+���)��      f�ښf�ڜGaV~f�ڜ   p    O^partitionKey=%28https%2Cubuntu-fr.org%29,~1727713639,:https://forum.ubuntu-fr.org/register.php?action=register necko:classified 1 strongly-framed 1 security-info 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 request-method POST request-Cookie muUezFop3idnMWObtT4Nblrji4w= response-head HTTP/1.1 200 OK
+Server: nginx/1.14.2
+Date: Mon, 30 Sep 2024 17:06:36 GMT
+Content-Type: text/html; charset=utf-8
+Cache-Control: public, max-age=0, s-maxage=300
+Vary: Cookie
+X-Frame-Options: deny
+Strict-Transport-Security: max-age=31536000; includeSubdomains
+ original-response-headers Server: nginx/1.14.2
+Date: Mon, 30 Sep 2024 17:06:36 GMT
+Content-Type: text/html; charset=utf-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+Cache-Control: public, max-age=0, s-maxage=300
+Vary: Cookie
+X-Frame-Options: deny
+Strict-Transport-Security: max-age=31536000; includeSubdomains
+ ctid 1 uncompressed-len 0 net-response-time-onstart 1742 net-response-time-onstop 1756   +

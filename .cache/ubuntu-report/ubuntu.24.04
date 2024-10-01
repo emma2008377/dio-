@@ -1,0 +1,81 @@
+{
+  "Version": "24.04",
+  "OEM": {
+    "Vendor": "HP",
+    "Product": "HP ProBook 450 15.6 inch G10 Notebook PC",
+    "Family": "103C_5336AN HP ProBook"
+  },
+  "BIOS": {
+    "Vendor": "HP",
+    "Version": "V72 Ver. 01.05.05"
+  },
+  "Arch": "amd64",
+  "HwCap": "x86-64-v3",
+  "GPU": [
+    {
+      "Vendor": "8086",
+      "Model": "a721"
+    }
+  ],
+  "RAM": 16,
+  "Partitions": [
+    200.5,
+    0.1
+  ],
+  "Screens": [
+    {
+      "Size": "340mmx190mm",
+      "Resolution": "1920x1080",
+      "Frequency": "59.96"
+    }
+  ],
+  "Autologin": false,
+  "LivePatch": false,
+  "Session": {
+    "DE": "ubuntu:GNOME",
+    "Name": "ubuntu",
+    "Type": "wayland"
+  },
+  "Language": "fr_FR",
+  "Timezone": "Africa/Porto-Novo",
+  "Install": {
+    "Type": "Flutter",
+    "OEM": false,
+    "Media": "Ubuntu 24.04.1 LTS",
+    "Stages": {
+      "0": "loading",
+      "1": "locale",
+      "6": "accessibility",
+      "12": "keyboard",
+      "22": "network",
+      "32": "tryOrInstall",
+      "34": "autoinstall",
+      "41": "sourceSelection",
+      "47": "codecsAndDrivers",
+      "54": "codecsAndDrivers",
+      "64": "storage",
+      "74": "identity",
+      "140": "keyboard",
+      "191": "accessibility",
+      "192": "keyboard",
+      "193": "network",
+      "202": "network",
+      "204": "tryOrInstall",
+      "205": "autoinstall",
+      "206": "sourceSelection",
+      "211": "sourceSelection",
+      "212": "codecsAndDrivers",
+      "213": "storage",
+      "214": "identity",
+      "244": "timezone",
+      "254": "confirm",
+      "257": "install",
+      "482": "done"
+    },
+    "Language": "fr",
+    "Minimal": false,
+    "RestrictedAddons": false,
+    "PartitionMethod": "resize_use_free",
+    "UseActiveDirectory": false
+  }
+}
