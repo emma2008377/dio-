@@ -283,3 +283,8 @@ git status
 git add
 git add .
 git status
+git add
+git add .
+git status
+git commit -m "Initial commit"
+git push -u origin master

@@ -1,1 +1,2 @@
-{"timestamp":48003347,"category":"browser.usage","name":"interaction","extra":{"widget_id":"tabs-newtab-button","source":"tabs-bar","glean_timestamp":"1727769398696","flow_id":"{cd0544c7-2f97-494e-94b5-9c2210428b56}"},"execution_counter":15}
+{"timestamp":48512034,"category":"browser.usage","name":"interaction","extra":{"source":"nav-bar","widget_id":"stop-reload-button","flow_id":"{bd039b55-1fb4-4df4-922b-a2a327ab0811}","glean_timestamp":"1727769907384"},"execution_counter":15}
+{"timestamp":48540521,"category":"browser.usage","name":"interaction","extra":{"widget_id":"back-button","source":"nav-bar","glean_timestamp":"1727769935870","flow_id":"{bd039b55-1fb4-4df4-922b-a2a327ab0811}"},"execution_counter":15}
